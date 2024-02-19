@@ -1,0 +1,57 @@
+[
+    {
+        "role": "owner",
+        "name": "Electro",
+        "link": "https://twitter.com/PoweredByElectr"
+    },
+    {
+        "role": "owner",
+        "name": "Whacka",
+        "link": "https://www.youtube.com/@whacka2871"
+    },
+    {
+        "role": "owner",
+        "name": "Willow",
+        "link": "https://www.youtube.com/@WillowGD"
+    },
+     {
+        "role": "admin",
+        "name": "SoftMuffin76",
+        "link": "https://www.youtube.com/@SoftMuffin76"
+    },
+    {
+        "role": "trial",
+        "name": "Bobbyp02",
+        "link": "https://www.youtube.com/@gdbobbyp0236"
+    },
+     {
+        "role": "trial",
+        "name": "SEDTHEPRODIGY",
+        "link": "https://www.youtube.com/@sedtheprodigy8643"
+    },
+        {
+        "role": "trial",
+        "name": "spectryl",
+        "link": "https://www.youtube.com/@loveSpectral"
+    },
+    {
+        "role": "helper",
+        "name": "Kubus",
+        "link": "https://www.youtube.com/@jacobyt664"
+    },
+    {
+        "role": "helper",
+        "name": "Robaleg9",
+        "link": "https://www.youtube.com/@robaleg9792"
+    },
+    {
+        "role": "helper",
+        "name": "tomm",
+        "link": "https://youtube.com/@tommGMD"
+    },
+    {
+        "role": "dev",
+        "name": "SkeletalVirus",
+        "link": "https://www.youtube.com/@skeletalvirus656"
+    }
+]
