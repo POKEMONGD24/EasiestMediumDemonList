@@ -15,9 +15,7 @@ const scale = 3;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
-    if (rank > 150) {
-        return 0;
-    }
+
 
     let score = ((-0.939597315 * (rank)) + 150.939597315) * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
