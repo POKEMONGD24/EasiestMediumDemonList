@@ -15,9 +15,9 @@ const scale = 3;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
+    
 
-
-    let score = ((-0.939597315 * (rank)) + 150.939597315) * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    let score = a=(maxpoints + 100) * sqrt(b)
 
     score = Math.max(0, score);
 
