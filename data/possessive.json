@@ -1,22 +1,22 @@
 {
-    "id": 159,
-    "name": "Level Name",
-    "author": "Level Publisher",
+    "id": 115585522,
+    "name": "POSSESSIVE",
+    "author": "kwoob",
     "creators": [],
-    "verifier": "Level Verifier",
-    "verification": "Verification Video",
+    "verifier": "kwoob",
+    "verification": "https://www.youtube.com/watch?v=XguHNz8drMQ",
     "percentToQualify": 100,
     "password": "No Copy",
     "records": [
         {
             "user": "Record Holder 1",
-            "link": "Record Link",
+            "link": "https://www.youtube.com/watch?v=XguHNz8drMQ",
             "percent": 100,
             "hz": 360
         },
         {
             "user": "Record Holder 2",
-            "link": "Record Link",
+            "link": "https://www.youtube.com/watch?v=XguHNz8drMQ",
             "percent": 100,
             "hz": 360
         }
