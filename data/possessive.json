@@ -10,13 +10,11 @@
     "records": [
         {
             "user": "POKEMON GD",
-            "link": "X",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Yoshi",
-            "link": "X",
             "percent": 100,
             "hz": 60
         }
