@@ -1,6 +1,14 @@
 [
     {
         "role": "owner",
+        "name": "POKEMON GD",
+        "link": "https://www.youtube.com/@POKEMONGD"
+        
+        "role": "owner",
+        "name": "Acek_58",
+        "link": "https://youtube.com/@Ace"
+        
+        "role": "developer",
         "name": "tomm",
         "link": "https://youtube.com/@tommGMD"
     }
