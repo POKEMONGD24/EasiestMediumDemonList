@@ -7,5 +7,13 @@
     "verification": "https://youtu.be/UByOGxvyFlA?si=5ROnczM7r290-Lxw",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records": []
+    "records": [
+
+        {
+            "user": "POKEMON GD",
+            "link": "X",
+            "percent": 100,
+            "hz": 60
+        }        
+    ]
 }
