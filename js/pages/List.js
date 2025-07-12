@@ -99,22 +99,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                      <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
-                    </p>
-                    <p>
-                        Switching FPS in the middle of the completion will invalidate your submission (even if it is to avoid a bug)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to however many fps)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Clicks or Taps are preferred, however, they are not necessary for a record to be accepted
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless you're using cheat indicator, have clicks or the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Videos are not necessary for a record to be accepted
                     </p>
                     <p>
                         Do not use secret routes or bug routes
@@ -123,10 +114,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
-                     <p>
-                       Privating a video will result in the immediate removal of the associated record
+                        Once a level falls onto the Legacy List, we accept records for it for ever (this will be fun)
                     </p>
                 </div>
             </div>
