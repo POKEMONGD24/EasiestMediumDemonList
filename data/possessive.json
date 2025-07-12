@@ -10,15 +10,15 @@
     "records": [
         {
             "user": "POKEMON GD",
-            "link": "no",
+            "link": "X",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Record Holder 2",
-            "link": "https://www.youtube.com/watch?v=XguHNz8drMQ",
+            "user": "Yoshi",
+            "link": "X",
             "percent": 100,
-            "hz": 360
+            "hz": X
         }
     ]
 }
