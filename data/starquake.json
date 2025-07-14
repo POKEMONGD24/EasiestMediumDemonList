@@ -1,15 +1,14 @@
 {
-    "id": 89278986,
+    "id": 308891,
     "name": "StarQuake",
-    "author": "Flocab",
+    "author": "MasK463",
     "creators": [],
-    "verifier": "Flocab",
-    "verification": "https://youtu.be/VZKcskoDVc0?si=HW1UzBee9SkblZqJ",
+    "verifier": "MasK463",
+    "verification": "https://youtu.be/jH5NrMCcJpk?si=j_zgfrLx6w4wkcfZ",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Sir_Manface",
-            "link": "https://youtu.be/VZKcskoDVc0?si=HW1UzBee9SkblZqJ",
+            "user": "POKEMON GD"
             "percent": 100,
             "hz": 60
         }
