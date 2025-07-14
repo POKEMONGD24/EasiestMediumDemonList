@@ -1,14 +1,15 @@
 {
-    "id": 94986453,
+    "id": 89278986,
     "name": "Catharsis",
-    "author": "CorroX",
+    "author": "Flocab",
     "creators": [],
-    "verifier": "CorroX",
-    "verification": "https://youtu.be/3tDAiwgqm0Y?si=FcIxPTzmLgtn6bxW",
+    "verifier": "Flocab",
+    "verification": "https://youtu.be/VZKcskoDVc0?si=HW1UzBee9SkblZqJ",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "POKEMON GD",
+            "user": "Sir_Manface",
+            "link": "https://youtu.be/VZKcskoDVc0?si=HW1UzBee9SkblZqJ"
             "percent": 100,
             "hz": 60
         }
