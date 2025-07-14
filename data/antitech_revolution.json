@@ -1,14 +1,15 @@
 {
-    "id": 94986453,
+    "id": 99413870,
     "name": "Antitech Revolution",
-    "author": "CorroX",
+    "author": "V3XT3R",
     "creators": [],
-    "verifier": "CorroX",
-    "verification": "https://youtu.be/3tDAiwgqm0Y?si=FcIxPTzmLgtn6bxW",
+    "verifier": "V3XT3R",
+    "verification": "https://youtu.be/mVBnCUEJKBM?si=dhlpHPkos_lNKRwR",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "POKEMON GD",
+            "user": "Azulamazigh",
+            "link": "https://youtu.be/mVBnCUEJKBM?si=dhlpHPkos_lNKRwR",
             "percent": 100,
             "hz": 60
         }
