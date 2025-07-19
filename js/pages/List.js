@@ -130,12 +130,13 @@ export default {
         store,
     }),
 computed: {
-       evel() {
+       level() {
     if (!this.list || !this.list[this.selected]) {
         return {};  // lub null albo inna bezpieczna wartość
     }
     return this.list[this.selected][0];
 }
+},
     async mounted() {
         // Hide loading spinner
         this.list = await fetchList();
