@@ -6,16 +6,6 @@
     "verifier": "Serponge",
     "verification": "https://youtu.be/wxMfpaivBfg?si=VKcLhkkfC3z44rbu",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "POKEMON GD",
-            "percent": 100,
-            "hz": 60
-        }
-        {
-            "user": "Mooncraft",
-            "percent": 100,
-            "hz": 60
-        }               
+    "records": [  
     ]
 }
