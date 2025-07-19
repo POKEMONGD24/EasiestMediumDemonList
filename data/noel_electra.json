@@ -10,8 +10,13 @@
         {
             "user": "POKEMON GD",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
         }
-                
+        {
+            "user": "Mooncraft",
+            "percent": 100,
+            "hz": 60,
+        }
+                        
     ]
 }
