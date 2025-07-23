@@ -8,7 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Sir_Manface",
+            "user": "NormalJkb",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
