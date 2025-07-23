@@ -8,10 +8,30 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "POKEMON GD",
+            "user": "wassas1",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "scape167",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tomm",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "NormalJkb",
+            "percent": 100,
+            "hz": 60
+        }  
         
     ]
 }
