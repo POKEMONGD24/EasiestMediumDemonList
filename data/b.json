@@ -12,7 +12,6 @@
             "percent": 100,
             "hz": 60
         },
-
         {
             "user": "tomm",
             "percent": 100,
@@ -21,6 +20,56 @@
 
         {
             "user": "wassas1",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "scape167",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Soulbound",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Yoshi",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Angeb",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "FBITB",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CTRL Z",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sir_Manface",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "NormalJkb",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Azulamazigh",
             "percent": 100,
             "hz": 60
         }
