@@ -8,7 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "POKEMON GD",
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Yoshi",
             "percent": 100,
             "hz": 60
         }
