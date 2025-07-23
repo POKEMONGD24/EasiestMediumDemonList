@@ -8,10 +8,44 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "POKEMON GD",
+            "user": "wassas1",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Angeb",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DIUSED",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Acek_58",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Lox",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CTRL Z",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sir_Manface",
             "percent": 100,
             "hz": 60
         }
-        
     ]
 }
