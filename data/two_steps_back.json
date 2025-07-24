@@ -4,9 +4,14 @@
     "author": "X1RON",
     "creators": ["X1RON", "fJud"],
     "verifier": "X1RON",
-    "verification": "https://youtu.be/iKYXNFqXxpQ?si=-ZKOmNZj76cVUotV",
+    "verification": "https://youtu.be/sSFvOV2chFs?si=I7KxfP0T9UlKzflY",
     "percentToQualify": 100,
     "records": [
-        
+        {
+            "user": "Sheepyboy",
+            "link": "https://youtu.be/sSFvOV2chFs?si=I7KxfP0T9UlKzflY",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
