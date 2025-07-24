@@ -1,0 +1,16 @@
+{
+    "id": 96627999,
+    "name": "Stellar Test",
+    "author": "Sendent",
+    "creators": [],
+    "verifier": "Sendent",
+    "verification": "https://youtu.be/yuESAgpqXOs?si=13_aYjzh3OjRdhnP",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
