@@ -36,7 +36,12 @@
             "user": "Sir_Manface",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "scape167",
+            "percent": 100,
+            "hz": 60
+        }  
         
     ]
 }
