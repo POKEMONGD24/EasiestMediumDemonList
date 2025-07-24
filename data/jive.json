@@ -11,6 +11,21 @@
             "user": "POKEMON GD",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "tomm",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "frostytoes",
+            "percent": 100,
+            "hz": 60
+        }, 
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
