@@ -7,10 +7,5 @@
     "verification": "https://www.youtube.com/watch?v=JGQekTMqOW0",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "POKEMON GD",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
