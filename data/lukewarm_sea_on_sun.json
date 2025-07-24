@@ -1,14 +1,19 @@
 {
-    "id": 16321390,
+    "id": 76369220,
     "name": "lukewarm sea on sun",
-    "author": "dongchi",
-    "creators": [],
-    "verifier": "dongchi",
-    "verification": "https://youtu.be/UkR7xX7TN1U?si=JVWY0d4Fi9UtCwl_",
+    "author": "whiteoceanodor",
+    "creators": ["whiteoceanodor", "7ak"],
+    "verifier": "whiteoceanodor",
+    "verification": "https://youtu.be/9PkadsB_Bfw?si=VbAMOw03WLwuDcpX",
     "percentToQualify": 100,
     "records": [
         {
             "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
             "percent": 100,
             "hz": 60
         }
