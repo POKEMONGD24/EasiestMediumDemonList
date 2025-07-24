@@ -4,11 +4,16 @@
     "author": "SnowEye",
     "creators": ["SnowEye","Rawin","QuazerIceCube"],
     "verifier": "SnowEye",
-    "verification": "https://youtu.be/zpUwOIM3USY?si=b2LFIj0e_TeFk3qt",
+    "verification": "https://youtu.be/TQN_PlZ_8vw?si=R2pTsXHEVgSjpWyK",
     "percentToQualify": 100,
     "records": [
         {
             "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Azulamazigh",
             "percent": 100,
             "hz": 60
         }
