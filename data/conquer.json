@@ -1,16 +1,42 @@
 {
-    "id": 16321390,
+    "id": 96262991,
     "name": "CONQUER",
-    "author": "dongchi",
+    "author": "nothombium",
     "creators": [],
-    "verifier": "dongchi",
-    "verification": "https://youtu.be/UkR7xX7TN1U?si=JVWY0d4Fi9UtCwl_",
+    "verifier": "nothombium",
+    "verification": "https://youtu.be/_6NqlPhAWGc?si=HsPEmKY9cbUmgeOO",
     "percentToQualify": 100,
     "records": [
         {
             "user": "POKEMON GD",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "killswitch",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CTRL Z",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "StarfruitGamer",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Clood",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
         }
+        
     ]
 }
