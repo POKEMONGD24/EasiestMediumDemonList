@@ -8,7 +8,13 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "POKEMON GD",
+            "user": "tomm",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "https://youtu.be/yGZWqjE1Kj0?si=vUG8Je89ImwjfpzG",
             "percent": 100,
             "hz": 60
         }
