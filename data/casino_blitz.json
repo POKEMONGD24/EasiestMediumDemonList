@@ -37,7 +37,11 @@
             "link": "https://youtu.be/IUvhXUNeadA?si=m974NpC3HKrK31sM",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
         }
-        
     ]
 }
