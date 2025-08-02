@@ -16,6 +16,16 @@
             "user": "ZircleZ",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "CTRL Z",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "frostytoes",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
