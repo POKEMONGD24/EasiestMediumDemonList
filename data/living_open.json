@@ -46,6 +46,11 @@
             "user": "Arcadie",
             "percent": 100,
             "hz": 60
-        }        
+        },
+        {
+            "user": "Soulbound",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
