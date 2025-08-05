@@ -1,0 +1,16 @@
+{
+    "id": 159,
+    "name": "Just A Generic Level",
+    "author": "Blogde",
+    "creators": [],
+    "verifier": "Blogde",
+    "verification": "Verification Video",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
