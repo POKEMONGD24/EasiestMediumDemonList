@@ -1,14 +1,24 @@
 {
-    "id": 159,
+    "id": 104939118,
     "name": "Just A Generic Level",
     "author": "Blogde",
     "creators": [],
     "verifier": "Blogde",
-    "verification": "Verification Video",
+    "verification": "https://youtu.be/M5w7HK4K8oc?si=IIQpL4q0-Lo0ToQU",
     "percentToQualify": 100,
     "records": [
         {
             "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "vay",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "red",
             "percent": 100,
             "hz": 60
         }
