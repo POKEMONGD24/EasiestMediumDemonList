@@ -4,11 +4,26 @@
     "author": "Zaphii",
     "creators": [],
     "verifier": "Zaphii",
-    "verification": "Verification Video",
+    "verification": "https://youtu.be/FVKc5JdZ9-c?si=Q-Gm3_b5YW4dgVBZ",
     "percentToQualify": 100,
     "records": [
         {
             "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sir_Manface",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "scape167",
             "percent": 100,
             "hz": 60
         }
