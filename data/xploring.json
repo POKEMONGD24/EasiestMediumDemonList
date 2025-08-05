@@ -1,0 +1,16 @@
+{
+    "id": 159,
+    "name": "XPloring",
+    "author": "Level Publisher",
+    "creators": [],
+    "verifier": "Level Verifier",
+    "verification": "Verification Video",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
