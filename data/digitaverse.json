@@ -1,0 +1,17 @@
+{
+    "id": 159,
+    "name": "digitaverse",
+    "author": "Level Publisher",
+    "creators": [],
+    "verifier": "Level Verifier",
+    "verification": "Verification Video",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
