@@ -1,6 +1,6 @@
 {
     "id": 114368015,
-    "name": "THOSE WHO PHONK",
+    "name": "THOSE WHO PHONK (Easy Demon)",
     "author": "whlt",
     "creators": [],
     "verifier": "whlt",
@@ -9,6 +9,11 @@
     "records": [
         {
             "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
