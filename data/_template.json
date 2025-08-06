@@ -10,7 +10,7 @@
     "records": [
         {
             "user": "Record Holder 1",
-            "link": "Record Link",
+            "link": "Record Link", 
             "percent": 100,
             "hz": 360
         },
