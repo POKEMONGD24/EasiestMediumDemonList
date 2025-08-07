@@ -8,14 +8,14 @@ export function score(rank, percent, minPercent) {
         return 0
        }
 
-    let score = ((-24.9975 * (rank-1, 0.4)) + 200) * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    let score = ((-24.9975*Math.pow(rank-1, 0.4)) + 200) * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     score = Math.max(0, score);
 
     if (percent != 100) {
         return round(score - score / 3);
     }
 
-    return round(score);
+    return Math.max(round(score), 0);
 }
 
 export function round(num) {
