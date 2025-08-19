@@ -1,0 +1,21 @@
+{
+    "id": 123615714,
+    "name": "Safespaces",
+    "author": "FOXXD33",
+    "creators": [],
+    "verifier": "FOXXD33",
+    "verification": "https://youtu.be/odLFE-RN1XE?si=K1g0pxCUCKt_9DhC",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
