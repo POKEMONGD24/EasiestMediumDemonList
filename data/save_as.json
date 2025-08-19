@@ -1,0 +1,16 @@
+{
+    "id": 159,
+    "name": "SAVE AS",
+    "author": "PAHC",
+    "creators": [],
+    "verifier": "PAHC",
+    "verification": "https://youtu.be/4oBoz71jSiU?si=fEwBKj14uYWXs8wz",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
