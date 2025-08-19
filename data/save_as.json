@@ -1,5 +1,5 @@
 {
-    "id": 159,
+    "id": 62757869,
     "name": "SAVE AS",
     "author": "PAHC",
     "creators": [],
@@ -9,6 +9,16 @@
     "records": [
         {
             "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "NormalJkb",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CTRL Z",
             "percent": 100,
             "hz": 60
         }
