@@ -6,19 +6,17 @@
     "verifier": "Level Verifier",
     "verification": "Verification Video",
     "percentToQualify": 100,
-    "password": "No Copy",
     "records": [
         {
-            "user": "Record Holder 1",
-            "link": "Record Link", 
+            "user": "Record Holder 1", 
             "percent": 100,
-            "hz": 360
+            "hz": 60
         },
         {
             "user": "Record Holder 2",
             "link": "Record Link",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }
