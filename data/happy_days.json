@@ -1,1 +1,47 @@
-e
+{
+    "id": 159,
+    "name": "Happy Days",
+    "author": "OverZero",
+    "creators": [],
+    "verifier": "Allan GD",
+    "verification": "{
+    "id": 159,
+    "name": "Level Name",
+    "author": "Level Publisher",
+    "creators": [],
+    "verifier": "Level Verifier",
+    "verification": "https://youtu.be/GLHK4qC7Gms?si=cFdJkUMqj6dhMu6b",
+    "percentToQualify": 100
+    "records": [
+        {
+            "user": "DIUSED",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FBITB",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Yoshi",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sbeepyboy",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tomm",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Angeb",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
