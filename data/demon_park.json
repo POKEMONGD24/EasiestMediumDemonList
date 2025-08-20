@@ -1,0 +1,22 @@
+{
+    "id": 159,
+    "name": "DEMON PARK",
+    "author": "Level Publisher",
+    "creators": [],
+    "verifier": "Level Verifier",
+    "verification": "Verification Video",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Record Holder 2",
+            "link": "Record Link",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
