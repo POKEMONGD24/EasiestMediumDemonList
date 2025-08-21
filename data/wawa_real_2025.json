@@ -1,20 +1,19 @@
 {
-    "id": 1,
-    "name": "WAWA REAL 2025",
-    "author": "LevelPublisher",
+    "id": 114800930,
+    "name": "Wawa REEL 2025",
+    "author": "Subpixel",
     "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "verifier": "Subpixel",
+    "verification": "https://youtu.be/LdoZJhBFCLg?si=GQjcNyc4P-0y_oQi",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
