@@ -5,16 +5,25 @@
     "creators": [],
     "verifier": "JamAttack",
     "verification": "VerificationVideo",
+"desc": "Black N White" is a remake of "Black and White" by GDColon.
+The level presents a mostly-greyscale color scheme, with its visuals based on fast color switches, bright effects and flashing lights.
+The gameplay is very learny, however no real memory is present. Each part is very distinct and diverse, some with unusual tricks that may get the player off-guard. Practice is advised.
+
+*insert the average eplepsy warning*,
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "FrostSpark",
             "percent": 100,
             "hz": 60
         }
