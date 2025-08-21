@@ -1,0 +1,22 @@
+{
+    "id": 1,
+    "name": "Ready",
+    "author": "Lemons",
+    "creators": [],
+    "verifier": "Lemons",
+    "verification": "VerificationVideo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "RecordHolder1", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "RecordHolder2",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
