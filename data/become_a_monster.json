@@ -12,7 +12,6 @@
             "percent": 100,
             "hz": 60
         },
-        
         {
             "user": "wassas1",
             "percent": 100,
@@ -27,6 +26,11 @@
             "user": "WKGames",
             "percent": 100,
             "hz": 60
-        }            
+        },
+        {
+            "user": "Aurelien", 
+            "percent": 100,
+            "hz": 60
+        }          
     ]
 }
