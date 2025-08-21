@@ -1,14 +1,14 @@
 {
     "id": 1,
     "name": "grandfather",
-    "author": "Mangut",
+    "author": "mangut",
     "creators": [],
-    "verifier": "Mangut",
+    "verifier": "mangut",
     "verification": "VerificationVideo",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "Mangut", 
             "percent": 100,
             "hz": 60
         },
