@@ -13,7 +13,7 @@
             "hz": 60
         },
         {
-            "user": RecordHolder2",
+            "user": "RecordHolder2",
             "link": "RecordLink",
             "percent": 100,
             "hz": 60
