@@ -1,20 +1,20 @@
 {
-    "id": 159,
-    "name": "Level Name",
-    "author": "Level Publisher",
+    "id": 1,
+    "name": "LevelName",
+    "author": "LevelPublisher",
     "creators": [],
-    "verifier": "Level Verifier",
-    "verification": "Verification Video",
+    "verifier": "LevelVerifier",
+    "verification": "VerificationVideo",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Record Holder 1", 
+            "user": "RecordHolder1", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
+            "user": RecordHolder2",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         }
