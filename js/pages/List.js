@@ -55,6 +55,7 @@ export default {
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
 </ul>
+<p></p>
 <p class="description"> {{level.desc || "No description yet."}}</p>
                         
                     <h2>Records</h2>
