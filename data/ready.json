@@ -1,20 +1,24 @@
 {
-    "id": 1,
+    "id": 98266813,
     "name": "Ready",
     "author": "Lemons",
     "creators": [],
     "verifier": "Lemons",
-    "verification": "VerificationVideo",
+    "verification": "https://youtu.be/zsMqz497ynM?si=oqFFAP_7nX0W28qX",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DIUSED",
             "percent": 100,
             "hz": 60
         }
