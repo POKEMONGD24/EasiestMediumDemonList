@@ -1,20 +1,29 @@
 {
-    "id": 1,
+    "id": 1908735,
     "name": "Project J",
     "author": "Jax",
     "creators": [],
     "verifier": "Jax",
-    "verification": "VerificationVideo",
+    "verification": "https://youtu.be/dzqWLEb3AgM?si=c1bwSHp-d7DTkp0_",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Azulamazigh",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "FrostSpark",
             "percent": 100,
             "hz": 60
         }
