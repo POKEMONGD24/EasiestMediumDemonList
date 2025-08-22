@@ -1,0 +1,16 @@
+{
+    "id": 104151099,
+    "name": "Lucy",
+    "author": "Lyal",
+    "creators": [],
+    "verifier": "Lyal",
+    "verification": "https://youtu.be/LE5NLt7vKkk?si=2Gg3_3bNf6AQvOGe",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "thelonlyducky", 
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
