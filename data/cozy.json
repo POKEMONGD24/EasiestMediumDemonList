@@ -1,20 +1,19 @@
 {
-    "id": 1,
+    "id": 72753400,
     "name": "cozy",
-    "author": "LevelPublisher",
+    "author": "demoncrab",
     "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "verifier": "demoncrab",
+    "verification": "https://youtu.be/qcrxTQqY-5k?si=Hv_eEK0VgBYjdjeE",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ"
             "percent": 100,
             "hz": 60
         }
