@@ -1,20 +1,24 @@
 {
-    "id": 1,
+    "id": 89957200,
     "name": "Twilight",
     "author": "RealSmartish",
     "creators": [],
     "verifier": "RealSmartish",
-    "verification": "VerificationVideo",
+    "verification": "https://youtu.be/fR2tPifP5CQ?si=kuj_iqT8rioLT8W0",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "Acek_58",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
