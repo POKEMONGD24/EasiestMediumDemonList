@@ -1,0 +1,21 @@
+{
+    "id": 113780375,
+    "name": "Winterlude",
+    "author": "SleyGD",
+    "creators": ["Polarbeahr", "OliSW", "SleyGD", "Spark", "Drane", "Kiba", "Lagan", "Whirl"],
+    "verifier": "SleyGD",
+    "verification": "https://youtu.be/mvxBj4Nne6o?si=QIB26_PvnSFjGM4o",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ZircleZ", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
