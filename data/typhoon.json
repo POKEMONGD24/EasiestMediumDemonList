@@ -1,20 +1,24 @@
 {
-    "id": 1,
+    "id": 70854624,
     "name": "Typhoon",
-    "author": "LevelPublisher",
+    "author": NotMiki",
     "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "verifier": "NotMiki",
+    "verification": "https://youtu.be/K7JYdVM92D0?si=lkm-S2co_YwaRdyY",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "Acek_58", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "POKEMON GD",
             "percent": 100,
             "hz": 60
         }
