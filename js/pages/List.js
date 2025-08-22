@@ -55,7 +55,7 @@ export default {
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
 <li>
-<p class="description">${level.desc || "No description yet."}</p> </li>
+<p class="description"> {{level.desc || "No description yet."}}</p> </li>
                         </ul>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 150"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
