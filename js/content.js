@@ -171,23 +171,6 @@ export async function fetchLeaderboard() {
         ...entry
     }));
 
-
-    // Map user to their name
-    const nameMap = await fetchNameMap();
-    res = res.map((entry) => {
-        let user = entry.user;
-        let name = nameMap[user] || user;
-
-        return {
-            ...entry,
-            user: name
-        };
-    });
-
-    return [res, errs];
-
-}
-
 export async function fetchPacks() {
     try {
         const packResult = await fetch(`${dir}/_packlist.json`);
