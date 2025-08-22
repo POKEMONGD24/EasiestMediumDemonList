@@ -1,20 +1,19 @@
 {
-    "id": 1,
+    "id": 122563654,
     "name": "In Transmit",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "82wyatt",
+    "creators": ["MaxxoRMeN", "82wyatt"],
+    "verifier": "82wyatt",
+    "verification": "https://youtu.be/ZXOIWAfmE-U?si=mNxJsYuccsu3o1iY",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
