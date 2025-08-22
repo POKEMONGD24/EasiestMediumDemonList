@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 80020638,
     "name": "grandfather",
     "author": "mangut",
     "creators": [],
     "verifier": "mangut",
-    "verification": "VerificationVideo",
+    "verification": "https://youtu.be/CF4RgpMK2KA?si=brJqZyDxStDDLw_h",
     "percentToQualify": 100,
     "records": [
         {
@@ -13,8 +13,12 @@
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        }
+        {
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
