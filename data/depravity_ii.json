@@ -1,20 +1,19 @@
 {
-    "id": 1,
+    "id": 78134907,
     "name": "depravity ii",
-    "author": "LevelPublisher",
+    "author": "dydals000708",
     "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "verifier": "dydals000708",
+    "verification": "https://youtu.be/1wnQPVvxCYA?si=F4IA8gTZS36TU8_V",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
