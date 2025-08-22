@@ -1,20 +1,24 @@
 {
-    "id": 1,
-    "name": "chaos broadcast",
+    "id": 113021151,
+    "name": "Chaos Broadcast",
     "author": "xvia",
     "creators": [],
     "verifier": "xvia",
-    "verification": "VerificationVideo",
+    "verification": "https://youtu.be/FH3lYjtLMgQ?si=cpfYT3_vZio6ekQJ",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "lightning", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "POKEMON GD",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ", 
             "percent": 100,
             "hz": 60
         }
