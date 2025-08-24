@@ -1,0 +1,16 @@
+{
+    "id": 85695827,
+    "name": "Iodine",
+    "author": "Sr3k",
+    "creators": ["Sr3k", "Shrc"],
+    "verifier": "Sr3k",
+    "verification": "https://youtu.be/i1pxsyjj5wk?si=5v0U6POfcV4rakkI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
