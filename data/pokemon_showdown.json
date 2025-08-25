@@ -1,20 +1,19 @@
 {
-    "id": 1,
+    "id": 3430273,
     "name": "Pokemon Showdown",
     "author": "LevelPublisher",
     "creators": [],
     "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "verification": "https://youtu.be/0cxaegoUAAw?si=W54xMPsaqYOnCR_k",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
