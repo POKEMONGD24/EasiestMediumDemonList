@@ -1,10 +1,10 @@
 {
     "id": 1,
     "name": "Zone Out",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "Split72",
+    "creators": ["Split72", "wshedd"],
+    "verifier": "Split72",
+    "verification": "https://youtu.be/LaLvSphrFt0?si=eYtwL42l8uMiIA60",
     "percentToQualify": 100,
     "records": [
         {
@@ -13,8 +13,13 @@
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "Sheepyboy",
+            "link": "https://youtu.be/E8-Li7F9zX4?si=Rzk-FqHR9h3pO33d",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
