@@ -1,0 +1,41 @@
+{
+    "id": 56474020,
+    "name": "Pilot",
+    "author": "Jayuff",
+    "creators": [],
+    "verifier": "Jayuff",
+    "verification": "https://youtu.be/br3lIVaX8i8?si=p3nepomWFtvvobk8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Arcadie",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DIUSED",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Acek_58",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Kizibro7",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
