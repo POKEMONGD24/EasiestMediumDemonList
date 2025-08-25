@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "name": "Kelutral",
+    "author": "LevelPublisher",
+    "creators": [],
+    "verifier": "LevelVerifier",
+    "verification": "VerificationVideo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DIUSED",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
