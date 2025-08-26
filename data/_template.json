@@ -5,6 +5,7 @@
     "creators": [],
     "verifier": "LevelVerifier",
     "verification": "VerificationVideo",
+    "desc": "desc",
     "percentToQualify": 100,
     "records": [
         {
