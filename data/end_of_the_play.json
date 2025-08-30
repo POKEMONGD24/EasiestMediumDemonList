@@ -1,21 +1,25 @@
 {
-    "id": 1,
+    "id": ,
     "name": "End Of The Play",
-    "author": "LevelPublisher",
+    "author": "Rackett",
     "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
-    "desc": "desc",
+    "verifier": "Rackett",
+    "verification": "https://youtu.be/MWUGYAF0VCU?si=0-D-5HZjhseWr_cn",
+    "desc": "",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Appletun21", 
             "percent": 100,
             "hz": 60
         }
