@@ -1,21 +1,20 @@
 {
-    "id": 1,
+    "id": 113640917,
     "name": "Sponsor",
-    "author": "LevelPublisher",
+    "author": "Ss1mbaWTF",
     "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
-    "desc": "desc",
+    "verifier": "SsmbaWTF",
+    "verification": "https://youtu.be/Prho_QHniis?si=0p2CYcvHSe-cQjCs",
+    "desc": "This level is sponsored by RAID: Shadow Legends. It's a redecorated version of Clutterfunk that is very hard to see. I only knew it because I checked the comments.",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
-            "link": "RecordLink",
+            "user": "ZircleZ",
             "percent": 100,
             "hz": 60
         }
