@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "name": "Sponsor",
+    "author": "LevelPublisher",
+    "creators": [],
+    "verifier": "LevelVerifier",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "RecordHolder1", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "RecordHolder2",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
