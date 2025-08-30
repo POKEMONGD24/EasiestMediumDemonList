@@ -10,8 +10,18 @@
         "link": "https://www.youtube.com/@acek_gd"
     },
     {
-        "role": "admin",
+        "role": "dev",
         "name": "tomm",
         "link": "https://youtube.com/@tommGMD"
+    },
+    {
+        "role": "dev",
+        "name": "Arcadie",
+        "link": "https://www.youtube.com/@brachiozaur6745"
+    },
+    {
+        "role": "dev",
+        "name": "gonker",
+        "link": "https://youtube.com/@justastupid_idiot?si=mcHPMhVLSrp5GtXc"
     }
 ]
