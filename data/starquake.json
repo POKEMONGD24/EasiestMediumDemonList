@@ -57,6 +57,11 @@
             "user": "Yoshi",
             "percent": 100,
             "hz": 60
-        }          
+        },
+        {
+            "user": "thelonlyducky",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
