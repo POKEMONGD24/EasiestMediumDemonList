@@ -1,10 +1,10 @@
 {
     "id": 1,
     "name": "DEVIL GIRL",
-    "author": "LevelPublisher",
+    "author": "Instinct01",
     "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "verifier": "Instinct01",
+    "verification": "https://youtu.be/kN6Hsfy5vDk?si=x45HMAD_5GhsopTd",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
@@ -15,6 +15,11 @@
         },
         {
             "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
             "percent": 100,
             "hz": 60
         }
