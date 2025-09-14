@@ -9,12 +9,12 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "RecordHolder1", 
+            "user": "POKEMON GD", 
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "RecordHolder2",
+            "user": "ZircleZ",
             "link": "RecordLink",
             "percent": 100,
             "hz": 60
