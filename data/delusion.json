@@ -1,0 +1,17 @@
+{
+    "id": 76737425,
+    "name": "Delusion",
+    "author": "ImMaxx1",
+    "creators": ["ImMaxx1", "NutOn", "Kosar", "LowIight"],
+    "verifier": "ImMaxx1",
+    "verification": "https://youtu.be/CuFidEEAULE?si=Crp2IBGK_z-a2EmP",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
