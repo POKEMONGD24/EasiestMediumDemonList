@@ -1,0 +1,17 @@
+{
+    "id": 75781004,
+    "name": "DESTRUCTION",
+    "author": "ImMaxx1",
+    "creators": ["ImMaxX1", "102stile"],
+    "verifier": "ImMaxx1",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
