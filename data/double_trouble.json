@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "name": "Double Trouble",
+    "author": "LevelPublisher",
+    "creators": [],
+    "verifier": "LevelVerifier",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "musix",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
