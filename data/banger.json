@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 91214464,
     "name": "Banger",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "Dartling",
+    "creators": ["Dartling", "ELLVO", "Kr1j", "SnowExe", "Thazm", "ZhenAxel", "Extreme7687", "irsdorkage", "alvaroRH99"],
+    "verifier": "Dartling",
+    "verification": "https://youtu.be/YkLKwuONl0k?si=1KvzOYw29rw4yl6h",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
