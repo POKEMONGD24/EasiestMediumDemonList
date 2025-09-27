@@ -1,11 +1,11 @@
 {
     "id": 1,
     "name": "albacore",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
-    "desc": "desc",
+    "author": "Seroto",
+    "creators": ["Seroto", "Titan", "Craisin"],
+    "verifier": "Seroto",
+    "verification": "https://youtu.be/jpmTYNgW3kA?si=XB1xQO5FcIoxXayz",
+    "desc": "There was even a Vine reference thrown in there if you can find it - ZayGMD",
     "percentToQualify": 100,
     "records": [
         {
