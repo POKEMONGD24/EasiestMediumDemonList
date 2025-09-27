@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 63430978,
     "name": "Double Trouble",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "RoyalP",
+    "creators": ["RoyalP", "NateHaven"],
+    "verifier": "RoyalP",
+    "verification": "https://youtu.be/V3A1ihJYCLY?si=Id9JQ36YUZ6GXduG",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
