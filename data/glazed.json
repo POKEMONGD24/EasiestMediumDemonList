@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 90651294,
     "name": "Glazed",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "Split72",
+    "creators": ["Split72", "fifsqueak"],
+    "verifier": "Split72",
+    "verification": "https://youtu.be/sZvTKdpin4k?si=Tdw_kOOb4cbJtlmy",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
