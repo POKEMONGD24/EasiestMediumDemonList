@@ -1,6 +1,6 @@
 {
     "id": 1,
-    "name": "Albacore",
+    "name": "albacore",
     "author": "LevelPublisher",
     "creators": [],
     "verifier": "LevelVerifier",
@@ -10,6 +10,16 @@
     "records": [
         {
             "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
             "percent": 100,
             "hz": 60
         }
