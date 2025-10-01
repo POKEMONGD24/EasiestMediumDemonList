@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 88487005,
     "name": "Shifter",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "ocuta",
+    "creators": ["ocuta", "Wodka", "AlaskaFX", "Remurin"],
+    "verifier": "ocuta",
+    "verification": "https://youtu.be/tMXvD_wIpBI?si=eWPI7LktTo_Wzi8j",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
