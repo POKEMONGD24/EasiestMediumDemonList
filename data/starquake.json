@@ -72,6 +72,11 @@
             "user": "DaShazard",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Identity",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
