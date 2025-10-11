@@ -20,12 +20,16 @@
         },
         {
             "user": "WKGames",
-            "link": "",
             "percent": 100,
             "hz": "- "
         },
         {
             "user": "wassas1", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "scape167",
             "percent": 100,
             "hz": 60
         }
