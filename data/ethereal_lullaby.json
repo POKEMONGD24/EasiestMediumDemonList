@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "name": "Ethereal Lullaby",
+    "author": "FadedCat",
+    "creators": [],
+    "verifier": "FadedCat",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AceK58", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
