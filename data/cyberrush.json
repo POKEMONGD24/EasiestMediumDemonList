@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 91676916,
     "name": "cyberrush",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "Waddl3",
+    "creators": ["Waddl3", "Halp", "Purzin", "Praa", "Moffers", "Spinstudios", "Plexiee", "Nemsy", "Hyperbot", "Parzivalgames", "Anigleb", "Zxentric", "YunHaseu14", "Scarletboi999", "IDancre", "Valkyriemaster"],
+    "verifier": "Waddl3",
+    "verification": "https://youtu.be/5aZUc-CWgkA?si=XwyHI3pm9kxJkaRK",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
