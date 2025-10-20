@@ -1,13 +1,18 @@
 {
-    "id": 1,
+    "id": 124148727,
     "name": "NG Factory",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "InideuX",
+    "creators": ["569Zilla", "48Vpower", "abeginner","Stallia", "Talentgrocery", "Inideux", "Darkholme", "8uua", "Chlorine37"],
+    "verifier": "InideuX",
+    "verification": "https://youtu.be/DFrbzuJwFdg?si=KHA1hPKN-iyrzrpW",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "InideuX", 
+            "percent": 100,
+            "hz": 60
+        },
         {
             "user": "POKEMON GD", 
             "percent": 100,
