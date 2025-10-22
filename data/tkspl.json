@@ -39,7 +39,7 @@
             "hz": "- "
         },
         {
-            "user": "DIUS3D",
+            "user": "DIUSED",
             "link": "",
             "percent": 100,
             "hz": 120
@@ -64,6 +64,11 @@
         },
         {
             "user": "scape167",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
             "percent": 100,
             "hz": 60
         }
