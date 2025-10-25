@@ -1,0 +1,27 @@
+{
+    "id": 125493611,
+    "name": "CELESTIAL PINNACLE",
+    "author": "StraRQ",
+    "creators": [],
+    "verifier": "StraRQ",
+    "verification": "https://youtu.be/irClut6LZRI?si=ZLGyYtkyVynnC5Ui",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
