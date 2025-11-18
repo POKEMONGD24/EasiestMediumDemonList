@@ -54,6 +54,7 @@
 .page-leaderboard .board-container,
 .page-leaderboard .player-container {
     grid-row: 2;
+    padding-block: 2rem;
     
 }
 .page-leaderboard .board-container {
