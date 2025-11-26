@@ -99,7 +99,10 @@ export default {
     },
     async mounted() {
         const [leaderboard, err] = await fetchLeaderboard();
-@@ -106,5 +125,6 @@ export default {
+        this.leaderboard = leaderboard;
+        this.err = err;
+        // Hide loading spinner
+        this.loading = false;
     },
     methods: {
         localize,
