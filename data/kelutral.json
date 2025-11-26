@@ -27,6 +27,11 @@
             "user": "WKGames",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Chonkey",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
