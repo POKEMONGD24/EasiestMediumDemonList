@@ -37,6 +37,11 @@
             "user": "Angeb", 
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "DaShazard", 
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
