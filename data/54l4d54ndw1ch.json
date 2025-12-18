@@ -1,6 +1,6 @@
 {
     "id": 78277211,
-    "name": "54l4d54ndw1ch",
+    "name": "54l4d54ndw1ch (D)",
     "author": "Chaken",
     "creators": [],
     "verifier": "Chaken",
@@ -30,6 +30,11 @@
         },
         {
             "user": "Angeb",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DaShazard", 
             "percent": 100,
             "hz": 60
         }
