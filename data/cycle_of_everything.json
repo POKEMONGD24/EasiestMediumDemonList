@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "name": "cycle of everything",
+    "author": "LevelPublisher",
+    "creators": [],
+    "verifier": "LevelVerifier",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
