@@ -212,6 +212,22 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "POKEMON GD", 
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "scape167",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
