@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 103937771,
     "name": "BROKEN LIMIT",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "DizzyRoach",
+    "creators": ["DizzyRoach, Falkuma, Dahzen, AirSavage"],
+    "verifier": "DizzyRoach",
+    "verification": "https://youtu.be/U-A9K2SnBk8?si=kBZZJGQ3X9edlDiX",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
