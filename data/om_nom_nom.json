@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 119245551,
     "name": "OM NOM NOM",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "MaFFaKa",
+    "creators": ["MaFFaKa, say0nar, Kapycta999, lev1fun, 1nvise, Viteral, woose"],
+    "verifier": "MaFFaKa",
+    "verification": "https://youtu.be/oKPftz5tjIo?si=pP1mFEfHy7ZEnknd",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
