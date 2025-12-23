@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 92718050,
     "name": "Frozen Icefall",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "Dartling",
+    "creators": ["Dartling, Polarbeahr"],
+    "verifier": "Dartling",
+    "verification": "https://youtu.be/_JBKAB2rn7A?si=82Ra7_GikAarJ35R",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
