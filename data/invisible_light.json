@@ -66,6 +66,11 @@
             "user": "Identity",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "rVelvt",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
