@@ -1,0 +1,36 @@
+{
+    "id": 94862304,
+    "name": "The Red Room",
+    "author": "SpooFy",
+    "creators": [],
+    "verifier": "SpooFy",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "POKEMON GD", 
+            "link": "Recordlink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Beeshie",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Channkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
