@@ -72,6 +72,11 @@
             "link": "",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "yuasargd19",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
