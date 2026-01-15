@@ -62,6 +62,11 @@
             "user": "Sheepyboy",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "MW",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
