@@ -61,6 +61,11 @@
             "user": "huggies",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "yuasargd19",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
