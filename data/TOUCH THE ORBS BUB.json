@@ -1,16 +1,15 @@
 {
-    "id": 1,
+    "id": 1128692093,
     "name": "TOUCH THE ORBS BUB",
-    "author": "LevelPublisher",
+    "author": "AtomicRest",
     "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
-    "desc": "desc",
+    "verifier": "AtomicRest",
+    "verification": "https://youtu.be/NqGRpPd1YAI?si=AK3Rb7uKlcpMCoOM",
+    "desc": "TOUCH THE ORBS, BUB!",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "POKEMON GD", 
-            "link": "RecordLink",
+            "user": "POKEMON GD",
             "percent": 100,
             "hz": 60
         },
@@ -20,74 +19,62 @@
             "hz": 60
         },
         {
-            "user": "scape167", 
-            "link": "RecordLink",
+            "user": "scape167",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "wassas1", 
-            "link": "RecordLink",
+            "user": "wassas1",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Sheepyboy", 
-            "link": "RecordLink",
+            "user": "Sheepyboy",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "huggies", 
-            "link": "RecordLink",
+            "user": "huggies",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "DaShahzard", 
-            "link": "RecordLink",
+            "user": "DaShahzard",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Beeshie", 
-            "link": "RecordLink",
+            "user": "Beeshie",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Wide Shady", 
-            "link": "RecordLink",
+            "user": "Wide Shady",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Kaufey", 
-            "link": "RecordLink",
+            "user": "Kaufey",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "DIUSED", 
-            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Gddude", 
-            "link": "RecordLink",
+            "user": "Gddude",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "AceK58", 
-            "link": "RecordLink",
+            "user": "AceK58",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "WKGames",
-            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
