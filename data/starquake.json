@@ -1,6 +1,6 @@
 {
     "id": 308891,
-    "name": "StarQuake",
+    "name": "StarQuake(D)",
     "author": "MasK463",
     "creators": [],
     "verifier": "MasK463",
@@ -77,6 +77,11 @@
             "user": "Identity",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "LifelessComputer",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }
