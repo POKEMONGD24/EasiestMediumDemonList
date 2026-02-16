@@ -27,6 +27,11 @@
             "user": "POKEMON GD",
             "percent": 100,
             "hz": 60
-        }       
+        },
+        {
+            "user": "LifelessComputer", 
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
