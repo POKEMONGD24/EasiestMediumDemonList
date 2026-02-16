@@ -16,7 +16,6 @@
         },
         {
             "user": "ZircleZ", 
-            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
@@ -89,6 +88,11 @@
         {
             "user": "WKGames",
             "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "LifelessComputer", 
             "percent": 100,
             "hz": 60
         }
