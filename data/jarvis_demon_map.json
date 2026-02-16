@@ -1,6 +1,6 @@
 {
     "id": 83144000,
-    "name": "jarvis demon map",
+    "name": "jarvis demon map (D)",
     "author": "robotchief",
     "creators": [],
     "verifier": "Toughfey",
@@ -228,6 +228,11 @@
             "user": "scape167",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "LifelessComputer",
+            "percent": 100,
+            "hz": "- "
         }
     ]
 }
