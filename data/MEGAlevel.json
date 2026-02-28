@@ -1,1 +1,36 @@
-92656633
+{
+    "id": 92656633,
+    "name": "MEGAlevel",
+    "author": "BurningBanana2",
+    "creators": [],
+    "verifier": "BurningBanana2",
+    "verification": "https://youtu.be/LQEG-2xDcO0?si=BuOirTTBrksWK8IH",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DIUSED", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "huggies", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
