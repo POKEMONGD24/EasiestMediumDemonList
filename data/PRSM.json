@@ -1,11 +1,11 @@
 {
-    "id": 1,
+    "id": 104847865,
     "name": "PRSM",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
-    "desc": "desc",
+    "author": "ZeroSR",
+    "creators": ["ZeroSR", "AudeoVisual"],
+    "verifier": "ZeroSR",
+    "verification": "https://youtu.be/jiVyd4Sy7VQ?si=REb8pBNJb91CS4pf",
+    "desc": "easier Astral Prisma trust",
     "percentToQualify": 100,
     "records": [
         {
