@@ -1,0 +1,48 @@
+{
+    "id": 1,
+    "name": "Borderline",
+    "author": "Whirl",
+    "creators": [],
+    "verifier": "Whirl",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Chahnkeh", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "huggies", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "LifelessComputer", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
