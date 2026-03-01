@@ -1,0 +1,42 @@
+{
+    "id": 89136909,
+    "name": "rev it up",
+    "author": "noru64",
+    "creators": [],
+    "verifier": "noru64",
+    "verification": "https://youtu.be/4iHK6_8G6V8?si=Mt7HqhD6m7bkLWuJ",
+    "desc": "this level is fire",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "huggies",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "scape167",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
