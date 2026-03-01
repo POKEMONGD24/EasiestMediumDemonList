@@ -338,6 +338,12 @@
             "user": "[MOAT] Identity",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "WKGames", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
