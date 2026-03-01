@@ -68,6 +68,12 @@
             "user": "huggies",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "[MOAT] Bobbyp02",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
