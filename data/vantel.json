@@ -9,23 +9,33 @@
     "records": [
         {
             "user": "DIUSED",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
-        }        
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
