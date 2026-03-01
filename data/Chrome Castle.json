@@ -1,0 +1,36 @@
+{
+    "id": 15678682,
+    "name": "Chrome Castle",
+    "author": "DWShin",
+    "creators": [],
+    "verifier": "DWShin",
+    "verification": "https://youtu.be/fWLKAr-xa0Q?si=89Uqeiky5_GuL9hc",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
