@@ -1,0 +1,42 @@
+{
+    "id": 76998742,
+    "name": "EU RI",
+    "author": "P0ki",
+    "creators": [],
+    "verifier": "P0ki",
+    "verification": "https://youtu.be/OU7rcApzCkw?si=JvcXNuGIfnJCh6iC",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "scape167", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "huggies", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
