@@ -58,6 +58,12 @@
             "link": "https://www.youtube.com/watch?v=zwi6twsKEsg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Lsuuwu", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
