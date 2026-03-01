@@ -1,0 +1,42 @@
+{
+    "id": 117023529,
+    "name": "Double W",
+    "author": "onvoyo",
+    "creators": [],
+    "verifier": "onvoyo",
+    "verification": "https://youtu.be/HlfImGg2a2A?si=4OydrvljK7tOLLEh",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "wassas1",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "InideuX",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
