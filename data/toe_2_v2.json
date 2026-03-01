@@ -27,6 +27,12 @@
             "user": "DaShahzad",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Lsuuwu", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
