@@ -61,6 +61,12 @@
             "user": "LifelessComputer",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "[MOAT] Bobbyp02",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
