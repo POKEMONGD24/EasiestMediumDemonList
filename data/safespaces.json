@@ -10,66 +10,85 @@
     "records": [
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "scape167",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Soulbound",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Angeb",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "wassas1",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Wide Shady",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "gonker",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "huggies",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Sheepyboy",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Mooncraft",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "InideuX", 
+            "user": "InideuX",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SirManface",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         }
