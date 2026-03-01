@@ -1,0 +1,36 @@
+{
+    "id": 290616,
+    "name": "Time Over",
+    "author": "dhk2725",
+    "creators": [],
+    "verifier": "dhk2725",
+    "verification": "https://youtu.be/dveFblvfKl8?si=CKzxw_FcwOy303cT",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "scape167",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
