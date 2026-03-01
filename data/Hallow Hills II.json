@@ -1,0 +1,36 @@
+{
+    "id": 73238970,
+    "name": "Hallow Hills II",
+    "author": "Alex11230",
+    "creators": [],
+    "verifier": "Alex11230",
+    "verification": "https://youtu.be/Dd9peZQ9QSI?si=IdvzSPEweocht3ge",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tomm",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "scape167",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
