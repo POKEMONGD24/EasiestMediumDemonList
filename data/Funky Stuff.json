@@ -1,0 +1,30 @@
+{
+    "id": 124801397,
+    "name": "Funky Stuff",
+    "author": "PR0202",
+    "creators": [],
+    "verifier": "PR0202",
+    "verification": "https://youtu.be/aPw4GUAnioY?si=d-PzX1eoos2cM1vK",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
