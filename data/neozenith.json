@@ -69,6 +69,12 @@
             "hz": "- "
         },
         {
+            "user": "huggies",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "SirManface",
             "link": "RecordLink",
             "percent": 100,
