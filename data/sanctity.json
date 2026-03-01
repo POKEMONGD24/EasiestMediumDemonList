@@ -10,36 +10,49 @@
     "records": [
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "wassas1",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "scape167",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "DaShahzad",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "InideuX", 
+            "user": "InideuX",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "[MOAT] Bobbyp02",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         }
