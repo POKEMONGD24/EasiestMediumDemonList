@@ -1,0 +1,42 @@
+{
+    "id": 110971137,
+    "name": "Christmas Scavenge",
+    "author": "ItzAdrift",
+    "creators": [],
+    "verifier": "ItzAdrift",
+    "verification": "https://youtu.be/QWmhBKDDUNc?si=KlCkkcT-jlDxpsy5",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Mooncraft",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "tomm",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SirManface",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
