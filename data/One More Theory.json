@@ -1,10 +1,10 @@
 {
-    "id": 1,
+    "id": 93325922,
     "name": "One More Theory",
-    "author": "LevelPublisher",
-    "creators": [],
-    "verifier": "LevelVerifier",
-    "verification": "VerificationVideo",
+    "author": "charifma",
+    "creators": ["charifma", "xVainaja"],
+    "verifier": "charifma",
+    "verification": "https://youtu.be/qeC9eQtx7LE?is=o0E_w9p5I07CPFuZ",
     "desc": "you just got coconut malled",
     "percentToQualify": 100,
     "records": [
