@@ -9,17 +9,26 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Breaker", 
+            "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DaShahzad",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         }
