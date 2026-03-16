@@ -42,6 +42,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Dwibble",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
