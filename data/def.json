@@ -43,6 +43,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
