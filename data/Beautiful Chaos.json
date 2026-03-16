@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "name": "Beautiful Chaos",
+    "author": "LevelPublisher",
+    "creators": [],
+    "verifier": "LevelVerifier",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Breaker", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
