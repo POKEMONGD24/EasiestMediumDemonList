@@ -10,31 +10,37 @@
     "records": [
         {
             "user": "Breaker", 
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "lightning",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "scape167",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "InideuX", 
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         }
