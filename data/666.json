@@ -9,26 +9,31 @@
     "records": [
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "scape167",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
          {
             "user": "red",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Sir_Manface",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
@@ -40,16 +45,19 @@
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Azulamazigh",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "rVelvt",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
