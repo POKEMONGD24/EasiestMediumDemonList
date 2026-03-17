@@ -9,31 +9,37 @@
     "records": [
         {
             "user": "Appletun21",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Yoshi",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "AceK58",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
