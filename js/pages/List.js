@@ -26,6 +26,7 @@ export default {
     type="text"
     v-model="search"
     placeholder="Search levels..."
+    oninput="handleLevelSearch()"
     style="margin-bottom: 10px;"
 />
                 <table class="list" v-if="list">
@@ -85,7 +86,7 @@ export default {
                     </table>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                    <p>Someone forgot to add .json to the end of a file name, Ping a Staff Member</p>
+                    <p>Someone broke a file, Ping a Staff Member</p>
                 </div>
             </div>
             <div class="meta-container">
@@ -148,11 +149,11 @@ computed: {
         return level.name.toLowerCase().includes(this.search.toLowerCase());
     });
 },
-       level() {
-    if (!this.list || !this.list[this.selected]) {
-        return {};  // lub null albo inna bezpieczna wartość
+level() {
+    if (!this.filteredList || !this.filteredList[this.selected]) {
+        return {};
     }
-    return this.list[this.selected][0];
+    return this.filteredList[this.selected][0];
 }
 },
     async mounted() {
@@ -177,7 +178,15 @@ computed: {
                 this.errors.push('Failed to load list editors.');
             }
         }
+window.addEventListener('keydown', (e) => {
+    if (!this.filteredList || this.filteredList.length === 0) return;
 
+    if (e.key === 'ArrowDown') {
+        this.selected = Math.min(this.filteredList.length - 1, this.selected + 1);
+    } else if (e.key === 'ArrowUp') {
+        this.selected = Math.max(0, this.selected - 1);
+    }
+});
         this.loading = false;
     },
     methods: {
