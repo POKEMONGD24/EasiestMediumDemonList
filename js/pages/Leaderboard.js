@@ -33,7 +33,7 @@ export default {
   style="margin-bottom: 10px;"
 />
                     <table class="board">
-                        <tr v-for="(ientry, i) in leaderboard">
+                           <tr v-for="(ientry, i) in filteredLeaderboard" :key="ientry.id">
                             <td class="rank">
                                 <p class="type-label-lg">#{{ i + 1 }}</p>
                             </td>
