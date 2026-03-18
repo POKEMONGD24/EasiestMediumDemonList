@@ -22,8 +22,14 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
+<input
+    type="text"
+    v-model="search"
+    placeholder="Search levels..."
+    style="margin-bottom: 10px;"
+/>
                 <table class="list" v-if="list">
-                    <tr v-for="([level, err], i) in list">
+<tr v-for="([level, err], i) in filteredList">
                         <td class="rank">
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
@@ -126,6 +132,7 @@ export default {
     data: () => ({
         list: [],
         editors: [],
+        search: "",
         loading: true,
         selected: 0,
         errors: [],
@@ -133,6 +140,14 @@ export default {
         store,
     }),
 computed: {
+    filteredList() {
+    if (!this.search) return this.list;
+
+    return this.list.filter(([level]) => {
+        if (!level) return false;
+        return level.name.toLowerCase().includes(this.search.toLowerCase());
+    });
+},
        level() {
     if (!this.list || !this.list[this.selected]) {
         return {};  // lub null albo inna bezpieczna wartość
