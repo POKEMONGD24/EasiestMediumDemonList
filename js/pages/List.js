@@ -102,19 +102,19 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                      <p>
-                        Achieved the record without using hacks (however, FPS bypass and CBF allowed, up to however many fps)
+                        Achieved the record without using any hacks.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Achieved the record on the level that is listed on the site, please check the level before you submit a record.
                     </p>
                     <p>
-                        You can submit a screenshot or a video of your completion in our Discord server
+                        You can submit a screenshot or a video of your completion in our Discord server.
                     </p>
                     <p>
-                        Do not use secret ways or bugs, but cant prove it without you tellng us.
+                        Do not use secret ways or bugs, but we cant prove it without you tellng us.
                     </p>
                     <p>
-                        If you disagree with a ranking, come tell us in the Discord
+                        If you disagree with a ranking, come tell us in the Discord.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for ever (this will be fun)
