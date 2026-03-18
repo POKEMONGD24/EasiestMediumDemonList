@@ -12,6 +12,7 @@ export default {
         loading: true,
         selected: 0,
         err: [],
+        playerSearch: "",
     }),
     template: `
         <main v-if="loading">
@@ -25,6 +26,12 @@ export default {
                     </p>
                 </div>
                 <div class="board-container">
+<input
+  type="text"
+  v-model="playerSearch"
+  placeholder="Search users..."
+  style="margin-bottom: 10px;"
+/>
                     <table class="board">
                         <tr v-for="(ientry, i) in leaderboard">
                             <td class="rank">
@@ -92,17 +99,33 @@ export default {
             </div>
         </main>
     `,
-    computed: {
-        entry() {
-            return this.leaderboard[this.selected];
-        },
+computed: {
+    entry() {
+        return this.filteredLeaderboard[this.selected] || {};
     },
+    filteredLeaderboard() {           // <-- ADD THIS
+        if (!this.playerSearch) return this.leaderboard;
+
+        return this.leaderboard.filter(player =>
+            player.user.toLowerCase().includes(this.playerSearch.toLowerCase())
+        );
+    },
+},
     async mounted() {
         const [leaderboard, err] = await fetchLeaderboard();
         this.leaderboard = leaderboard;
         this.err = err;
         // Hide loading spinner
         this.loading = false;
+        window.addEventListener('keydown', (e) => {
+    if (!this.filteredLeaderboard || this.filteredLeaderboard.length === 0) return;
+
+    if (e.key === 'ArrowDown') {
+        this.selected = Math.min(this.filteredLeaderboard.length - 1, this.selected + 1);
+    } else if (e.key === 'ArrowUp') {
+        this.selected = Math.max(0, this.selected - 1);
+    }
+});
     },
     methods: {
         localize,
