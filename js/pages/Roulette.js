@@ -200,7 +200,6 @@ export default {
             if (this.useExtendedList) list.push(...fullListMapped.slice(75, 150));
             if (this.useLegacyList) list.push(...fullListMapped.slice(151, 239));
             if (this.useDemotedList) list.push(...fullListMapped.slice(239, 329));
-            }
 
             // random 100 levels
             this.levels = shuffle(list).slice(0, 100);
