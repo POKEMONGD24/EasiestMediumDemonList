@@ -26,11 +26,11 @@ export default {
                     </div>
                     <div class="check">
                         <input type="checkbox" id="main" value="Legacy List" v-model="useLegacyList">
-                        <label for="main">Main List</label>
+                        <label for="main">Extended List</label>
                     </div>
                     <div class="check">
                         <input type="checkbox" id="main" value="Demoted List" v-model="useDemotedList">
-                        <label for="main">Main List</label>
+                        <label for="main">Demoted List</label>
                     </div>
                     <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
                 </form>
