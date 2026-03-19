@@ -25,11 +25,11 @@ export default {
                         <label for="extended">Extended List</label>
                     </div>
                     <div class="check">
-                        <input type="checkbox" id="main" value="Legacy List" v-model="useLegacyList">
+                        <input type="checkbox" id="legacy" value="Legacy List" v-model="useLegacyList">
                         <label for="main">Legacy List</label>
                     </div>
                     <div class="check">
-                        <input type="checkbox" id="main" value="Demoted List" v-model="useDemotedList">
+                        <input type="checkbox" id="demoted" value="Demoted List" v-model="useDemotedList">
                         <label for="main">Demoted List</label>
                     </div>
                     <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
@@ -173,7 +173,7 @@ export default {
                 return;
             }
 
-            if (!this.useMainList && !this.useExtendedList && !this.useLegacyist && !this.useDemotedList) {
+            if (!this.useMainList && !this.useExtendedList && !this.useLegacyList && !this.useDemotedList) {
                 return;
             }
 
