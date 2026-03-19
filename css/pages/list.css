@@ -72,6 +72,15 @@
     align-items: center;
     gap: 1rem;
 }
+.page-list .level-container .level .stats li span {
+    font-size: 0.75rem;
+    opacity: 0.7;
+}
+
+.page-list .level-container .level .stats li p {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
 .page-list .level-container .level .records {
     table-layout: fixed;
 }
