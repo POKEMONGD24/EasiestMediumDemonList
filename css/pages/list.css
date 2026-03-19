@@ -72,11 +72,6 @@
     align-items: center;
     gap: 1rem;
 }
-.page-list .level-container .level .stats li {
-    background: var(--color-background);
-    padding: 0.75rem;
-    border-radius: 0.75rem;
-}
 .page-list .level-container .level .records {
     table-layout: fixed;
 }
