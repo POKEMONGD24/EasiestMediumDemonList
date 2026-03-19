@@ -26,7 +26,7 @@ export default {
                     </div>
                     <div class="check">
                         <input type="checkbox" id="main" value="Legacy List" v-model="useLegacyList">
-                        <label for="main">Extended List</label>
+                        <label for="main">Legacy List</label>
                     </div>
                     <div class="check">
                         <input type="checkbox" id="main" value="Demoted List" v-model="useDemotedList">
