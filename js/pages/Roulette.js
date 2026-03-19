@@ -199,8 +199,6 @@ export default {
             if (this.useMainList) list.push(...fullListMapped.slice(0, 75));
             if (this.useExtendedList) list.push(...fullListMapped.slice(75, 150));
             }
-            if (this.useLegacyList) list.push(...fullListMapped.slice(151, 238));
-            }
             if (this.useDemotedList) list.push(...fullListMapped.slice(239, 999));
             }
 
