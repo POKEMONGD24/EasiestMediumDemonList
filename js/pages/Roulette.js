@@ -24,6 +24,14 @@ export default {
                         <input type="checkbox" id="extended" value="Extended List" v-model="useExtendedList">
                         <label for="extended">Extended List</label>
                     </div>
+                    <div class="check">
+                        <input type="checkbox" id="main" value="Legacy List" v-model="useLegacyList">
+                        <label for="main">Main List</label>
+                    </div>
+                    <div class="check">
+                        <input type="checkbox" id="main" Legacy List" v-model="useLegacyList">
+                        <label for="main">Main List</label>
+                    </div>
                     <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
                 </form>
                 <p class="type-label-md" style="color: #aaa">
@@ -108,6 +116,8 @@ export default {
         showRemaining: false,
         useMainList: true,
         useExtendedList: true,
+        useLegacyList: true,
+        useDemotedList: true,
         toasts: [],
         fileInput: undefined,
     }),
@@ -187,8 +197,11 @@ export default {
             }));
             const list = [];
             if (this.useMainList) list.push(...fullListMapped.slice(0, 75));
-            if (this.useExtendedList) {
-                list.push(...fullListMapped.slice(75, 150));
+            if (this.useExtendedList) list.push(...fullListMapped.slice(75, 150));
+            }
+            if (this.useLegacyList) list.push(...fullListMapped.slice(151, 238));
+            }
+            if (this.useDemotedList) list.push(...fullListMapped.slice(239, 999));
             }
 
             // random 100 levels
