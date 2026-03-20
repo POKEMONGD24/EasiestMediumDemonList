@@ -5,7 +5,9 @@
     "creators": ["X1RON", "fJud"],
     "verifier": "X1RON",
     "verification": "https://youtu.be/iKYXNFqXxpQ?si=ikt_Hqc1Sl3MrS6J",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Sheepyboy",
