@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "DYZEX",
     "verification": "https://youtu.be/OgAby39Ct-o?si=fVspjfwc4a5TrWYd",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
