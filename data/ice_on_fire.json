@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "taade",
     "verification": "https://youtu.be/7jOJsmaiv5o?si=BwZkKoQCGHXo0UfC",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
