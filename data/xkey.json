@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "Crystal CM",
     "verification": "https://youtu.be/IcEdKJkFgbY?si=a7ccF03aDDNiYl_p",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
