@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "realerr",
     "verification": "https://www.youtube.com/watch?v=hflbeBt2tI0",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
