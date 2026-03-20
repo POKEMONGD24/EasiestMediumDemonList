@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "INVU",
     "verification": "https://youtu.be/fivuJr8hf8U?si=PHJ_bfgHLWRe-s-t",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
