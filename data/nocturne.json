@@ -5,7 +5,9 @@
     "creators": ["SnowEye","Rawin","QuazerIceCube"],
     "verifier": "SnowEye",
     "verification": "https://youtu.be/TQN_PlZ_8vw?si=R2pTsXHEVgSjpWyK",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
