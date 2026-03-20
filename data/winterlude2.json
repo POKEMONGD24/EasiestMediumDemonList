@@ -5,7 +5,9 @@
     "creators": ["Polarbeahr", "OliSW", "SleyGD", "Spark", "Drane", "Kiba", "Lagan", "Whirl"],
     "verifier": "SleyGD",
     "verification": "https://youtu.be/mvxBj4Nne6o?si=QIB26_PvnSFjGM4o",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "ZircleZ", 
