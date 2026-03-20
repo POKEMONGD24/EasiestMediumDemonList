@@ -5,7 +5,9 @@
     "creators": ["Pauze","Thomartin","Dienid","CuLuC","AutoNick","Jenkins","DavJT","nasgubb","connot", "cometface", "Loltad", "Subwoofer", "BelonziK", "Balloons", "RadiationV2"],
     "verifier": "Pauze",
     "verification": "https://youtu.be/ED7i1sMZTsA?si=myKWkjarz5st4t9P",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "wassas1",
