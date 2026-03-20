@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "xvia",
     "verification": "https://youtu.be/FH3lYjtLMgQ?si=cpfYT3_vZio6ekQJ",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "lightning", 
