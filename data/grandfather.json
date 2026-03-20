@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "mangut",
     "verification": "https://youtu.be/CF4RgpMK2KA?si=brJqZyDxStDDLw_h",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Mangut", 
