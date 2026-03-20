@@ -5,7 +5,9 @@
     "creators": ["Kanati", "Furorem"],
     "verifier": "Kanati",
     "verification": "https://youtu.be/WyWMPJ05U5A?si=S7-Xjyn8T-gslioM",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "ZircleZ",
