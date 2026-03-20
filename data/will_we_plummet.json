@@ -5,7 +5,9 @@
     "creators": ["Zidnes", "Lyriaki"],
     "verifier": "Lyriaki",
     "verification": "https://youtu.be/JignOVk1qm8?si=vH6VuGuMXZ9aiOMm",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "DIUSED",
