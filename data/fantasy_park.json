@@ -5,7 +5,9 @@
     "creators": ["Unbihexium", "Kwol", "Graded", "J735", "Mela", "Stamina", "Polli", "Syberian", "Unbipentium"],
     "verifier": "Unbihexium",
     "verification": "https://youtu.be/KuMrRUFKFvI?si=hOfYduqhekFSe_Z2",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker", 
