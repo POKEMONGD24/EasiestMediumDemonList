@@ -5,7 +5,9 @@
     "creators": ["MIRugene", "HaHaDa"],
     "verifier": "MIRugene",
     "verification": "https://youtu.be/oa9QAAs1X1g?si=4XgmkL6racLIMnFF",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
