@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "coldpot",
     "verification": "https://youtu.be/eRzMKDwbN0g?si=hX38QMSibMXqjzLc",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
