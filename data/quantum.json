@@ -5,7 +5,9 @@
     "creators": ["BitZel", "IFSGeorge"],
     "verifier": "BitZel",
     "verification": "https://youtu.be/0gyLDLs8OHU?si=TvdLjoNV4JCFf5w6",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "red", 
