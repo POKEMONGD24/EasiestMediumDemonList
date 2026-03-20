@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "Wav",
     "verification": "https://youtu.be/iJItuS2um6w?si=KOpvsPNwe0yBIo4p",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "ZircleZ",
