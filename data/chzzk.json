@@ -5,8 +5,9 @@
     "creators": [],
     "verifier": "SnowEye",
     "verification": "https://youtu.be/4LtR9UGHUSg?si=ks9WmABOijEMGXLg",
-    "percentToQualify": "100",
-    "password": "Free to Copy",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "rommydash",
