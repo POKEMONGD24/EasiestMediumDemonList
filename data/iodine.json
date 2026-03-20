@@ -5,7 +5,9 @@
     "creators": ["Sr3k", "Shrc"],
     "verifier": "Sr3k",
     "verification": "https://youtu.be/i1pxsyjj5wk?si=5v0U6POfcV4rakkI",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker", 
