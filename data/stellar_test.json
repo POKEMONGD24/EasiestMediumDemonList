@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "CUBICCC",
     "verification": "https://youtu.be/aZbQLTb7IoM?si=uL22ltkFrm_uKRmi",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
