@@ -5,7 +5,9 @@
     "creators": ["rply", "ImMaxX1"],
     "verifier": "rply",
     "verification": "https://youtu.be/NV7sc1wqy3w?si=cINOsNU2_N43Aa-l",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "wassas1",
