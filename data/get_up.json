@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "alkali",
     "verification": "https://youtu.be/Rdh_SslwYlI?si=qn9B7Arsw0EiTOuQ",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [ 
         {
             "user": "ZircleZ",
