@@ -5,7 +5,9 @@
     "creators": ["n68", "R3XX3R"],
     "verifier": "n68",
     "verification": "https://youtu.be/bCRjrw4JwMQ?si=fE4RiG5xskk33YHR",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
