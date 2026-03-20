@@ -5,8 +5,9 @@
     "creators": [],
     "verifier": "Darwin",
     "verification": "https://youtu.be/QEak9fU6vy0",
-    "percentToQualify": "100",
-    "password": 666666,
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "666666",
     "records": [
         {
             "user": "Electro325",
