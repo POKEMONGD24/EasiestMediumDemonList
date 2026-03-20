@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "Wasig",
     "verification": "https://youtu.be/L6bnnJkjfnE?si=ToeXCV-uPCCaA7r0",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [ 
         {
             "user": "Breaker",
