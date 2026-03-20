@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "StraRQ",
     "verification": "https://youtu.be/gocL8eJDK_w?si=4nTEtNWZuZjd2iOQ",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
