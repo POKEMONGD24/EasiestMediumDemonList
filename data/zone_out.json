@@ -5,7 +5,9 @@
     "creators": ["Split72", "wshedd"],
     "verifier": "Split72",
     "verification": "https://youtu.be/LaLvSphrFt0?si=eYtwL42l8uMiIA60",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker", 
