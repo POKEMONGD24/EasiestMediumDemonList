@@ -5,7 +5,9 @@
     "creators": ["Ekho", "PlexifyGD", "AwesomeFJC", "Xeroultra", "Piri07", "Proxyvision", "Puro", "Diamondskull"],
     "verifier": "PlexifyGD",
     "verification": "https://youtu.be/aLu8cmAchnc?si=Yph3mSsGGyw6dET1",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
