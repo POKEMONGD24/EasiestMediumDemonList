@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "bimms",
     "verification": "https://youtu.be/JgwFyazpXo0?si=kjp-NQSnNEB8S41G",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
