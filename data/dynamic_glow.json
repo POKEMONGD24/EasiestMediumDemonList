@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "The Bread",
     "verification": "https://youtu.be/H8_9uc4lGdM?si=Jj25IRwCUVwd37L-",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker", 
