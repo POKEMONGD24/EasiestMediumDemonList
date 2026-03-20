@@ -5,7 +5,9 @@
     "creators": ["FreeedTheDolfin"],
     "verifier": "Deeperspace",
     "verification": "https://youtu.be/eZRddDHQxJw?si=QEpfn6dDTgxIWini",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Azulamazigh",
