@@ -5,7 +5,9 @@
     "creators": ["whiteoceanodor", "7ak"],
     "verifier": "whiteoceanodor",
     "verification": "https://youtu.be/9PkadsB_Bfw?si=VbAMOw03WLwuDcpX",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
