@@ -5,7 +5,9 @@
     "creators": ["Veipik","itzKywa"],
     "verifier": "Veipik",
     "verification": "https://youtu.be/XUxAjySMigM?si=SMXCwVxcyUDXvwxg",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "WKGames",
