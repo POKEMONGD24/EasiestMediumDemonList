@@ -5,8 +5,9 @@
     "creators": [],
     "verifier": "MazZedy",
     "verification": "https://youtu.be/KS5kF3M7Zy0?si=zFUiE5voPeszAPFk",
-    "percentToQualify": "100",
-    "password": "Free to Copy",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "kuba",
