@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "Vizitek",
     "verification": "https://youtu.be/zV8lKAW5xLQ?si=fYPUNW9fNgYFqJJi",
-    "percentToQualify": 100, 
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
