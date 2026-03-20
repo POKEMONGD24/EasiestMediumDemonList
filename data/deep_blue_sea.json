@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "TimeRed",
     "verification": "https://youtu.be/hNP7np3Cwi4?si=eli6NxfTjosHjVc6",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "Breaker",
