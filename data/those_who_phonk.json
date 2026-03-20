@@ -5,7 +5,9 @@
     "creators": [],
     "verifier": "whlt",
     "verification": "https://youtu.be/gXZwde7srYY?si=r31Wrf5eZtD3Kx_d",
+    "desc": "desc",
     "percentToQualify": 100,
+    "password": "Free Copy",
     "records": [
         {
             "user": "WKGames",
