@@ -47,6 +47,12 @@
             "user": "FrostSpark",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "DaShahzad", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
