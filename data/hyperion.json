@@ -240,6 +240,12 @@
             "user": "LifelessComputer",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "DaShahzad", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
