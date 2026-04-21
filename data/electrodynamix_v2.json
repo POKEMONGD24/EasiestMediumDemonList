@@ -83,6 +83,11 @@
             "user": "LifelessComputer",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "huggies",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
