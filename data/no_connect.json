@@ -43,6 +43,11 @@
             "user": "LifelessComputer",
             "percent": 100,
             "hz": "- "
+        },
+        {
+            "user": "Ace",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
