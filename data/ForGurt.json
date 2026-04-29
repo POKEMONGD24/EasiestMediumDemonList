@@ -1,0 +1,25 @@
+{
+    "id": 120812826,
+    "name": "ForGurt",
+    "author": "LRH",
+    "creators": [],
+    "verifier": "LRH",
+    "verification": "https://youtu.be/1Z3yrYYu-BE?is=WnPZe7yde7lgIik-",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
