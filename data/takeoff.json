@@ -1,6 +1,6 @@
 {
     "id": 20511156,
-    "name": "Takeoff (D)",
+    "name": "Takeoff",
     "author": "nasgubb",
     "creators": [],
     "verifier": "nasgubb",
@@ -394,7 +394,7 @@
             "hz": "- "
         },
         {
-            "user": "gonkergd",
+            "user": "gonker",
             "link": "",
             "percent": 100,
             "hz": 144
