@@ -1,0 +1,37 @@
+{
+    "id": 131048507,
+    "name": "inferhito",
+    "author": "trideapthbear",
+    "creators": [],
+    "verifier": "trideapthbear",
+    "verification": "https://youtu.be/RKzMhqDh5Lg?si=eSU_hNiQLqb0VNS8",
+    "desc": "Tride",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "wassas1",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
