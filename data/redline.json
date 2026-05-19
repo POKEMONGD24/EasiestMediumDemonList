@@ -1,1 +1,37 @@
-e
+{
+    "id": 60585728,
+    "name": "redline (Vapen)",
+    "author": "Vapen",
+    "creators": ["Vapen", "Marwec"],
+    "verifier": "Vapen",
+    "verification": "https://youtu.be/vkFidq5Ko5g?is=GqtdRKWpLMTostuW",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Breaker",
+            "link": "https://youtu.be/9N631_TuNc4?is=mVPwqyLvxbD4gTSo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AceK58",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
