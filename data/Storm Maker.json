@@ -1,0 +1,31 @@
+{
+    "id": 87490309,
+    "name": "Storm Maker",
+    "author": "fruitsnack",
+    "creators": [],
+    "verifier": "fruitsnack",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "huggies",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
