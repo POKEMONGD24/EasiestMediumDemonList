@@ -1,0 +1,25 @@
+{
+    "id": 131985065,
+    "name": "TIME LEAPER",
+    "author": "GenaMorphosis",
+    "creators": [],
+    "verifier": "GenaMorphosis",
+    "verification": "https://youtu.be/NFAygnjZGis?is=VBhb8EIFcrkEoRd4",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
