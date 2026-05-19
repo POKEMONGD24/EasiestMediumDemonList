@@ -1,0 +1,25 @@
+{
+    "id": 124447504,
+    "name": "Into The Night",
+    "author": "Sakup3nMarkus",
+    "creators": [],
+    "verifier": "Sakup3nMarkus",
+    "verification": "https://youtu.be/igih122k99Q?is=s0IVemOvdbOw5TIw",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
