@@ -1,1 +1,25 @@
-e
+{
+    "id": 1,
+    "name": "Rainbow Flux",
+    "author": "TheGalaxyCat",
+    "creators": [],
+    "verifier": "TheGalaxyCat",
+    "verification": "https://youtu.be/pvzrfXXpqrs?is=S7AvZoC-GgbxaFa3",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
