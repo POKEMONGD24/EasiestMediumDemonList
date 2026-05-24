@@ -59,6 +59,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "The Flux Champion",
+            "link": "https://youtu.be/fCPzgNy8vWY?si=kpHbWq6UQCARAsU9",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
