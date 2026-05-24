@@ -44,6 +44,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Ace",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
