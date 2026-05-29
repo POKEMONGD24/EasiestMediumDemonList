@@ -27,6 +27,12 @@
             "user": "scape167",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "huggies",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
