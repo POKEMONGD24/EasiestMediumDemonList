@@ -33,6 +33,18 @@
             "user": "LifelessComputer",
             "percent": 100,
             "hz": "- "
-        }     
+        },
+        {
+            "user": "DaShahzad", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Mooncraft", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
