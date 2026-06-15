@@ -9,37 +9,50 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Breaker", 
+            "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "scape167",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "gonker",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "huggies",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "InideuX", 
+            "user": "InideuX",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DaShahzad", 
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         }
