@@ -1,9 +1,9 @@
 {
     "id": 1,
     "name": "Xuxa",
-    "author": "LevelPublisher",
+    "author": "SnowEye",
     "creators": [],
-    "verifier": "LevelVerifier",
+    "verifier": "SnowEye",
     "verification": "VerificationVideo",
     "desc": "desc",
     "percentToQualify": 100,
