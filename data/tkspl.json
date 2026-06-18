@@ -65,11 +65,13 @@
         },
         {
             "user": "scape167",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
             "hz": 60
         }
