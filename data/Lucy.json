@@ -12,59 +12,65 @@
         {
             "user": "thelonlyducky", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
-        {
-            "user": "Breaker", 
+         {
+            "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "scape167",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "gonker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DaShahzad",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DarkInfinity286",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "LifelessComputer",
-            "percent": 100,
-            "hz": "- "
-        },
-        {
-            "user": "SirManface",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
+        },
+        {
+            "user": "Sir_Manface",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
         },
         {
             "user": "yellowbutterflyman",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

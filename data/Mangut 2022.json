@@ -12,27 +12,31 @@
         {
             "user": "Mangut",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "wassas1",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }        
     ]
 }

@@ -12,28 +12,31 @@
         {
             "user": "tomm",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Sheepyboy",
             "link": "https://youtu.be/yGZWqjE1Kj0?si=vUG8Je89ImwjfpzG",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
-        }
+            "hz": " - "
+        },
     ]
 }

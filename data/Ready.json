@@ -8,30 +8,35 @@
     "desc": "Comeback Level by Lemons with all the classic stuff you would expect in a (good) early 2.2 Level",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "Breaker", 
+         {
+            "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DIUSED",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Yoshi",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

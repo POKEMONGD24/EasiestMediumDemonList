@@ -11,69 +11,69 @@
     "records": [
         {
             "user": "l1ghtning",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 360
+            "hz": " - "
         },
         {
             "user": "Melody",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 144
+            "hz": " - "
         },
         {
             "user": "Cyclo",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 360
+            "hz": " - "
         },
         {
             "user": "kuba",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 120
+            "hz": " - "
         },
         {
             "user": "stickch",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": "- "
+            "hz": " - "
         },
         {
             "user": "DIUSED",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 120
+            "hz": " - "
         },
         {
             "user": "Jenny",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Breaker",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "scape167",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

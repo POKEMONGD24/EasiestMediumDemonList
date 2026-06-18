@@ -11,101 +11,115 @@
     "records": [
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Soulbound",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Angeb",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Gonker",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "DIUSED",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "AceK58",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Sir_Manface",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "NormalJkb",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "WKGames",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Wide Shady",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "wassas1",
-            "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "gonker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
+        },
+        {
+            "user": "DIUSED",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AceK58",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Sir_Manface",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Starlighty",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Wide Shady",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "wassas1",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "gonker",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
         },
         {
             "user": "DaShahzad",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DarkInfinity286",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "LifelessComputer",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": "- "
+            "hz": " - "
         },
         {
             "user": "[MOAT] Bobbyp02",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "huggies",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "yellowbutterflyman",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

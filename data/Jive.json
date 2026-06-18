@@ -12,53 +12,60 @@
         {
             "user": "tomm",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "frostytoes",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }, 
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Sheepyboy",
             "link": "https://www.youtube.com/watch?v=OlIi32syJ3Q",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "wassas1",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DaShahzad",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Identity",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "LifelessComputer",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": "- "
+            "hz": " - "
         }
     ]
 }

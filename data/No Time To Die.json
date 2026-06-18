@@ -11,70 +11,79 @@
     "records": [
         {
             "user": "scape167",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Angeb",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Wide Shady",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Yoshi",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DaShahzad", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "LifelessComputer",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": "- "
+            "hz": " - "
         },
         {
             "user": "[MOAT] Bobbyp02",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "huggies",
             "link": "https://youtu.be/hQqpN-5Ivmg",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "AceK58", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
-            "user": "InideuX", 
+            "user": "InideuX",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

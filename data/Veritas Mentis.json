@@ -11,99 +11,99 @@
     "records": [
         {
             "user": "Melody",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 144
+            "hz": " - "
         },
         {
             "user": "l1ghtning",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 360
+            "hz": " - "
         },
         {
             "user": "kuba",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 120
+            "hz": " - "
         },
         {
             "user": "daxylitz",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 240
+            "hz": " - "
         },
         {
             "user": "stickch",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": "- "
+            "hz": " - "
         },
         {
             "user": "CoolVlad",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 240
+            "hz": " - "
         },
         {
             "user": "Whacka",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 360
+            "hz": " - "
         },
         {
             "user": "DIUS3D",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 120
+            "hz": " - "
         },
         {
             "user": "Jenny",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Breaker",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "CoriOshawott",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DaShahzad",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "huggies",
             "link": "https://www.youtube.com/watch?v=ukfbYcmja7g",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "LifelessComputer",
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

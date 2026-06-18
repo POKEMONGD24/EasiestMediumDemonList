@@ -9,31 +9,34 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Breaker", 
+         {
+            "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Sheepyboy",
             "link": "https://youtu.be/E8-Li7F9zX4?si=Rzk-FqHR9h3pO33d",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Chonkey", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

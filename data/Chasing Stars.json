@@ -8,25 +8,28 @@
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "Breaker", 
+         {
+            "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "AceK58", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

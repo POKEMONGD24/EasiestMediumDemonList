@@ -11,17 +11,17 @@
         {
             "user": "Breaker", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

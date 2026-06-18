@@ -11,117 +11,117 @@
     "records": [
         {
             "user": "l1ghtning",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 360
+            "hz": " - "
         },
         {
             "user": "CoolVlad",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 240
+            "hz": " - "
         },
         {
             "user": "powersplit",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 240
+            "hz": " - "
         },
         {
             "user": "Melody",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 144
+            "hz": " - "
         },
         {
             "user": "DIUSED",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 120
+            "hz": " - "
         },
         {
             "user": "Robaleg9",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 144
+            "hz": " - "
         },
         {
             "user": "TMG",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 360
+            "hz": " - "
         },
         {
             "user": "stickch",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": "- "
+            "hz": " - "
         },
         {
             "user": "lv3plane",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 120
+            "hz": " - "
         },
         {
             "user": "Big",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 144
+            "hz": " - "
         },
         {
             "user": "agentgiscool",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "1kb",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": "- "
+            "hz": " - "
         },
         {
             "user": "DenyZr",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 240
+            "hz": " - "
         },
         {
             "user": "The_AztraL",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 144
+            "hz": " - "
         },
         {
             "user": "yzae",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 360
+            "hz": " - "
         },
         {
             "user": "Redcat",
-            "link": "",
+           "link": "RecordLink",
             "percent": 100,
-            "hz": 120
+            "hz": " - "
         },
         {
             "user": "Breaker", 
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "CoriOshawott", 
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames", 
             "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

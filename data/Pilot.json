@@ -8,50 +8,55 @@
     "desc": "Simple looking Level using the Nintendo Switch color scheme which some interesting gameplay gimmicks to offer, most notably the cube at ~30%",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "Breaker", 
+         {
+            "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Arcadie",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DIUSED",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Kizibro7",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DaShahzad",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "AceK58", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Chonkey", 
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }

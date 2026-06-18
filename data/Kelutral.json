@@ -8,30 +8,34 @@
     "desc": "How high are the chances that you believed the song was by Aeronmusic first? The best flow in the list and arguably the best gameplay. Everyone loves this random level and you should too 🔥",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "Breaker", 
+         {
+            "user": "Breaker",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "DIUSED",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         },
         {
             "user": "Chonkey",
             "percent": 100,
-            "hz": 60
+            "hz": " - "
         }
     ]
 }
