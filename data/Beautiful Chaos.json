@@ -52,7 +52,8 @@
             "hz": " - "
         },
         {
-            "user": "Yoshi", 
+            "user": "Yoshi",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         }        

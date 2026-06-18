@@ -9,7 +9,8 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Azulamazigh", 
+            "user": "Azulamazigh",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -30,6 +31,6 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
-        }.
+        }
     ]
 }

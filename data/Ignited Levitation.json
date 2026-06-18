@@ -27,6 +27,7 @@
         },
         {
             "user": "lightning",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },

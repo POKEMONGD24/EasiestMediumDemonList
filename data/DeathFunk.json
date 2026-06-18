@@ -11,26 +11,31 @@
     "records": [
         {
             "user": "FireBird",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "DIUS3D",
+            "user": "DIUSED",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "Ireane",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "l1ghtning",
+            "user": "lightning",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "Arcadie",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -42,26 +47,31 @@
         },
         {
             "user": "Abeginner",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "stickch",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "Big",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "Anomaly",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "sigmaexe",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -78,11 +88,13 @@
         },
         {
             "user": "shiver",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "AerialShard",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -91,7 +103,7 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
-        },,
+        },
         {
             "user": "SkyHigh",
             "percent": 100,
@@ -104,11 +116,13 @@
         },
         {
             "user": "Sheepyboy",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "Chonkey",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -139,11 +153,13 @@
         },
         {
             "user": "wassas1",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "tomm",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -165,6 +181,7 @@
         },
         {
             "user": "nukakulah",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -185,6 +202,7 @@
         },
         {
             "user": "Beeshie",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -342,6 +360,7 @@
         },
         {
             "user": "Identity",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },

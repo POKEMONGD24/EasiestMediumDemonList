@@ -11,6 +11,7 @@
     "records": [
         {
             "user": "tomm",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
