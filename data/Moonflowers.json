@@ -2,7 +2,7 @@
     "id": 95506191,
     "name": "Moonflowers (D)",
     "author": "rply",
-    "creators": ["rply", "ImMaxX1"],
+    "creators": ["rply", "ivyteal"],
     "verifier": "rply",
     "verification": "https://youtu.be/NV7sc1wqy3w?si=cINOsNU2_N43Aa-l",
     "desc": "desc",
@@ -70,6 +70,12 @@
         },
         {
             "user": "Sir_Manface",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Liverlan",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
