@@ -55,6 +55,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
+        },
+        {
+            "user": "huggies",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
         }
     ]
 }
