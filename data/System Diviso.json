@@ -1,0 +1,49 @@
+{
+    "id": 77120289,
+    "name": "System Diviso",
+    "author": "RoyalP",
+    "creators": [],
+    "verifier": "RoyalP",
+    "verification": "https://www.youtube.com/watch?v=GR3ri4o7_Io",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AceK58",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "wassas1",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Chonkey",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        }
+    ]
+}
