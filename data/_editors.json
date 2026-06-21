@@ -13,16 +13,16 @@
         "role": "admin",
         "name": "Identity",
         "link": "https://www.youtube.com/@Identity_GD/featured"
-    },
+    },,
+    {
+        "role": "admin",
+        "name": "huggies",
+        "link": "https://www.youtube.com/@huggies123/featured"
+    }
     {
         "role": "helper",
         "name": "scape167",
         "link": "https://www.youtube.com/@scape167?sub_confirmation=1"
-    },
-    {
-        "role": "helper",
-        "name": "Azulamazigh",
-        "link": "https://youtube.com/@azulamazighberber?si=C8yG9zy4CMJPVDB9"
     },
     {
         "role": "dev",
