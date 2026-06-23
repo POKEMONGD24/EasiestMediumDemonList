@@ -69,7 +69,14 @@
             "hz": " - "
         },
         {
-            "user": "[MOAT] Bobbyp02", 
+            "user": "[MOAT] Bobbyp02",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Excryst", 
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         }
