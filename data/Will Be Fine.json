@@ -9,6 +9,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "killswitch",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
             "user": "ZircleZ",
             "link": "RecordLink",
             "percent": 100,
