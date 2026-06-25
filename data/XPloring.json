@@ -32,6 +32,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
+        },
+        {
+            "user": "Yoshi",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
         }
     ]
 }
