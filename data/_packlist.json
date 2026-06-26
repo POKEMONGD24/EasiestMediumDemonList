@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Top 5 Pack",
+        "levels": [
+            "albacore",
+            "As Reality Falls"
+        ],
+        "colour": "#000000"
+    },
+    {
+        "name": "Black and White Pack",
+        "levels": [
+            "Aeon Flux",
+            "666"
+        ],
+        "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
+    }
+]
