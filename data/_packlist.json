@@ -77,5 +77,38 @@
             "Spacetime Error"
         ],
         "colour": "#000000"
-    } 
+    },
+        },
+        {
+        "name": "Medium Pack",
+        "levels": [
+            "Beautiful Chaos",
+            "Veritas Mentis",
+            "Pilot",
+            "DeathFunk",
+            "No Time To Die",
+            "Ice Melt",
+            "Kelutral",
+            "CLEAR",
+            "Solaura",
+            "Takeoff",
+            "Break The Rules",
+            "ChZzK",
+            "Electric Algal Bloom",
+            "Neuf Cercles",
+            "Astral Prism",
+            "Jive",
+            "The Red Room",
+            "StarQuake",
+            "jarvis demon map",
+            "GET UP",
+            "Lucy",
+            "Invisible Light",
+            "Moonflowers",
+            "Iris Gradu",
+            "Blocky Antics",
+            "Shuriken"
+        ]
+        "colour": "#1264F2"
+    },
 ]
