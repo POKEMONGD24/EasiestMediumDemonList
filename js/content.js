@@ -6,6 +6,21 @@ import { round, score } from './score.js';
 const dir = '/data';
 
 export async function fetchList() {
+      // Load pack definitions once
+      const packs = await fetchPacks(); // returns null or array
+      const levelToPacks = {};
+    
+      if (packs) {
+        packs.forEach(pack => {
+          (pack.levels ?? []).forEach(levelId => {
+            (levelToPacks[levelId] ??= []).push({
+              name: pack.name,
+              colour: pack.colour,
+            });
+          });
+        });
+      }
+    
     const listResult = await fetch(`${dir}/_list.json`);
     try {
         const list = await listResult.json();
@@ -18,7 +33,9 @@ export async function fetchList() {
                         {
                             ...level,
                             path,
-                            records: level.records
+              // Inject packs membership (empty array if none / packs failed)
+              packs: levelToPacks[path] ?? [],
+              records: (level.records ?? [])
                                 .map(({ hz, ...rest }) => rest)
                                 .sort((a, b) => b.percent - a.percent),
                         },
@@ -48,6 +65,10 @@ export async function fetchEditors() {
 
 export async function fetchLeaderboard() {
     const list = await fetchList();
+
+    if (!list) {
+        return null;
+    }
 
     const scoreMap = {};
     const errs = [];
@@ -89,6 +110,7 @@ export async function fetchLeaderboard() {
                 completed.push({
                     rank: rank + 1,
                     level: level.name,
+                    levelPath: level.path,  // (file id)
                     score: score(rank + 1, 100, level.percentToQualify),
                     link: record.link,
                 });
@@ -98,6 +120,7 @@ export async function fetchLeaderboard() {
             progressed.push({
                 rank: rank + 1,
                 level: level.name,
+                levelPath: level.path,
                 percent: record.percent,
                 score: score(rank + 1, record.percent, level.percentToQualify),
                 link: record.link,
@@ -115,10 +138,78 @@ export async function fetchLeaderboard() {
         return {
             user,
             total: round(total),
+            packs: [],
             ...scores,
         };
     });
 
+/* ================= PACK COMPLETION ================= */
+
+const packs = await fetchPacks(); // uses _packlist.json
+
+if (packs) {
+  res.forEach(player => {
+    // completed level file-ids (paths) from _list.json
+    const completedIds = new Set(
+      player.completed.map(l => l.levelPath).filter(Boolean)
+    );
+
+    // Pack is "completed" only if EVERY levelId in that pack is completed
+    player.packs = packs.filter(pack => {
+      const levels = pack.levels ?? [];
+      if (levels.length === 0) return false; // ignore empty packs
+      return levels.every(levelId => completedIds.has(levelId));
+    });
+  });
+} else {
+  res.forEach(player => (player.packs = []));
+}
+
+/* =================================================== */
+
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
+}
+
+export async function fetchPacks() {
+    try {
+        const res = await fetch(`${dir}/_packlist.json`);
+        return await res.json(); // array of {name, levels, colour}
+    } catch {
+        return null;
+    }
+}
+
+export async function fetchPackLevels(packName) {
+    try {
+        const packs = await fetchPacks();
+        if (!packs) return null;
+
+        const pack = packs.find(p => p.name === packName);
+        if (!pack) return null;
+
+        return await Promise.all(
+            pack.levels.map(async (path, idx) => {
+                try {
+                    const levelRes = await fetch(`${dir}/${path}.json`);
+                    const level = await levelRes.json();
+
+                    return [{
+                        level: {
+                            ...level,
+                            path,
+                            records: (level.records ?? [])
+                                .map(({ hz, ...rest }) => rest)
+                                .sort((a, b) => b.percent - a.percent),
+                        }
+                    }, null];
+                } catch {
+                    console.error(`Failed to load pack level #${idx + 1}: ${path}.json`);
+                    return [null, path];
+                }
+            })
+        );
+    } catch {
+        return null;
+    }
 }

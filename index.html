@@ -23,9 +23,11 @@
             type="text/css"
             href="/css/pages/leaderboard.css"
         />
+        <link rel="stylesheet" type="text/css" href="/css/pages/listpacks.css" />
         <link rel="stylesheet" type="text/css" href="/css/pages/roulette.css" />
         <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
         <link rel="stylesheet" type="text/css" href="/css/components/btn.css" />
+        <link rel="stylesheet" type="text/css" href="/css/components/tabs.css" />
         <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
         <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
         <script type="module" src="/js/main.js"></script>
@@ -34,7 +36,7 @@
         <header :class="{ dark: store.dark }">
             <div class="logo">
                 <h2>EMDL</h2>
-                <p>v1.0.0</p>
+                <p>v1.1</p>
             </div>
             <nav class="nav">
                 <router-link class="nav__tab" to="/">
@@ -42,6 +44,9 @@
                 </router-link>
                 <router-link class="nav__tab" to="/leaderboard">
                     <span class="type-label-lg">Leaderboard</span>
+                </router-link>
+                <router-link class="nav__tab" to="/listpacks">
+                    <span class="type-label-lg">Packs</span>
                 </router-link>
                 <router-link class="nav__tab" to="/roulette">
                     <span class="type-label-lg">Roulette</span>
@@ -56,15 +61,9 @@
                             alt=""
                         />
                     </button>
-                    <a class="nav__icon" href="">
+                    <a class="nav__icon" href="https://discord.gg/nkkNApgGX">
                         <img src="/assets/discord.svg" alt="Discord Logo" />
                     </a>
-                    <a
-                        class="nav__cta type-label-lg"
-                        href=""
-                        target="_blank"
-                        >Submit Record</a
-                    >
                 </div>
             </nav>
         </header>

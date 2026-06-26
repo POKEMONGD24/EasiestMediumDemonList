@@ -1,3 +1,16 @@
+@charset "UTF-8";
+
+/* Allow grid/flex children to shrink instead of forcing page overflow */
+main,
+.root,
+.page-list,
+.pack-list,
+.list-container,
+.level-container,
+.meta-container {
+  min-width: 0;
+}
+
 :root {
     --color-background: white;
     --color-on-background: black;
@@ -24,14 +37,22 @@ header.dark {
 }
 
 html,
-body {
+body,
+.root {
     height: 100%;
 }
 
-body {
+.root {
     display: flex;
     flex-direction: column;
     margin: 0;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+} 
+
+.surface {
+    background-color: var(--color-background);
+    color: var(--color-on-background);
 }
 
 header,
@@ -46,7 +67,8 @@ main {
     column-gap: 2rem;
 }
 
-header {
+header.surface {
+    padding: 0;
     display: flex;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
@@ -77,8 +99,8 @@ main {
     grid-template-rows: minmax(0, 1fr);
     column-gap: 2rem;
 }
-main > div {
-    overflow-y: auto;
+main > div:has(.pack-list) {
+  overflow-y: hidden;
 }
 
 .spinner {
