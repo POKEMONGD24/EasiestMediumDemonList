@@ -28,5 +28,42 @@
 
         ],
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
-    }
+    },
+        {
+        "name": "Duo Pack",
+        "levels": [
+            "Dumal",
+            "Viox",
+            "Mangut 2022",
+            "Iodine",
+            "Claim Our Throne"
+        ],
+        "colour": "#000000"
+    },
+        {
+        "name": "Medium Pack",
+        "levels": [
+            "Demon Park 2",
+            "Dumal",
+            "Breakout (HTigerzGD)",
+            "nyoom",
+            "nguyen bang qua",
+            "dEF",
+            "EU RI",
+            "catharsis",
+            "penguin industries",
+            "mmrr",
+            "KILN",
+            "CLEAR",
+            "till Doomsday",
+            "cozy",
+            "GET UP",
+            "Shuriken",
+            "SMILE ON MY FACE",
+            "I see ees I",
+            "CONQUER",
+            "first day"
+        ],
+        "colour": "#126400"
+    },
 ]
