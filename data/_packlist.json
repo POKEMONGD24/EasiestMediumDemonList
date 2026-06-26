@@ -8,7 +8,7 @@
             "Variance",
             "TIME LEAPER"
         ],
-        "colour": "#120000"
+        "colour": "#1299F0"
     },
     {
         "name": "Weekly Pack",
@@ -65,5 +65,17 @@
             "first day"
         ],
         "colour": "#126400"
-    }
+    },
+            {
+        "name": "Nine Circles Pack",
+        "levels": [
+            "Solar Circles",
+            "flea",
+            "Nine Circles XII",
+            "Neuf Cercles",
+            "Invisible Light",
+            "Spacetime Error"
+        ],
+        "colour": "#000000"
+    } 
 ]
