@@ -41,7 +41,7 @@ export default {
                             </button>
                         </td>
                     </tr>
-                </div>
+                </table>
             </div>
             <div class="level-container">
                 <div class="level" v-if="level">
