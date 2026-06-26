@@ -8,23 +8,23 @@
             "Variance",
             "TIME LEAPER"
         ],
-        "colour": "#000000"
+        "colour": "#120000"
     },
     {
         "name": "Weekly Pack",
         "levels": [
-            "Boxing Boxes",
-            "Vagueness",
             "Noel Electra", 
-            "Jive", 
+            "Boxing Boxes",
             "Pilot", 
-            "Black N White", 
+            "HEMI",
             "CASINO BLITZ", 
-            "HEMI", 
-            "TOUCH THE ORBS BUB", 
-            "Virtual Reality (Nikuomi)", 
+            "Black N White", 
             "factry",
-            "Lucy"
+            "Jive", 
+            "Lucy",
+            "Vagueness",
+            "TOUCH THE ORBS BUB", 
+            "Virtual Reality"
 
         ],
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
