@@ -117,16 +117,17 @@ export default {
     `,
 computed: {
     entry() {
-    return this.filteredLeaderboard?.[this.selected] ?? {
-        user: '',
-        total: 0,
-        verified: [],
-        completed: [],
-        progressed: [],
-        packs: []
-    };
-}
-    filteredLeaderboard() {           // <-- ADD THIS
+        return this.filteredLeaderboard?.[this.selected] ?? {
+            user: '',
+            total: 0,
+            verified: [],
+            completed: [],
+            progressed: [],
+            packs: []
+        };
+    },
+
+    filteredLeaderboard() {
         if (!this.playerSearch) return this.leaderboard;
 
         return this.leaderboard.filter(player =>
