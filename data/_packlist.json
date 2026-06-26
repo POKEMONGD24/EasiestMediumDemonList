@@ -8,10 +8,21 @@
         "colour": "#000000"
     },
     {
-        "name": "Black and White Pack",
+        "name": "Weekly Pack",
         "levels": [
-            "Aeon Flux",
-            "666"
+            "Boxing Boxes",
+            "Vagueness",
+            "Noel Electra", 
+            "Jive", 
+            "Pilot", 
+            "Black N White", 
+            "CASINO BLITZ", 
+            "HEMI", 
+            "TOUCH THE ORBS BUB", 
+            "Virtual Reality (Nikuomi)", 
+            "factry",
+            "Lucy"
+
         ],
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
