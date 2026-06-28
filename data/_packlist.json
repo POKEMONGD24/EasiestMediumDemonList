@@ -493,6 +493,23 @@
         "colour": "#36b290"
     },
         {
+        "name": "Sir_Manface Pack",
+        "levels": [
+            "Thundering Pulse",
+            "The Retro Tower",
+            "Koi no Uta",
+            "catharsis",
+            "CASINO BLITZ",
+            "Blueprint",
+            "B",
+            "WANNACRY",
+            "Electric Algal Bloom",
+            "Ghost Ship",
+            "Meteorite 2024"
+        ],
+        "colour": "#6b00f0"
+    },
+        {
         "name": "ZircleZ Pack",
         "levels": [
             "In Transmit",
@@ -509,21 +526,19 @@
         "colour": "#e600de"
     },
         {
-        "name": "Sir_Manface Pack",
+        "name": "huggies Pack",
         "levels": [
-            "Thundering Pulse",
-            "The Retro Tower",
-            "Koi no Uta",
-            "catharsis",
-            "CASINO BLITZ",
-            "Blueprint",
-            "B",
-            "WANNACRY",
-            "Electric Algal Bloom",
-            "Ghost Ship",
-            "Meteorite 2024"
+            "In Transmit",
+            "Variance",
+            "TIME LEAPER",
+            "Noel Electra",
+            "Veritas Mentis",
+            "No Time To Die",
+            "Ice Melt",
+            "Blighted Stronghold",
+            "WANNACRY"
         ],
-        "colour": "#6b00f0"
+        "colour": "#00ffea"
     },
         {
         "name": "gonker Pack",
