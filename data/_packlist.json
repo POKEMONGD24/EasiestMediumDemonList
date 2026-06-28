@@ -206,6 +206,17 @@
         "colour": "#101f48"
     },
         {
+        "name": "Food Pack",
+        "levels": [
+            "Sushii",
+            "Sugar HIGH",
+            "CaRaMeL",
+            "Hot Dog Redux",
+            "54l4d54ndw1ch"
+        ],
+        "colour": "#ffe1a8"
+    },
+        {
         "name": "Duo Pack",
         "levels": [
             "Dumal",
