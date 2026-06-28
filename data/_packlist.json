@@ -208,8 +208,29 @@
             "PRINTER NOISES",
             "penguin industries",
             "Become a Monster",
+            "Hot Dog Redux",
             "Happy Days"
         ],
         "colour": "#648498"
+    },
+        {
+        "name": "Breaker Pack",
+        "levels": [
+            "In Transmit",
+            "Scavenger",
+            "earth with you",
+            "Blur (yoroloro)",
+            "legalize nuclea bomb",
+            "DreamLights",
+            "MAGISTRO",
+            "Boxing Boxes",
+            "Ice Melt",
+            "Two Steps Back",
+            "Kelutral",
+            "TOUCH THE ORBS BUB",
+            "SAFESPACES",
+            "Winterlude (Vicolor)"
+        ],
+        "colour": "#36b290"
     }
 ]
