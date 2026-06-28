@@ -119,6 +119,40 @@
         "colour": "#016274"
     },
         {
+        "name": "Trash Pack",
+        "levels": [
+            "BEYOND CREATION",
+            "Demon Park 2",
+            "the nightmare road",
+            "ClownStep",
+            "albacore",
+            "Overcome (Fgoll)"
+        ],
+        "colour": "#704001"
+    },
+        {
+        "name": "Trash+ Pack",
+        "levels": [
+            "Funky Stuff",
+            "CLUBSTEP 2019",
+            "Mangut 2022",
+            "Natural step",
+            "mmrr"
+        ],
+        "colour": "#704001"
+    },
+        {
+        "name": "Trash- Pack",
+        "levels": [
+            "StarQuake",
+            "GET UP",
+            "Star Flower",
+            "xKey",
+            "Sponsor"
+        ],
+        "colour": "#704001"
+    },
+        {
         "name": "Controversial Pack",
         "levels": [
             "Dumal",
