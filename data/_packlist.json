@@ -250,6 +250,15 @@
         "colour": "#a9ffa0"
     },
         {
+        "name": "Split72 Pack",
+        "levels": [
+            "Glazed",
+            "mmrr",
+            "Zone Out"
+        ],
+        "colour": "#ca760a"
+    },
+        {
         "name": "Breaker Pack",
         "levels": [
             "In Transmit",
