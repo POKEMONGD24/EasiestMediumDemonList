@@ -299,6 +299,17 @@
         "colour": "#ff1c00"
     },
         {
+        "name": "Year Pack",
+        "levels": [
+            "Wawa REEL 2025",
+            "CLUBSTEP 2019",
+            "Harambe Theory 2013",
+            "Mangut 2022",
+            "Meteorite 2024"
+        ],
+        "colour": "#7dfffd"
+    },
+        {
         "name": "Hidden Minigames Pack",
         "levels": [
             "Path Walker",
