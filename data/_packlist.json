@@ -150,5 +150,24 @@
             "Mangut 2022"
         ],
         "colour": "#000000"
+    },
+        {
+        "name": "Controversial Pack",
+        "levels": [
+            "Dumal",
+            "Hello Fitzgerald",
+            "augmentation",
+            "Rainbow Flux",
+            "Ice Melt",
+            "CLEAR",
+            "WANNACRY",
+            "Become a Monster",
+            "Solaura",
+            "Iodine",
+            "TWIN TABULATING",
+            "Hot Dog Redux",
+            "Vagueness"
+        ],
+        "colour": "#000000"
     }
 ]
