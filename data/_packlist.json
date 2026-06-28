@@ -232,5 +232,19 @@
             "Winterlude (Vicolor)"
         ],
         "colour": "#36b290"
+    },
+        {
+        "name": "RobTop Pack",
+        "levels": [
+            "ToE 2 v2",
+            "MaffStep",
+            "RobTop",
+            "Living Open",
+            "CLUBSTEP 2019",
+            "Clutterfunk v2 (Snambs)",
+            "Clutterfunk V2 (DemonBestGG)",
+            "Sponsor"
+        ],
+        "colour": "#222222"
     }
 ]
