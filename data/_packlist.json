@@ -10,6 +10,100 @@
         ],
         "colour": "#1299F0"
     },
+        {
+        "name": "EDL Pack",
+        "levels": [
+            "Beautiful Chaos",
+            "Veritas Mentis",
+            "Pilot",
+            "DeathFunk",
+            "No Time To Die",
+            "Ice Melt",
+            "Kelutral",
+            "CLEAR",
+            "Solaura",
+            "Takeoff",
+            "Break The Rules",
+            "ChZzK",
+            "Electric Algal Bloom",
+            "Neuf Cercles",
+            "Astral Prism",
+            "Jive",
+            "The Red Room",
+            "StarQuake",
+            "jarvis demon map",
+            "GET UP",
+            "Lucy",
+            "Invisible Light",
+            "Moonflowers",
+            "Iris Gradu",
+            "Blocky Antics",
+            "Shuriken"
+        ],
+        "colour": "#6e00db"
+    },
+        {
+        "name": "EADL Pack",
+        "levels": [
+            "Dreamquest",
+            "The Doomsday",
+            "STELLAR CORRIDOR",
+            "Bad habit",
+            "Sandstone Shafts",
+            "Dream Odyssey",
+            "Meteorite 2024",
+            "Winterlude (Vicolor)",
+            "first day",
+            "Aurora",
+            "SHADOW DANCE",
+            "Stardive",
+            "Other Side",
+            "Somethin Spooky",
+            "Dynamic Drive",
+            "Flowers III",
+            "Cyberphobia",
+            "caelestia",
+            "Blips n Chitz",
+            "ForGurt",
+            "Nautical Nightmare",
+            "One Violet Situation",
+            "Sea Hunter "
+        ],
+        "colour": "#174dff"
+    },
+        {
+        "name": "Controversial Pack",
+        "levels": [
+            "Dumal",
+            "Hello Fitzgerald",
+            "augmentation",
+            "Rainbow Flux",
+            "Ice Melt",
+            "CLEAR",
+            "WANNACRY",
+            "Become a Monster",
+            "Solaura",
+            "Iodine",
+            "TWIN TABULATING",
+            "Hot Dog Redux",
+            "Vagueness"
+        ],
+        "colour": "#ff0000"
+    },
+        {
+        "name": "Funny Pack",
+        "levels": [
+            "A Minecraft Level",
+            "Hello Fitzgerald",
+            "Harambe Theory 2013",
+            "PRINTER NOISES",
+            "penguin industries",
+            "Become a Monster",
+            "Hot Dog Redux",
+            "Happy Days"
+        ],
+        "colour": "#648498"
+    },
     {
         "name": "Weekly Pack",
         "levels": [
@@ -28,17 +122,6 @@
 
         ],
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,200,255,1) 100%)"
-    },
-        {
-        "name": "Duo Pack",
-        "levels": [
-            "Dumal",
-            "Viox",
-            "Mangut 2022",
-            "Iodine",
-            "Claim Our Throne"
-        ],
-        "colour": "#fff9d9"
     },
         {
         "name": "Medium Pack",
@@ -79,38 +162,6 @@
         "colour": "#01c29b"
     },
         {
-        "name": "EDL Pack",
-        "levels": [
-            "Beautiful Chaos",
-            "Veritas Mentis",
-            "Pilot",
-            "DeathFunk",
-            "No Time To Die",
-            "Ice Melt",
-            "Kelutral",
-            "CLEAR",
-            "Solaura",
-            "Takeoff",
-            "Break The Rules",
-            "ChZzK",
-            "Electric Algal Bloom",
-            "Neuf Cercles",
-            "Astral Prism",
-            "Jive",
-            "The Red Room",
-            "StarQuake",
-            "jarvis demon map",
-            "GET UP",
-            "Lucy",
-            "Invisible Light",
-            "Moonflowers",
-            "Iris Gradu",
-            "Blocky Antics",
-            "Shuriken"
-        ],
-        "colour": "#6e00db"
-    },
-        {
         "name": "NCS Pack",
         "levels": [
             "Blur (yoroloro)",
@@ -133,14 +184,29 @@
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,165,0,1) 17%, rgba(255,255,0,1) 33%, rgba(0,128,0,1) 50%, rgba(0,0,255,1) 67%, rgba(75,0,130,1) 83%, rgba(238,130,238,1) 100%)"
     },
         {
-        "name": "Hidden Minigames Pack",
+        "name": "Duo Pack",
         "levels": [
-            "Path Walker",
-            "MasterGame",
-            "Dim",
-            "The Bahamut"
+            "Dumal",
+            "Viox",
+            "Mangut 2022",
+            "Iodine",
+            "Claim Our Throne"
         ],
-        "colour": "#cecece"
+        "colour": "#fff9d9"
+    },
+        {
+        "name": "RobTop Pack",
+        "levels": [
+            "ToE 2 v2",
+            "MaffStep",
+            "RobTop",
+            "Living Open",
+            "CLUBSTEP 2019",
+            "Clutterfunk v2 (Snambs)",
+            "Clutterfunk V2 (DemonBestGG)",
+            "Sponsor"
+        ],
+        "colour": "#a5a5a5"
     },
         {
         "name": "Mangut Pack",
@@ -150,68 +216,6 @@
             "Mangut 2022"
         ],
         "colour": "#a9ffa0"
-    },
-        {
-        "name": "Controversial Pack",
-        "levels": [
-            "Dumal",
-            "Hello Fitzgerald",
-            "augmentation",
-            "Rainbow Flux",
-            "Ice Melt",
-            "CLEAR",
-            "WANNACRY",
-            "Become a Monster",
-            "Solaura",
-            "Iodine",
-            "TWIN TABULATING",
-            "Hot Dog Redux",
-            "Vagueness"
-        ],
-        "colour": "#ff0000"
-    },
-        {
-        "name": "EADL Pack",
-        "levels": [
-            "Dreamquest",
-            "The Doomsday",
-            "STELLAR CORRIDOR",
-            "Bad habit",
-            "Sandstone Shafts",
-            "Dream Odyssey",
-            "Meteorite 2024",
-            "Winterlude (Vicolor)",
-            "first day",
-            "Aurora",
-            "SHADOW DANCE",
-            "Stardive",
-            "Other Side",
-            "Somethin Spooky",
-            "Dynamic Drive",
-            "Flowers III",
-            "Cyberphobia",
-            "caelestia",
-            "Blips n Chitz",
-            "ForGurt",
-            "Nautical Nightmare",
-            "One Violet Situation",
-            "Sea Hunter "
-        ],
-        "colour": "#174dff"
-    },
-        {
-        "name": "Funny Pack",
-        "levels": [
-            "A Minecraft Level",
-            "Hello Fitzgerald",
-            "Harambe Theory 2013",
-            "PRINTER NOISES",
-            "penguin industries",
-            "Become a Monster",
-            "Hot Dog Redux",
-            "Happy Days"
-        ],
-        "colour": "#648498"
     },
         {
         "name": "Breaker Pack",
@@ -232,20 +236,6 @@
             "Winterlude (Vicolor)"
         ],
         "colour": "#36b290"
-    },
-        {
-        "name": "RobTop Pack",
-        "levels": [
-            "ToE 2 v2",
-            "MaffStep",
-            "RobTop",
-            "Living Open",
-            "CLUBSTEP 2019",
-            "Clutterfunk v2 (Snambs)",
-            "Clutterfunk V2 (DemonBestGG)",
-            "Sponsor"
-        ],
-        "colour": "#a5a5a5"
     },
         {
         "name": "High CPS Pack",
@@ -295,5 +285,15 @@
             "Meteorite 2024"
         ],
         "colour": "#6b00f0"
+    },
+        {
+        "name": "Hidden Minigames Pack",
+        "levels": [
+            "Path Walker",
+            "MasterGame",
+            "Dim",
+            "The Bahamut"
+        ],
+        "colour": "#cecece"
     }
 ]
