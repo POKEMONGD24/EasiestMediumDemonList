@@ -109,5 +109,26 @@
             "Shuriken"
         ],
         "colour": "#1264F2"
+    },
+        {
+        "name": "NCS Pack",
+        "levels": [
+            "Blur (yoroloro)",
+            "Noel Electra",
+            "MAGISTRO",
+            "Hush",
+            "Sugar HIGH",
+            "Metamorphosis",
+            "WANNACRY",
+            "Electric Algal Bloom",
+            "Neozenith",
+            "Evanescence ",
+            "CELESTIAL PINNACLE",
+            "STELLAR CORRIDOR",
+            "Bad habit",
+            "Blips n Chitz",
+            "Nautical Nightmare"
+        ],
+        "colour": "#000000"
     }
 ]
