@@ -346,6 +346,35 @@
         "colour": "#101f48"
     },
         {
+        "name": "Michael Jackson Pack",
+        "levels": [
+            "Critical Hit",
+            "Chasing Stars",
+            "Two Steps Back",
+            "Black N White",
+            "Glazed",
+            "Banger",
+            "Megadisco",
+            "The AnomalY",
+            "Sponsor",
+            "OwnSelfduggedGrave  "
+        ],
+        "colour": "#696e72"
+    },
+        {
+        "name": "Freaky Pack",
+        "levels": [
+            "Shifter",
+            "Hello Fitzgerald",
+            "DEVIL GIRL",
+            "Ethereal Lullaby",
+            "RobTop",
+            "Liquwolf",
+            "Rainbow Flux"
+        ],
+        "colour": "#fa4cd1"
+    },
+        {
         "name": "Year Pack",
         "levels": [
             "Wawa REEL 2025",
