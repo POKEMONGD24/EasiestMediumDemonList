@@ -287,6 +287,18 @@
         "colour": "#6b00f0"
     },
         {
+        "name": "gonker Pack",
+        "levels": [
+            "The Retro Tower",
+            "PRINTER NOISES",
+            "WANNACRY",
+            "StarQuake",
+            "Lucy",
+            "caelestia"
+        ],
+        "colour": "#ff1c00"
+    },
+        {
         "name": "Hidden Minigames Pack",
         "levels": [
             "Path Walker",
