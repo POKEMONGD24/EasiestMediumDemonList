@@ -131,5 +131,15 @@
             "Nautical Nightmare"
         ],
         "colour": "#000000"
+    },
+        {
+        "name": "Hidden Minigames Pack",
+        "levels": [
+            "Path Walker",
+            "MasterGame",
+            "Dim",
+            "The Bahamut"
+        ],
+        "colour": "#000000"
     }
 ]
