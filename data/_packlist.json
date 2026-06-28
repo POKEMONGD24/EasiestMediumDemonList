@@ -368,6 +368,20 @@
         "colour": "#ffe1a8"
     },
         {
+        "name": "Creator Pack",
+        "levels": [
+            "NG factory ",
+            "outpost zimonja",
+            "Ignited Levitation",
+            "Ice Melt",
+            "PRINTER NOISES",
+            "grandfather",
+            "Mangut 2022",
+            "The AnomalY"
+        ],
+        "colour": "#fdfff7"
+    },
+        {
         "name": "RobTop Pack",
         "levels": [
             "ToE 2 v2",
