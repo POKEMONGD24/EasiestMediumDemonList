@@ -262,5 +262,21 @@
             "Zone Out"
         ],
         "colour": "#ff9900"
+    },
+        {
+        "name": "ZircleZ Pack",
+        "levels": [
+            "In Transmit",
+            "Two Steps Back",
+            "Kelutral",
+            "CASINO BLITZ",
+            "NO CONNECT",
+            "Moonflowers",
+            "SkyBase",
+            "Bizzare Autumn",
+            "Virtual Reality",
+            "Winterlude (Vicolor)"
+        ],
+        "colour": "#e600de"
     }
 ]
