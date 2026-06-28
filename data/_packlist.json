@@ -140,7 +140,7 @@
             "Dim",
             "The Bahamut"
         ],
-        "colour": "#000000"
+        "colour": "#cecece"
     },
         {
         "name": "Mangut Pack",
@@ -149,7 +149,7 @@
             "grandfather",
             "Mangut 2022"
         ],
-        "colour": "#000000"
+        "colour": "#a9ffa0"
     },
         {
         "name": "Controversial Pack",
@@ -168,7 +168,7 @@
             "Hot Dog Redux",
             "Vagueness"
         ],
-        "colour": "#000000"
+        "colour": "#ff0000"
     },
         {
         "name": "EADL Pack",
@@ -197,7 +197,7 @@
             "One Violet Situation",
             "Sea Hunter "
         ],
-        "colour": "#111111"
+        "colour": "#174dff"
     },
         {
         "name": "Funny Pack",
@@ -245,6 +245,6 @@
             "Clutterfunk V2 (DemonBestGG)",
             "Sponsor"
         ],
-        "colour": "#222222"
+        "colour": "#a5a5a5"
     }
 ]
