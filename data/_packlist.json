@@ -196,4 +196,20 @@
             "Nautical Nightmare",
             "One Violet Situation",
             "Sea Hunter "
+        ],
+        "colour": "#111111"
+    },
+        {
+        "name": "Funny Pack",
+        "levels": [
+            "A Minecraft Level",
+            "Hello Fitzgerald",
+            "Harambe Theory 2013",
+            "PRINTER NOISES",
+            "penguin industries",
+            "Become a Monster",
+            "Happy Days"
+        ],
+        "colour": "#648498"
+    }
 ]
