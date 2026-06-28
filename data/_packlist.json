@@ -184,6 +184,28 @@
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,165,0,1) 17%, rgba(255,255,0,1) 33%, rgba(0,128,0,1) 50%, rgba(0,0,255,1) 67%, rgba(75,0,130,1) 83%, rgba(238,130,238,1) 100%)"
     },
         {
+        "name": "Space Pack",
+        "levels": [
+            "In Transmit",
+            "digitaverse",
+            "BEYOND CREATION",
+            "Scavenger",
+            "Autopistas Extremas",
+            "sterrenpoes",
+            "antic star",
+            "Iapetus",
+            "bims level",
+            "Unlimited control",
+            "Solar Circles",
+            "Spacetime Error",
+            "Liminal Dystopia",
+            "The AnomalY",
+            "SAFESPACES",
+            "CELESTIAL PINNACLE"
+        ],
+        "colour": "#101f48"
+    },
+        {
         "name": "Duo Pack",
         "levels": [
             "Dumal",
