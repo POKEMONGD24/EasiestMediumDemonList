@@ -38,7 +38,7 @@
             "Iodine",
             "Claim Our Throne"
         ],
-        "colour": "#000000"
+        "colour": "#fff9d9"
     },
         {
         "name": "Medium Pack",
@@ -246,5 +246,21 @@
             "Sponsor"
         ],
         "colour": "#a5a5a5"
+    },
+        {
+        "name": "High CPS Pack",
+        "levels": [
+            "antic star",
+            "DOLBIT NORMALNO",
+            "EXIT THIS NIGHT",
+            "Mystic Thrills",
+            "Atomic",
+            "mmrr",
+            "flea",
+            "till Doomsday",
+            "Hot Dog Redux",
+            "Zone Out"
+        ],
+        "colour": "#ff9900"
     }
 ]
