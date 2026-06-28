@@ -231,6 +231,16 @@
         "colour": "#a5a5a5"
     },
         {
+        "name": "ivyteal Pack",
+        "levels": [
+            "antic star",
+            "Delusion",
+            "DESTRUCTION",
+            "Electric Algal Bloom"
+        ],
+        "colour": "#9c74da"
+    },
+        {
         "name": "Mangut Pack",
         "levels": [
             "outpost zimonja",
