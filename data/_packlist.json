@@ -141,5 +141,14 @@
             "The Bahamut"
         ],
         "colour": "#000000"
+    },
+        {
+        "name": "Mangut Pack",
+        "levels": [
+            "outpost zimonja",
+            "grandfather",
+            "Mangut 2022"
+        ],
+        "colour": "#000000"
     }
 ]
