@@ -72,6 +72,54 @@
         "colour": "#174dff"
     },
         {
+        "name": "Peak Pack",
+        "levels": [
+            "earth with you",
+            "NG factory ",
+            "End of the Play",
+            "legalize nuclea bomb",
+            "Ethereal Lullaby",
+            "Sugar HIGH",
+            "augmentation"
+        ],
+        "colour": "#016274"
+    },
+        {
+        "name": "Peak+ Pack",
+        "levels": [
+            "Ice Melt",
+            "Hand Eyelids",
+            "string theocracy",
+            "Two Steps Back",
+            "A Memorable Note",
+            "As Reality Falls",
+            "Kelutral",
+            "NO CONNECT",
+            "NONGULETA",
+            "WANNACRY",
+            "Break The Rules"
+        ],
+        "colour": "#016274"
+    },
+        {
+        "name": "Peak- Pack",
+        "levels": [
+            "Astral Prism",
+            "Claim Our Throne",
+            "TOUCH THE ORBS BUB",
+            "Ghost Ship",
+            "Mr Holiday Houdini",
+            "Forestopia",
+            "SAFESPACES",
+            "Kelutral",
+            "NO CONNECT",
+            "NONGULETA",
+            "WANNACRY",
+            "Break The Rules"
+        ],
+        "colour": "#016274"
+    },
+        {
         "name": "Controversial Pack",
         "levels": [
             "Dumal",
