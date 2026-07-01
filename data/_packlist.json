@@ -106,14 +106,17 @@
         {
         "name": "Peak Pack",
         "levels": [
+            "Variance",
             "In Transmit",
+            "Trek 22",
             "earth with you",
             "NG factory ",
             "End of the Play",
             "legalize nuclea bomb",
             "Ethereal Lullaby",
             "Sugar HIGH",
-            "augmentation"
+            "augmentation",
+            "Bullet MENTAL"
         ],
         "colour": "#016274"
     },
