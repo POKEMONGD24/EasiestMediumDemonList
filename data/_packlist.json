@@ -106,8 +106,8 @@
         {
         "name": "Peak Pack",
         "levels": [
-            "Variance",
             "In Transmit",
+            "Variance",
             "Tren 22",
             "earth with you",
             "NG factory ",
@@ -403,6 +403,17 @@
         "colour": "#ffe1a8"
     },
         {
+        "name": "Dream Pack",
+        "levels": [
+            "Dreamquest",
+            "DreamLights",
+            "DREAM NEVER SEEN",
+            "Dream (Ghotstav)",
+            "Dream Odyssey"
+        ],
+        "colour": "#f5bbdc"
+    },
+        {
         "name": "Park Pack",
         "levels": [
             "Demon Park 2",
@@ -481,8 +492,8 @@
         {
         "name": "Breaker's Pack",
         "levels": [
-            "Variance",
             "In Transmit",
+            "Variance",
             "Scavenger",
             "Tren 22",
             "earth with you",
