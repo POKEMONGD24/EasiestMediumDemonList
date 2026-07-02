@@ -10,6 +10,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "mangut",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
             "user": "Breaker",
             "link": "RecordLink",
             "percent": 100,
