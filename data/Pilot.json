@@ -50,12 +50,20 @@
             "hz": " - "
         },
         {
-            "user": "AceK58", 
+            "user": "AceK58",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "Chonkey", 
+            "user": "Chonkey",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Netskie",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         }
