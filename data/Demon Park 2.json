@@ -44,6 +44,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
+        },
+        {
+            "user": "Netskie",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
         }
     ]
 }
