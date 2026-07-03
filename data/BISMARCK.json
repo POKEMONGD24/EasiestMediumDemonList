@@ -2,7 +2,7 @@
     "id": 83025300,
     "name": "BISMARCK",
     "author": "Inex",
-    "creators": ["Stalry", "Mitany", "Inex", "CTRX", "maleg016","SonyaGMD", "iReumii", "iISpaceDustIi", "Vertuoz", "iMinAY", "Electro543", "PineApple Cat", "VanirSama", "Stotch", "ChefChichiko"],
+    "creators": ["Stalry", "Mitany", "Inex", "CTRX", "maleg016","SonyaGMD", "iReumii", "iISpaceDustIi", "Vertuoz", "MinAY", "Electro543", "PineApple Cat", "VanirSama", "Stotch", "ChefChichiko"],
     "verifier": "Inex",
     "verification": "https://youtu.be/Wl7V0FkEH8c?si=QA4nuxTDo6ayTlnN",
     "desc": "desc",
@@ -113,6 +113,12 @@
         },
         {
             "user": "Liverlan", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "BillCipher74",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
