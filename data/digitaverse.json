@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "MuncherManiac",
     "verification": "https://youtu.be/E7vi5hCo554",
-    "desc": "WHY ARE THE ORBS JUST A 5% OPACITY SPINING DECO other than that it's just your average glow tech level with an extremely chokable ending",
+    "desc": "Fast-paced 2.2 level with rotating gameplay and a drop which ramps up the difficulty quite a bit",
     "percentToQualify": 100,
     "records": [ 
         {
@@ -52,6 +52,12 @@
         },
         {
             "user": "DaShahzad",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "BillCipher74",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
