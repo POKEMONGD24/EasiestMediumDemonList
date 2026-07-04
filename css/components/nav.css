@@ -16,6 +16,10 @@
     align-items: center;
     padding-inline: 0.5rem;
     transition: border-color 100ms ease;
+
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 17.1428571429px;
+    font-weight: 500;
 }
 .nav .nav__tab.router-link-active {
     border-color: var(--color-on-primary);
