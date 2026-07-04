@@ -65,7 +65,7 @@ main {
     column-gap: 2rem;
 }
 
-header.surface {
+header {
     padding: 0;
     display: flex;
     padding-inline: calc(25vw - 10rem);
