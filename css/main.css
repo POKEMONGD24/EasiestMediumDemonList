@@ -57,8 +57,6 @@ body,
 
 header,
 main {
-    background-color: var(--color-background);
-    color: var(--color-on-background);
     display: grid;
     grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
             16em,
