@@ -4,7 +4,7 @@
     "author": "Dahzen",
     "creators": [],
     "verifier": "Dahzen",
-    "verification": "https://youtu.be/GEDLAa_ysNo?si=c1zDSIucrOSImuwb",
+    "verification": "https://youtu.be/GEDLAa_ysNo",
     "desc": "desc",
     "percentToQualify": 100,
     "records": [
@@ -52,6 +52,12 @@
         },
         {
             "user": "DaShahzad", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Liverlan", 
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
