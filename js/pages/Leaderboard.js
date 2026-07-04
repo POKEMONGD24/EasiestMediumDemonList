@@ -153,5 +153,6 @@ computed: {
     },
     methods: {
         localize,
+        getFontColour,
     },
 };
