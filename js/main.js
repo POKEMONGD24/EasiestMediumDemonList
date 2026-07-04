@@ -6,6 +6,10 @@ export const store = Vue.reactive({
         this.dark = !this.dark;
         localStorage.setItem('dark', JSON.stringify(this.dark));
     },
+    toggleShitty() {
+        this.shitty = !this.shitty;
+        localStorage.setItem('shitty', JSON.stringify(this.shitty));
+    },
 });
 
 const app = Vue.createApp({
