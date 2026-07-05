@@ -244,6 +244,44 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,200,255,1) 100%)"
     },
         {
+        "name": "XXL Pack",
+        "levels": [
+            "In Transmit",
+            "BEATWORLD",
+            "End of the Play",
+            "Aether Construct",
+            "Critical Hit",
+            "Super Wubtendo",
+            "mmrr",
+            "flea",
+            "first day"
+        ],
+        "colour": "#773cb1"
+    },
+        {
+        "name": "XXL+ Pack",
+        "levels": [
+            "Ice Melt",
+            "A Memorable Note",
+            "SAVE AS",
+            "Unlimited control",
+            "As Reality Falls"
+        ],
+        "colour": "#773cb1"
+    },
+        {
+        "name": "XXL- Pack",
+        "levels": [
+            "Liminal Dystopia",
+            "Bizzare Autumn",
+            "New Again",
+            "Winterlude (Vicolor)",
+            "caelestia",
+            "Flowers III"
+        ],
+        "colour": "#773cb1"
+    },
+        {
         "name": "Medium Pack",
         "levels": [
             "No Room In Hell",
