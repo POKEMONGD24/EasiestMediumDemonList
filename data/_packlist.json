@@ -114,8 +114,8 @@
             "End of the Play",
             "legalize nuclea bomb",
             "Ethereal Lullaby",
-            "Sugar HIGH",
-            "augmentation"
+            "augmentation",
+            "Sugar HIGH"
         ],
         "colour": "#016274"
     },
@@ -161,8 +161,8 @@
             "Demon Park 2",
             "BEYOND CREATION",
             "Star Dash",
-            "the nightmare road",
             "ClownStep",
+            "the nightmare road",
             "albacore",
             "Frozen Palace",
             "Overcome (Fgoll)"
@@ -365,8 +365,8 @@
             "BEYOND CREATION",
             "sterrenpoes",
             "antic star",
-            "Iapetus",
             "bims level",
+            "Iapetus",
             "Unlimited control",
             "Solar Circles",
             "Spacetime Error",
@@ -468,9 +468,9 @@
         {
         "name": "RobTop Pack",
         "levels": [
+            "RobTop",
             "ToE 2 v2",
             "MaffStep",
-            "RobTop",
             "Living Open",
             "CLUBSTEP 2019",
             "Clutterfunk v2 (Snambs)",
