@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "name": "EvW",
+    "author": "danerdogger",
+    "creators": [],
+    "verifier": "danerdogger",
+    "verification": "VerificationVideo",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "LifelessComputer",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Breaker",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        }
+    ]
+}
