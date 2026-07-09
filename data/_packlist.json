@@ -5,8 +5,8 @@
             "Dreamquest",
             "CRANK THE SLUDGE",
             "Neverender",
-            "Variance",
-            "mission CSI"
+            "Accord",
+            "Variance"
         ],
         "colour": "#1299F0"
     },
@@ -247,6 +247,7 @@
         {
         "name": "XXL Pack",
         "levels": [
+            "Accord",
             "In Transmit",
             "BEATWORLD",
             "Aether Construct",
