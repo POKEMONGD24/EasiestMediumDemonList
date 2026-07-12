@@ -1,0 +1,37 @@
+{
+    "id": 95880763,
+    "name": "Fugitivo",
+    "author": "im fernando",
+    "creators": [],
+    "verifier": "im fernando",
+    "verification": "https://youtu.be/DZYX5zuSzWA",
+    "desc": "desc",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Breaker",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "iGaaxCreator",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        }
+    ]
+}
