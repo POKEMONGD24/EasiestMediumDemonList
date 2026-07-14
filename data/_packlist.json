@@ -253,8 +253,8 @@
             "Accord",
             "In Transmit",
             "BEATWORLD",
-            "Aether Construct",
             "End of the Play",
+            "Aether Construct",
             "Critical Hit",
             "Super Wubtendo"
         ],
@@ -340,8 +340,8 @@
         {
         "name": "NCS Pack",
         "levels": [
-            "Blur (yoroloro)",
             "Noel Electra",
+            "Blur (yoroloro)",
             "MAGISTRO",
             "Hush",
             "Sugar HIGH",
@@ -362,8 +362,8 @@
         {
         "name": "Space Pack",
         "levels": [
-            "In Transmit",
             "Autopistas Extremas",
+            "In Transmit",
             "Scavenger",
             "digitaverse",
             "BEYOND CREATION",
@@ -401,10 +401,10 @@
         "name": "Freaky Pack",
         "levels": [
             "Shifter",
-            "Hello Fitzgerald",
             "DEVIL GIRL",
             "Ethereal Lullaby",
             "RobTop",
+            "Hello Fitzgerald",
             "Liquwolf",
             "Rainbow Flux"
         ],
@@ -577,9 +577,9 @@
         "name": "huggies' Pack",
         "levels": [
             "Variance",
+            "Noel Electra",
             "In Transmit",
             "TIME LEAPER",
-            "Noel Electra",
             "Veritas Mentis",
             "No Time To Die",
             "Ice Melt",
