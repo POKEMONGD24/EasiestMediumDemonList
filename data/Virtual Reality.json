@@ -4,7 +4,7 @@
     "author": "Nikuomi",
     "creators": [],
     "verifier": "Nikuomi",
-    "verification": "https://youtu.be/PrOpvbBU5mw?si=Ot-RQt8J9aKzMYul",
+    "verification": "https://youtu.be/PrOpvbBU5mw",
     "desc": "desc",
     "percentToQualify": 100,
     "password": "Free Copy",
@@ -76,6 +76,12 @@
         },
         {
             "user": "[MOAT] Bobbyp02",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "yellowbutterflyman",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
