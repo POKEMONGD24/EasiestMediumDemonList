@@ -4,7 +4,7 @@
     "author": "Koshkaht",
     "creators": [],
     "verifier": "Koshkaht",
-    "verification": "https://youtu.be/4m3_E7W3NlI?si=ycxCZ5U5mhGzINJ2",
+    "verification": "https://youtu.be/4m3_E7W3NlI",
     "desc": "desc",
     "percentToQualify": 100,
     "password": "Free Copy",
@@ -71,6 +71,12 @@
         },
         {
             "user": "Liverlan",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "yellowbutterflyman", 
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
