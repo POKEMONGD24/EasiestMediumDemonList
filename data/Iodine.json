@@ -16,12 +16,14 @@
             "hz": " - "
         },
         {
-            "user": "scape167", 
+            "user": "scape167",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "ZircleZ", 
+            "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -40,6 +42,12 @@
         {
             "user": "CoriOshawott",
            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Netskie",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         }
