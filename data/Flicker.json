@@ -11,6 +11,7 @@
     "records": [
         {
             "user": "WKGames",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - " 
         },
