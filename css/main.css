@@ -115,11 +115,10 @@ input[type="checkbox"] {
     margin: 0;
 }
 
-/* Level stats extra layer */
 .stats-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
 }
 
 .extra-stats {
