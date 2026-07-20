@@ -6,6 +6,9 @@
     "verifier": "LevelVerifier",
     "verification": "VerificationVideo",
     "desc": "desc",
+    "tier": "",
+    "enjoyment": "",
+    "length": "",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
