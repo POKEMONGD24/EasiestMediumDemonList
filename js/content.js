@@ -5,8 +5,27 @@ import { round, score } from './score.js';
  */
 const dir = '/data';
 
+const sheetURL = "https://docs.google.com/spreadsheets/d/1c_tyXFIWhv82d17LwP44cj3dheCEXQLeajvthDDdMzk/export?format=csv&gid=0";
+
+async function fetchSheet() {
+    const result = await fetch(sheetURL);
+    const text = await result.text();
+
+    const rows = text.split("\n").map(row => row.split(","));
+
+    const headers = rows.shift();
+
+    return rows.map(row => {
+        const obj = {};
+        headers.forEach((header, i) => {
+            obj[header.trim()] = row[i]?.trim();
+        });
+        return obj;
+    });
+}
+
 export async function fetchList() {
-      // Load pack definitions once
+const sheet = await fetchSheet();
       const packs = await fetchPacks(); // returns null or array
       const levelToPacks = {};
     
@@ -29,6 +48,18 @@ export async function fetchList() {
                 const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
                     const level = await levelResult.json();
+const sheetLevel = sheet.find
+    (    row => row.ID == level.id
+);
+
+return [
+    {
+        ...level,
+        path,
+
+        length: sheetLevel?.Length ?? "",
+        tier: sheetLevel?.Tier ?? "",
+        enjoyment: sheetLevel?.Enjoyment ?? "",
                     return [
                         {
                             ...level,
