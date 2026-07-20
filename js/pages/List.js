@@ -88,6 +88,12 @@ export default {
             <p>{{ level.length }}</p>
         </li>
     </ul>
+        <ul class="stats extra-stats" v-if="level.mdsTier">
+    <li>
+        <div class="type-title-sm">MDS Tier</div>
+        <p>{{ level.mdsTier }}</p>
+    </li>
+</ul>
 </div>
 <p></p>
 <p class="description"> {{level.desc || "No description yet."}}</p>
