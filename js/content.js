@@ -11,14 +11,35 @@ async function fetchSheet() {
     const result = await fetch(sheetURL);
     const text = await result.text();
 
-    const rows = text.split("\n").map(row => row.split(","));
+    const rows = text.match(/(".*?"|[^",]+)(?=\s*,|\s*$)/g)
+        .map(row => row.map ? row : [row]);
 
-    const headers = rows.shift();
+    const parsed = text.split("\n").map(line => {
+        const values = [];
+        let current = "";
+        let insideQuotes = false;
 
-    return rows.map(row => {
+        for (const char of line) {
+            if (char === '"') {
+                insideQuotes = !insideQuotes;
+            } else if (char === "," && !insideQuotes) {
+                values.push(current);
+                current = "";
+            } else {
+                current += char;
+            }
+        }
+
+        values.push(current);
+        return values.map(v => v.trim().replace(/^"|"$/g, ""));
+    });
+
+    const headers = parsed.shift();
+
+    return parsed.map(row => {
         const obj = {};
         headers.forEach((header, i) => {
-            obj[header.trim()] = row[i]?.trim();
+            obj[header.trim()] = row[i] ?? "";
         });
         return obj;
     });
