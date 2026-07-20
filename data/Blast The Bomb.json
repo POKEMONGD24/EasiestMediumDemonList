@@ -1,0 +1,43 @@
+{
+    "id": 139907983,
+    "name": "Blast The Bomb",
+    "author": "MazZedy",
+    "creators": [],
+    "verifier": "MazZedy",
+    "verification": "https://youtu.be/9SMSVNcBI8Q",
+    "desc": "Sequel to former top 1 EDL Break The Rules and a DGC entry",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "sheeb",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Liverlan",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "huggies",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        }
+    ]
+}
