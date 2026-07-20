@@ -114,3 +114,14 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+
+/* Level stats extra layer */
+.stats-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.extra-stats {
+    margin-top: 4px;
+}
