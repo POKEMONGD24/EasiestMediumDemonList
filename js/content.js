@@ -81,6 +81,7 @@ return [
         length: sheetLevel?.Length ?? "",
         tier: sheetLevel?.Tier ?? "",
         enjoyment: sheetLevel?.Enjoyment ?? "",
+        mdsTier: sheetLevel?.["MDS Tier"] ?? "",
 
               // Inject packs membership (empty array if none / packs failed)
               packs: levelToPacks[path] ?? [],
