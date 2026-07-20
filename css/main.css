@@ -125,3 +125,14 @@ input[type="checkbox"] {
 .extra-stats {
     margin-top: 4px;
 }
+.stats {
+    display: grid;
+    gap: 2rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.stats li {
+    flex: 1;
+}
