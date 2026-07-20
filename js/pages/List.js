@@ -73,6 +73,21 @@ export default {
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
 </ul>
+    <ul class="stats extra-stats">
+        <li>
+            <div class="type-title-sm">Tier</div>
+            <p>{{ level.tier }}</p>
+        </li>
+        <li>
+            <div class="type-title-sm">Enjoyment</div>
+            <p>{{ level.enjoyment }}</p>
+        </li>
+        <li>
+            <div class="type-title-sm">Length</div>
+            <p>{{ level.length }}</p>
+        </li>
+    </ul>
+</div>
 <p></p>
 <p class="description"> {{level.desc || "No description yet."}}</p>
                         
