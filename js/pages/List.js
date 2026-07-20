@@ -59,6 +59,7 @@ export default {
                     </div>
 
                     <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
+                    <div class="stats-container">
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
