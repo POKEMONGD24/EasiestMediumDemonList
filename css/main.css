@@ -119,7 +119,7 @@ input[type="checkbox"] {
 .stats-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 48px;
+    gap: 32px;
 }
 
 .extra-stats {
