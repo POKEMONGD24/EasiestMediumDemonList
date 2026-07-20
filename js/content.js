@@ -60,10 +60,7 @@ return [
         length: sheetLevel?.Length ?? "",
         tier: sheetLevel?.Tier ?? "",
         enjoyment: sheetLevel?.Enjoyment ?? "",
-                    return [
-                        {
-                            ...level,
-                            path,
+
               // Inject packs membership (empty array if none / packs failed)
               packs: levelToPacks[path] ?? [],
               records: (level.records ?? [])
