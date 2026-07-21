@@ -4,7 +4,7 @@
     "author": "CUBICCC",
     "creators": [],
     "verifier": "CUBICCC",
-    "verification": "https://youtu.be/aZbQLTb7IoM?si=uL22ltkFrm_uKRmi",
+    "verification": "https://youtu.be/aZbQLTb7IoM",
     "desc": "desc",
     "tier": "",
     "enjoyment": "",
@@ -32,6 +32,12 @@
         },
         {
             "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "DaShahzad",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
