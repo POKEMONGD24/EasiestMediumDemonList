@@ -106,7 +106,6 @@
         {
         "name": "Peak Pack",
         "levels": [
-            "Variance",
             "In Transmit",
             "Tren 22",
             "TIME LEAPER",
@@ -155,6 +154,7 @@
             "Forestopia",
             "SAFESPACES",
             "OwnSelfduggedGrave  ",
+            "Variance",
             "STELLAR CORRIDOR",
             "Winterlude (Vicolor)",
             "Other Side"
@@ -528,7 +528,6 @@
         "name": "Breaker's Pack",
         "levels": [
             "Neverender",
-            "Variance",
             "In Transmit",
             "earth with you",
             "Blur (yoroloro)",
@@ -539,6 +538,7 @@
             "NO CONNECT",
             "TOUCH THE ORBS BUB",
             "SAFESPACES",
+            "Variance",
             "Winterlude (Vicolor)"
         ],
         "colour": "#36b290"
@@ -579,7 +579,6 @@
         {
         "name": "huggies' Pack",
         "levels": [
-            "Variance",
             "In Transmit",
             "TIME LEAPER",
             "Veritas Mentis",
@@ -587,7 +586,8 @@
             "Ice Melt",
             "Blighted Stronghold",
             "WANNACRY",
-            "Noel Electra"
+            "Noel Electra",
+            "Variance"
         ],
         "colour": "#00ffea"
     },
