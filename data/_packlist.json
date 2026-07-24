@@ -234,7 +234,6 @@
     {
         "name": "Weekly Pack",
         "levels": [
-            "Noel Electra", 
             "Boxing Boxes",
             "Pilot", 
             "HEMI",
@@ -245,8 +244,8 @@
             "Lucy",
             "Vagueness",
             "TOUCH THE ORBS BUB", 
-            "Virtual Reality"
-
+            "Virtual Reality",
+            "Noel Electra"
         ],
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,200,255,1) 100%)"
     },
@@ -343,7 +342,6 @@
         {
         "name": "NCS Pack",
         "levels": [
-            "Noel Electra",
             "Blur (yoroloro)",
             "MAGISTRO",
             "Hush",
@@ -355,6 +353,7 @@
             "Neozenith",
             "Evanescence ",
             "CELESTIAL PINNACLE",
+            "Noel Electra",
             "STELLAR CORRIDOR",
             "Bad habit",
             "Blips n Chitz",
@@ -581,14 +580,14 @@
         "name": "huggies' Pack",
         "levels": [
             "Variance",
-            "Noel Electra",
             "In Transmit",
             "TIME LEAPER",
             "Veritas Mentis",
             "No Time To Die",
             "Ice Melt",
             "Blighted Stronghold",
-            "WANNACRY"
+            "WANNACRY",
+            "Noel Electra"
         ],
         "colour": "#00ffea"
     },
