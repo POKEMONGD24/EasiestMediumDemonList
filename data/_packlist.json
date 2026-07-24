@@ -46,7 +46,6 @@
         "name": "EDL Pack",
         "levels": [
             "Beautiful Chaos",
-            "Veritas Mentis",
             "Pilot",
             "DeathFunk",
             "No Time To Die",
@@ -62,6 +61,7 @@
             "Astral Prism",
             "Jive",
             "The Red Room",
+            "Veritas Mentis",
             "StarQuake",
             "jarvis demon map",
             "GET UP",
@@ -581,11 +581,11 @@
         "levels": [
             "In Transmit",
             "TIME LEAPER",
-            "Veritas Mentis",
             "No Time To Die",
             "Ice Melt",
             "Blighted Stronghold",
             "WANNACRY",
+            "Veritas Mentis",
             "Noel Electra",
             "Variance"
         ],
