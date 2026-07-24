@@ -164,7 +164,6 @@
         {
         "name": "Trash Pack",
         "levels": [
-            "Demon Park 2",
             "BEYOND CREATION",
             "Star Dash",
             "ClownStep",
@@ -193,6 +192,7 @@
             "GET UP",
             "Star Flower",
             "xKey",
+            "Demon Park 2",
             "Sponsor"
         ],
         "colour": "#704001"
@@ -451,10 +451,10 @@
         {
         "name": "Park Pack",
         "levels": [
-            "Demon Park 2",
             "Death park r",
             "DEMON PARK",
-            "Fantasy Park"
+            "Fantasy Park",
+            "Demon Park 2"
         ],
         "colour": "#056d0a"
     },
