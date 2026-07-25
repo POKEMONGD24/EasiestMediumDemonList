@@ -78,6 +78,7 @@
         "name": "EADL Pack",
         "levels": [
             "Dreamquest",
+            "Realms (iNeQaH)",
             "The Doomsday",
             "STELLAR CORRIDOR",
             "Bad habit",
@@ -169,6 +170,7 @@
             "ClownStep",
             "albacore",
             "the nightmare road",
+            "Higgs",
             "Frozen Palace",
             "Overcome (Fgoll)"
         ],
@@ -181,7 +183,8 @@
             "CLUBSTEP 2019",
             "Mangut 2022",
             "Natural step",
-            "mmrr"
+            "mmrr",
+            "Hot Dog Redux"
         ],
         "colour": "#704001"
     },
@@ -202,7 +205,6 @@
         "levels": [
             "Dumal",
             "Hello Fitzgerald",
-            "augmentation",
             "Frozen Palace",
             "Rainbow Flux",
             "Ice Melt",
@@ -213,6 +215,7 @@
             "Iodine",
             "TWIN TABULATING",
             "Hot Dog Redux",
+            "Invisible Light",
             "Vagueness"
         ],
         "colour": "#ff0000"
@@ -252,7 +255,6 @@
         {
         "name": "XXL Pack",
         "levels": [
-            "Accord",
             "In Transmit",
             "BEATWORLD",
             "End of the Play",
@@ -279,6 +281,7 @@
             "Liminal Dystopia",
             "Bizzare Autumn",
             "New Again",
+            "Accord",
             "Winterlude (Vicolor)",
             "Flowers III",
             "caelestia"
@@ -492,7 +495,8 @@
             "antic star",
             "Delusion",
             "DESTRUCTION",
-            "Electric Algal Bloom"
+            "Electric Algal Bloom",
+            "Moonflowers",
         ],
         "colour": "#9c74da"
     },
@@ -523,6 +527,16 @@
             "Zone Out"
         ],
         "colour": "#ca760a"
+    },
+{
+        "name": "Serponge Pack",
+        "levels": [
+            "UpCity",
+            "CastleMania",
+            "Noel Electra",
+            "MasterGame"
+        ],
+        "colour": "#c6760a"
     },
         {
         "name": "Breaker's Pack",
