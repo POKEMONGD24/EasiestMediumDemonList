@@ -45,12 +45,10 @@
         {
         "name": "EDL Pack",
         "levels": [
-            "Beautiful Chaos",
             "Pilot",
             "DeathFunk",
             "No Time To Die",
             "Ice Melt",
-            "Kelutral",
             "CLEAR",
             "Solaura",
             "Takeoff",
@@ -64,13 +62,7 @@
             "Veritas Mentis",
             "StarQuake",
             "jarvis demon map",
-            "GET UP",
-            "Lucy",
-            "Invisible Light",
-            "Moonflowers",
-            "Iris Gradu",
-            "Blocky Antics",
-            "Shuriken"
+            "Lucy"
         ],
         "colour": "#6e00db"
     },
