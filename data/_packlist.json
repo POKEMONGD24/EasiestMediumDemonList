@@ -503,6 +503,16 @@
         "colour": "#44c300"
     },
         {
+        "name": "Serponge Pack",
+        "levels": [
+            "UpCity",
+            "CastleMania",
+            "Noel Electra",
+            "MasterGame"
+        ],
+        "colour": "#c6760a"
+    },
+        {
         "name": "mangut Pack",
         "levels": [
             "outpost zimonja",
@@ -519,16 +529,6 @@
             "Zone Out"
         ],
         "colour": "#ca760a"
-    },
-{
-        "name": "Serponge Pack",
-        "levels": [
-            "UpCity",
-            "CastleMania",
-            "Noel Electra",
-            "MasterGame"
-        ],
-        "colour": "#c6760a"
     },
         {
         "name": "Breaker's Pack",
