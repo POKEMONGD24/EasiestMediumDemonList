@@ -56,10 +56,9 @@ const sheet = await fetchSheet();
             });
           });
         });
-      }
-const levelsResult = await fetch(`${dir}/levels.json`);
-
+        }
 try {
+const levelsResult = await fetch(`${dir}/levels.json`);
     const levels = await levelsResult.json();
 
     return levels.map(level => {
@@ -70,7 +69,6 @@ try {
 return [
     {
         ...level,
-        path,
 
         length: sheetLevel?.Length ?? "",
         tier: sheetLevel?.Tier ?? "",
