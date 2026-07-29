@@ -43,7 +43,7 @@ async function fetchSheet() {
 }
 
 export async function fetchList() {
-const sheet = await fetchSheet();
+const sheet = [];
       const packs = await fetchPacks(); // returns null or array
       const levelToPacks = {};
     
