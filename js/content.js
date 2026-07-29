@@ -1,5 +1,5 @@
 import { round, score } from './score.js';
- 
+
 /**
  * Path to directory containing `_list.json` and all levels
  */
@@ -10,6 +10,9 @@ const sheetURL = "https://docs.google.com/spreadsheets/d/1c_tyXFIWhv82d17LwP44cj
 async function fetchSheet() {
     const result = await fetch(sheetURL);
     const text = await result.text();
+
+    const rows = text.match(/(".*?"|[^",]+)(?=\s*,|\s*$)/g)
+        .map(row => row.map ? row : [row]);
 
     const parsed = text.split("\n").map(line => {
         const values = [];
@@ -43,11 +46,10 @@ async function fetchSheet() {
 }
 
 export async function fetchList() {
-try{
 const sheet = await fetchSheet();
       const packs = await fetchPacks(); // returns null or array
       const levelToPacks = {};
-    
+
       if (packs) {
         packs.forEach(pack => {
           (pack.levels ?? []).forEach(levelId => {
@@ -57,19 +59,24 @@ const sheet = await fetchSheet();
             });
           });
         });
-        }
-try {
-const levelsResult = await fetch(`${dir}/levels.json`);
-    const levels = await levelsResult.json();
+      }
 
-    return levels.map(level => {
-        const sheetLevel = sheet.find(
-            row => row.ID == level.id
-        );
+    const listResult = await fetch(`${dir}/_list.json`);
+    try {
+        const list = await listResult.json();
+        return await Promise.all(
+            list.map(async (path, rank) => {
+                const levelResult = await fetch(`${dir}/${path}.json`);
+                try {
+                    const level = await levelResult.json();
+const sheetLevel = sheet.find
+    (    row => row.ID == level.id
+);
 
 return [
     {
         ...level,
+        path,
 
         length: sheetLevel?.Length ?? "",
         tier: sheetLevel?.Tier ?? "",
@@ -77,18 +84,24 @@ return [
         mdsTier: sheetLevel?.["MDS Tier"] ?? "",
 
               // Inject packs membership (empty array if none / packs failed)
-              packs: levelToPacks[level.path] ?? [],
+              packs: levelToPacks[path] ?? [],
               records: (level.records ?? [])
                                 .map(({ hz, ...rest }) => rest)
                                 .sort((a, b) => b.percent - a.percent),
                         },
                         null,
                     ];
-} catch {
-    console.error("Failed to load list.");
-    return null;
+                } catch {
+                    console.error(`Failed to load level #${rank + 1} ${path}.`);
+                    return [null, path];
+                }
+            }),
+        );
+    } catch {
+        console.error(`Failed to load list.`);
+        return null;
+    }
 }
-    
 export async function fetchEditors() {
     try {
         const editorsResults = await fetch(`${dir}/_editors.json`);
