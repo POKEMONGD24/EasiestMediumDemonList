@@ -101,11 +101,13 @@
         "levels": [
             "In Transmit",
             "Tren 22",
+            "On my mind",
             "TIME LEAPER",
             "Blur (yoroloro)",
             "earth with you",
             "legalize nuclea bomb",
             "SANCTITY",
+            "DeMeTeR",
             "MAGISTRO",
             "End of the Play",
             "Ethereal Lullaby",
@@ -337,6 +339,7 @@
         {
         "name": "NCS Pack",
         "levels": [
+            "On my mind",
             "Blur (yoroloro)",
             "MAGISTRO",
             "Hush",
@@ -455,6 +458,7 @@
         {
         "name": "Creator Pack",
         "levels": [
+            "On my mind",
             "outpost zimonja",
             "Ignited Levitation",
             "Ice Melt",
@@ -531,10 +535,20 @@
         "colour": "#ca760a"
     },
         {
+        "name": "Laazirfa Pack",
+        "levels": [
+            "On my mind",
+            "DeMeTeR",
+            "CaRaMeL"
+        ],
+        "colour": "#ca760a"
+    },
+        {
         "name": "Breaker's Pack",
         "levels": [
             "Neverender",
             "In Transmit",
+            "On my mind",
             "Blur (yoroloro)",
             "earth with you",
             "DreamLights",
@@ -586,6 +600,7 @@
         "name": "huggies' Pack",
         "levels": [
             "In Transmit",
+            "On my mind",
             "TIME LEAPER",
             "No Time To Die",
             "Ice Melt",
