@@ -67,11 +67,6 @@ try {
             row => row.ID == level.id
         );
 
-} catch {
-    console.error("Failed to load list.");
-    return null;
-}
-
 return [
     {
         ...level,
@@ -90,6 +85,10 @@ return [
                         },
                         null,
                     ];
+} catch {
+    console.error("Failed to load list.");
+    return null;
+}
                 
         );
 export async function fetchEditors() {
