@@ -3569,6 +3569,12 @@
                 "link": "RecordLink",
                 "percent": 100,
                 "hz": " - "
+            },
+            {
+                "user": "AndreLac",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
             }
         ]
     },
@@ -4984,7 +4990,7 @@
             },
             {
                 "user": "sheeb",
-                "link": "https://youtu.be/raTM5KNF5as?si=IWw5-7Nbxewy0xrC",
+                "link": "https://youtu.be/raTM5KNF5as",
                 "percent": 100,
                 "hz": " - "
             },
@@ -5080,6 +5086,12 @@
             },
             {
                 "user": "huggies",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "AndreLac",
                 "link": "RecordLink",
                 "percent": 100,
                 "hz": " - "
@@ -7246,6 +7258,12 @@
             },
             {
                 "user": "Blue",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "AndreLac",
                 "link": "RecordLink",
                 "percent": 100,
                 "hz": " - "
