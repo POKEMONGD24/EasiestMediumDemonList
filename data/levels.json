@@ -6662,7 +6662,7 @@
         "author": "vortrox",
         "creators": [],
         "verifier": "vortrox",
-        "verification": "https://youtu.be/G3By6BcCYB8?si=R4nBNUIGSLSAmJM3",
+        "verification": "https://youtu.be/G3By6BcCYB8",
         "desc": "desc",
         "tier": "",
         "enjoyment": "",
@@ -7517,6 +7517,12 @@
             },
             {
                 "user": "sheeb",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "AndreLac",
                 "link": "RecordLink",
                 "percent": 100,
                 "hz": " - "
