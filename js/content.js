@@ -93,36 +93,6 @@ try {
     console.error("Failed to load list.");
     return null;
 }
-    
-const levelsResult = await fetch(`${dir}/levels.json`);
-try {
-    const levels = await levelsResult.json();
-
-    return levels.map((level, rank) => {
-        const sheetLevel = sheet.find(
-            row => row.ID == level.id
-        );
-
-        return [
-            {
-                ...level,
-
-                length: sheetLevel?.Length ?? "",
-                tier: sheetLevel?.Tier ?? "",
-                enjoyment: sheetLevel?.Enjoyment ?? "",
-                mdsTier: sheetLevel?.["MDS Tier"] ?? "",
-
-                packs: levelToPacks[level.path] ?? [],
-                records: (level.records ?? [])
-                    .map(({ hz, ...rest }) => rest)
-                    .sort((a, b) => b.percent - a.percent),
-            },
-            null,
-        ];
-    });
-const sheetLevel = sheet.find
-    (    row => row.ID == level.id
-);
 
 return [
     {
