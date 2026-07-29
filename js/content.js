@@ -11,9 +11,6 @@ async function fetchSheet() {
     const result = await fetch(sheetURL);
     const text = await result.text();
 
-    const rows = text.match(/(".*?"|[^",]+)(?=\s*,|\s*$)/g)
-        .map(row => row.map ? row : [row]);
-
     const parsed = text.split("\n").map(line => {
         const values = [];
         let current = "";
