@@ -60,6 +60,39 @@ const sheet = await fetchSheet();
           });
         });
       }
+const levelsResult = await fetch(`${dir}/levels.json`);
+
+try {
+    const levels = await levelsResult.json();
+
+    return levels.map(level => {
+        const sheetLevel = sheet.find(
+            row => row.ID == level.id
+        );
+
+        return [
+            {
+                ...level,
+
+                length: sheetLevel?.Length ?? "",
+                tier: sheetLevel?.Tier ?? "",
+                enjoyment: sheetLevel?.Enjoyment ?? "",
+                mdsTier: sheetLevel?.["MDS Tier"] ?? "",
+
+                packs: levelToPacks[level.path] ?? [],
+
+                records: (level.records ?? [])
+                    .map(({ hz, ...rest }) => rest)
+                    .sort((a, b) => b.percent - a.percent),
+            },
+            null,
+        ];
+    });
+
+} catch {
+    console.error("Failed to load list.");
+    return null;
+}
     
 const levelsResult = await fetch(`${dir}/levels.json`);
 try {
@@ -109,11 +142,7 @@ return [
                         },
                         null,
                     ];
-                } catch {
-                    console.error(`Failed to load level #${rank + 1} ${path}.`);
-                    return [null, path];
-                }
-            }),
+                
         );
 export async function fetchEditors() {
     try {
