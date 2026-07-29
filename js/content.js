@@ -7,7 +7,6 @@ const dir = '/data';
 
 const sheetURL = "https://docs.google.com/spreadsheets/d/1c_tyXFIWhv82d17LwP44cj3dheCEXQLeajvthDDdMzk/export?format=csv&gid=0";
 
-alert("fetchList started");
 async function fetchSheet() {
     const result = await fetch(sheetURL);
     const text = await result.text();
@@ -70,25 +69,6 @@ try {
         const sheetLevel = sheet.find(
             row => row.ID == level.id
         );
-
-        return [
-            {
-                ...level,
-
-                length: sheetLevel?.Length ?? "",
-                tier: sheetLevel?.Tier ?? "",
-                enjoyment: sheetLevel?.Enjoyment ?? "",
-                mdsTier: sheetLevel?.["MDS Tier"] ?? "",
-
-                packs: levelToPacks[level.path] ?? [],
-
-                records: (level.records ?? [])
-                    .map(({ hz, ...rest }) => rest)
-                    .sort((a, b) => b.percent - a.percent),
-            },
-            null,
-        ];
-    });
 
 } catch {
     console.error("Failed to load list.");
