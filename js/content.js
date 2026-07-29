@@ -76,7 +76,7 @@ return [
         mdsTier: sheetLevel?.["MDS Tier"] ?? "",
 
               // Inject packs membership (empty array if none / packs failed)
-              packs: levelToPacks[path] ?? [],
+              packs: levelToPacks[level.path] ?? [],
               records: (level.records ?? [])
                                 .map(({ hz, ...rest }) => rest)
                                 .sort((a, b) => b.percent - a.percent),
@@ -87,8 +87,7 @@ return [
     console.error("Failed to load list.");
     return null;
 }
-                
-        );
+    
 export async function fetchEditors() {
     try {
         const editorsResults = await fetch(`${dir}/_editors.json`);
