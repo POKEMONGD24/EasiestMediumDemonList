@@ -400,6 +400,8 @@
         {
         "name": "Freaky Pack",
         "levels": [
+            "demon ii",
+            "On my mind",
             "Shifter",
             "DEVIL GIRL",
             "Ethereal Lullaby",
@@ -602,15 +604,36 @@
             "In Transmit",
             "On my mind",
             "TIME LEAPER",
-            "No Time To Die",
             "Ice Melt",
-            "Blighted Stronghold",
+            "HEMI",
             "WANNACRY",
             "Veritas Mentis",
             "Noel Electra",
-            "Variance"
+            "Variance",
+            "STELLAR CORRIDOR"
         ],
         "colour": "#00ffea"
+    },
+{
+        "name": "Liverlan's Pack",
+        "levels": [
+            "Dreamquest",
+            "Scavenger",
+            "digitaverse",
+            "On my mind",
+            "TIME LEAPER",
+            "MAGISTRO",
+            "The Retro Tower",
+            "Sugar HIGH",
+            "Metamorphosis",
+            "BISMARCK",
+            "WANNACRY",
+            "Asadal",
+            "SAFESPACES",
+            "Noel Electra",
+            "Accord"
+        ],
+        "colour": "#ff0000"
     },
         {
         "name": "gonker's Pack",
