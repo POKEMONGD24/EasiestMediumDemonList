@@ -9455,6 +9455,60 @@
         ]
     },
     {
+        "path": "Shattered Realms",
+        "id": 109124708,
+        "name": "Shattered Realms",
+        "author": "thebun",
+        "creators": [],
+        "verifier": "thebun",
+        "verification": "https://youtu.be/7Tb_xhwq_uA",
+        "desc": "desc",
+        "tier": "",
+        "enjoyment": "",
+        "length": "",
+        "mdsTier": "",
+        "percentToQualify": 100,
+        "password": "Free Copy",
+        "records": [
+            {
+                "user": "ZircleZ",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "LifelessComputer",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "WKGames",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "Breaker",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "DaShahzad",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "Chonkey",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            }
+        ]
+    },
+    {
         "path": "Pilot",
         "id": 56474020,
         "name": "Pilot",
