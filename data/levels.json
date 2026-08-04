@@ -4170,48 +4170,6 @@
         ]
     },
     {
-        "path": "allure of choice",
-        "id": 210122,
-        "name": "allure of choice",
-        "author": "pg1004",
-        "creators": [],
-        "verifier": "pg1004",
-        "verification": "https://youtu.be/eD4uhB0LU9g",
-        "desc": "desc",
-        "tier": "",
-        "enjoyment": "",
-        "length": "",
-        "mdsTier": "",
-        "percentToQualify": 100,
-        "password": "Free Copy",
-        "records": [
-            {
-                "user": "Breaker",
-                "link": "RecordLink",
-                "percent": 100,
-                "hz": " - "
-            },
-            {
-                "user": "ZircleZ",
-                "link": "RecordLink",
-                "percent": 100,
-                "hz": " - "
-            },
-            {
-                "user": "scape167",
-                "link": "RecordLink",
-                "percent": 100,
-                "hz": " - "
-            },
-            {
-                "user": "WKGames",
-                "link": "RecordLink",
-                "percent": 100,
-                "hz": " - "
-            }
-        ]
-    },
-    {
         "path": "DreamLights",
         "id": 126786357,
         "name": "DreamLights",
@@ -4920,6 +4878,48 @@
             },
             {
                 "user": "Liverlan",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            }
+        ]
+    },
+    {
+        "path": "allure of choice",
+        "id": 210122,
+        "name": "allure of choice",
+        "author": "pg1004",
+        "creators": [],
+        "verifier": "pg1004",
+        "verification": "https://youtu.be/eD4uhB0LU9g",
+        "desc": "desc",
+        "tier": "",
+        "enjoyment": "",
+        "length": "",
+        "mdsTier": "",
+        "percentToQualify": 100,
+        "password": "Free Copy",
+        "records": [
+            {
+                "user": "Breaker",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "ZircleZ",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "scape167",
+                "link": "RecordLink",
+                "percent": 100,
+                "hz": " - "
+            },
+            {
+                "user": "WKGames",
                 "link": "RecordLink",
                 "percent": 100,
                 "hz": " - "
