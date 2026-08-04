@@ -404,7 +404,7 @@
         {
         "name": "Freaky Pack",
         "levels": [
-            "demon ii",
+            "demon II",
             "On my mind",
             "Shifter",
             "DEVIL GIRL",
@@ -523,6 +523,15 @@
         "colour": "#f18d09"
     },
         {
+        "name": "Laazirfa Pack",
+        "levels": [
+            "On my mind",
+            "DeMeTeR",
+            "CaRaMeL"
+        ],
+        "colour": "#dd1379"
+    },
+        {
         "name": "mangut Pack",
         "levels": [
             "outpost zimonja",
@@ -537,15 +546,6 @@
             "Glazed",
             "mmrr",
             "Zone Out"
-        ],
-        "colour": "#ca760a"
-    },
-        {
-        "name": "Laazirfa Pack",
-        "levels": [
-            "On my mind",
-            "DeMeTeR",
-            "CaRaMeL"
         ],
         "colour": "#ca760a"
     },
