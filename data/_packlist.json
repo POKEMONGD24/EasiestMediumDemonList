@@ -50,6 +50,8 @@
             "No Time To Die",
             "Ice Melt",
             "CLEAR",
+            "Hyperion",
+            "tkspl",
             "Solaura",
             "Takeoff",
             "Break The Rules",
@@ -109,6 +111,7 @@
             "SANCTITY",
             "DeMeTeR",
             "MAGISTRO",
+            "The Retro Tower",
             "End of the Play",
             "Ethereal Lullaby",
             "augmentation",
@@ -554,6 +557,7 @@
             "Blur (yoroloro)",
             "earth with you",
             "DreamLights",
+            "DeMeTeR",
             "Ice Melt",
             "Two Steps Back",
             "Kelutral",
@@ -564,6 +568,24 @@
             "Winterlude (Vicolor)"
         ],
         "colour": "#36b290"
+    },
+        {
+        "name": "ZircleZ's Pack",
+        "levels": [
+            "In Transmit",
+            "DeMeTeR",
+            "Shattered Realms",
+            "Two Steps Back",
+            "Kelutral",
+            "CASINO BLITZ",
+            "NO CONNECT",
+            "Moonflowers",
+            "SkyBase",
+            "Bizzare Autumn",
+            "Virtual Reality",
+            "Winterlude (Vicolor)"
+        ],
+        "colour": "#e600de"
     },
         {
         "name": "Sir_Manface's Pack",
@@ -581,24 +603,6 @@
             "Meteorite 2024"
         ],
         "colour": "#6b00f0"
-    },
-        {
-        "name": "ZircleZ's Pack",
-        "levels": [
-            "DeMeTeR",
-            "Shattered Realms",
-            "In Transmit",
-            "Two Steps Back",
-            "Kelutral",
-            "CASINO BLITZ",
-            "NO CONNECT",
-            "Moonflowers",
-            "SkyBase",
-            "Bizzare Autumn",
-            "Virtual Reality",
-            "Winterlude (Vicolor)"
-        ],
-        "colour": "#e600de"
     },
         {
         "name": "huggies' Pack",
