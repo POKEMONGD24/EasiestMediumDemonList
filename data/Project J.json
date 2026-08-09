@@ -100,6 +100,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
+        },
+        {
+            "user": "Samuel", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
         }
     ]
 }
