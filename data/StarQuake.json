@@ -4,7 +4,7 @@
     "author": "MasK463",
     "creators": [],
     "verifier": "MasK463",
-    "verification": "https://youtu.be/jH5NrMCcJpk?si=j_zgfrLx6w4wkcfZ",
+    "verification": "https://youtu.be/jH5NrMCcJpk",
     "desc": "One of the most notorious and (over)hated Map Pack Levels, most notably because of a couple blue orb inputs at around 50%",
     "tier": "",
     "enjoyment": "",
@@ -139,6 +139,12 @@
         },
         {
             "user": "Soulbound",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AndreLac",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
