@@ -313,11 +313,13 @@
         },
         {
             "user": "[MOAT] Bobbyp02",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "VDusty12",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -329,31 +331,37 @@
         },
         {
             "user": "StellarGradient",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "Kiko7535",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "Bottomless",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "CS69",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "Kimichii",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "Sxmbioz",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -383,6 +391,12 @@
         },
         {
             "user": "AceK58",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AndreLac",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
