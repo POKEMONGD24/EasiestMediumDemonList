@@ -4,7 +4,7 @@
     "author": "kr1t",
     "creators": [],
     "verifier": "kr1t",
-    "verification": "https://youtu.be/CIGHFg2nEss?si=UsIrnb5d96r63EP9",
+    "verification": "https://youtu.be/CIGHFg2nEss",
     "desc": "desc",
     "tier": "",
     "enjoyment": "",
@@ -57,6 +57,12 @@
         },
         {
             "user": "gonker",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AndreLac",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         }
