@@ -2,17 +2,18 @@
     {
         "name": "The Top 5 Pack",
         "levels": [
+            "Coaster of Doom",
             "Dreamquest",
             "Realms (iNeQaH)",
             "CRANK THE SLUDGE",
-            "Neverender",
-            "InheriT"
+            "Neverender"
         ],
         "colour": "#1299f0"
     },
         {
         "name": "Top 1 Pack",
         "levels": [
+            "Coaster of Doom",
             "Flowers III",
             "ForGurt",
             "Dreamquest",
@@ -193,7 +194,6 @@
             "StarQuake",
             "GET UP",
             "Star Flower",
-            "xKey",
             "Demon Park 2",
             "Sponsor"
         ],
