@@ -46,8 +46,8 @@
         {
         "name": "EDL Pack",
         "levels": [
-            "Pilot",
             "DeathFunk",
+            "Pilot",
             "Fresh Odyssey",
             "No Time To Die",
             "Ice Melt",
@@ -73,6 +73,7 @@
         {
         "name": "EADL Pack",
         "levels": [
+            "Coaster of Doom",
             "Dreamquest",
             "Realms (iNeQaH)",
             "ei vai loz",
@@ -236,6 +237,7 @@
     {
         "name": "Weekly Pack",
         "levels": [
+            "Noel Electra",
             "Boxing Boxes",
             "Pilot", 
             "HEMI",
@@ -246,8 +248,7 @@
             "Lucy",
             "Vagueness",
             "TOUCH THE ORBS BUB", 
-            "Virtual Reality",
-            "Noel Electra"
+            "Virtual Reality"
         ],
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,200,255,1) 100%)"
     },
@@ -344,6 +345,7 @@
         {
         "name": "NCS Pack",
         "levels": [
+            "Noel Electra",
             "On my mind",
             "Blur (yoroloro)",
             "MAGISTRO",
@@ -356,7 +358,6 @@
             "Neozenith",
             "Evanescence ",
             "CELESTIAL PINNACLE",
-            "Noel Electra",
             "STELLAR CORRIDOR",
             "Bad habit",
             "Blips n Chitz",
@@ -516,9 +517,9 @@
         {
         "name": "Serponge Pack",
         "levels": [
+            "Noel Electra",
             "UpCity",
             "CastleMania",
-            "Noel Electra",
             "MasterGame"
         ],
         "colour": "#f18d09"
@@ -575,6 +576,7 @@
         "name": "Liverlan's Pack",
         "levels": [
             "Dreamquest",
+            "Noel Electra",
             "Scavenger",
             "digitaverse",
             "TIME LEAPER",
@@ -587,7 +589,6 @@
             "WANNACRY",
             "Asadal",
             "SAFESPACES",
-            "Noel Electra",
             "Accord"
         ],
         "colour": "#ff0000"
@@ -630,6 +631,7 @@
         {
         "name": "huggies' Pack",
         "levels": [
+            "Noel Electra",
             "In Transmit",
             "TIME LEAPER",
             "On my mind",
@@ -637,7 +639,6 @@
             "HEMI",
             "WANNACRY",
             "Veritas Mentis",
-            "Noel Electra",
             "Variance",
             "STELLAR CORRIDOR"
         ],
