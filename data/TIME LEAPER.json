@@ -78,6 +78,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
+        },
+        {
+            "user": "Blablosblos",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
         }
     ]
 }
