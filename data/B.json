@@ -228,6 +228,12 @@
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
+        },
+        {
+            "user": "extencia", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
         }
     ]
 }
