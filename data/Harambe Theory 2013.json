@@ -37,7 +37,14 @@
             "hz": " - "
         },
         {
-            "user": "Wide Shady",
+            "user": "Wide Shady", 
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Soulbound", 
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         }
