@@ -10,14 +10,14 @@
         "link": "https://www.youtube.com/@zirclezz"
     },
     {
-        "role": "admin",
+        "role": "owner",
         "name": "huggies",
-        "link": "https://www.youtube.com/@huggies123/featured"
+        "link": "https://www.youtube.com/@huggies123"
     },
     {
         "role": "admin",
         "name": "Identity",
-        "link": "https://www.youtube.com/@Identity_GD/featured"
+        "link": "https://www.youtube.com/@Identity_GD"
     },
     {
         "role": "helper",
@@ -27,12 +27,12 @@
     {
         "role": "helper",
         "name": "Liverlan",
-        "link": "https://youtube.com/@liverlan?si=ZU9XzGkBRMMeZiBZ"
+        "link": "https://youtube.com/@liverlan"
     },
     {
         "role": "dev",
         "name": "Chonkey",
-        "link": ""
+        "link": "https://www.youtube.com/@ChahnkehGD"
     },
     {
         "role": "dev",
