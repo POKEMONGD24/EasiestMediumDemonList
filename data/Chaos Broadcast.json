@@ -14,7 +14,8 @@
     "password": "Free Copy",
     "records": [
         {
-            "user": "l1ghtning", 
+            "user": "l1ghtning",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -25,7 +26,8 @@
             "hz": " - "
         },
         {
-            "user": "ZircleZ", 
+            "user": "ZircleZ",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -37,6 +39,12 @@
         },
         {
             "user": "Yoshi",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "huggies",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
