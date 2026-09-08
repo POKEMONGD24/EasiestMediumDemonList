@@ -1,0 +1,59 @@
+{
+    "id": 102068117,
+    "name": "Level Three",
+    "author": "FakeRodri",
+    "creators": ["Krazyboy369", "Crystie", "FakeRodri"],
+    "verifier": "FakeRodri",
+    "verification": "https://youtu.be/sQ8OuL-LKqk",
+    "desc": "desc",
+    "tier": "",
+    "enjoyment": "",
+    "length": "",
+    "mdsTier": "",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "DIUSED",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Breaker",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AndreLac",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Liverlan",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "huggies",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "LifelessComputer",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        }
+    ]
+}
