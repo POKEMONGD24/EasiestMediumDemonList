@@ -108,10 +108,12 @@
             "On my mind",
             "Blur (yoroloro)",
             "earth with you",
+            "VISIONS",
             "Will We Plummet",
+            "PAST THE STARS",
+            "DeMeTeR",
             "legalize nuclea bomb",
             "SANCTITY",
-            "DeMeTeR",
             "MAGISTRO",
             "The Retro Tower",
             "End of the Play",
@@ -140,7 +142,8 @@
             "NO CONNECT",
             "NONGULETA",
             "WANNACRY",
-            "Break The Rules"
+            "Break The Rules",
+            "Asadal"
         ],
         "colour": "#016274"
     },
@@ -155,6 +158,7 @@
             "Mr Holiday Houdini",
             "NG factory ",
             "Forestopia",
+            "Bizzare Autumn",
             "SAFESPACES",
             "In Transmit",
             "OwnSelfduggedGrave  ",
@@ -323,6 +327,7 @@
         "name": "Duo Pack",
         "levels": [
             "Dumal",
+            "Deadly Games",
             "Viox",
             "Mangut 2022",
             "Iodine",
@@ -353,8 +358,9 @@
             "digitaverse",
             "On my mind",
             "Blur (yoroloro)",
-            "MAGISTRO",
             "Hush",
+            "MAGISTRO",
+            "Alkaline Shift",
             "Overcome (Fgoll)",
             "Sugar HIGH",
             "Metamorphosis",
@@ -373,9 +379,11 @@
         {
         "name": "Space Pack",
         "levels": [
+            "how will it feel",
             "Autopistas Extremas",
             "Scavenger",
             "digitaverse",
+            "The Negative",
             "BEYOND CREATION",
             "sterrenpoes",
             "bims level",
@@ -569,27 +577,6 @@
         ],
         "colour": "#ca760a"
     },
-        {
-        "name": "Breaker's Pack",
-        "levels": [
-            "Neverender",
-            "InheriT",
-            "On my mind",
-            "Blur (yoroloro)",
-            "earth with you",
-            "DeMeTeR",
-            "Ice Melt",
-            "Two Steps Back",
-            "Kelutral",
-            "NO CONNECT",
-            "TOUCH THE ORBS BUB",
-            "SAFESPACES",
-            "In Transmit",
-            "Variance",
-            "Winterlude (Vicolor)"
-        ],
-        "colour": "#36b290"
-    },
     {
         "name": "Liverlan's Pack",
         "levels": [
@@ -598,15 +585,14 @@
             "digitaverse",
             "TIME LEAPER",
             "On my mind",
+            "SANCTITY",
             "MAGISTRO",
             "The Retro Tower",
             "Sugar HIGH",
             "Metamorphosis",
-            "BISMARCK",
             "WANNACRY",
             "Asadal",
             "SAFESPACES",
-            "Accord",
             "Dreamquest"
         ],
         "colour": "#ff0000"
@@ -628,6 +614,23 @@
             "Winterlude (Vicolor)"
         ],
         "colour": "#e600de"
+    },
+        {
+        "name": "Breaker's Pack",
+        "levels": [
+            "InheriT",
+            "Neverender",
+            "On my mind",
+            "Ice Melt",
+            "Two Steps Back",
+            "Kelutral",
+            "NO CONNECT",
+            "TOUCH THE ORBS BUB",
+            "SAFESPACES",
+            "In Transmit",
+            "Variance"
+        ],
+        "colour": "#36b290"
     },
         {
         "name": "Sir_Manface's Pack",
