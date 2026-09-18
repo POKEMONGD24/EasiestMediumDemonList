@@ -4,7 +4,7 @@
     "author": "F5night",
     "creators": [],
     "verifier": "F5night",
-    "verification": "https://youtu.be/30N01NO4fRQ?si=owlE8C_QbsESs-mm",
+    "verification": "https://youtu.be/30N01NO4fRQ",
     "desc": "desc",
     "tier": "",
     "enjoyment": "",
@@ -134,6 +134,12 @@
         },
         {
             "user": "AndreLac",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "I6RXT",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
