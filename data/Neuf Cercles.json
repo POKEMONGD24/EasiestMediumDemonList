@@ -4,7 +4,7 @@
     "author": "Gepsoni4",
     "creators": [],
     "verifier": "Gepsoni4",
-    "verification": "https://youtu.be/QpiOpY00Nx4?si=FZoAUPBbWaJ-HNK-",
+    "verification": "https://youtu.be/QpiOpY00Nx4",
     "desc": "desc",
     "tier": "",
     "enjoyment": "",
@@ -45,7 +45,7 @@
         },
         {
             "user": "sheeb",
-            "link": "https://youtu.be/A-bbA7flGK8?si=Fv7X_FX96nPZ53ed",
+            "link": "https://youtu.be/A-bbA7flGK8",
             "percent": 100,
             "hz": " - "
         },
@@ -112,6 +112,12 @@
         {
             "user": "shiver",
             "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "huggies",
+            "link": "https://youtu.be/rkaPRs4X57M",
             "percent": 100,
             "hz": " - "
         }
