@@ -2,7 +2,7 @@
     "id": 90651294,
     "name": "Glazed",
     "author": "Split72",
-    "creators": ["Split72", "fifsqueak"],
+    "creators": ["Split72", "cerufiffy"],
     "verifier": "Split72",
     "verification": "https://youtu.be/sZvTKdpin4k?si=Tdw_kOOb4cbJtlmy",
     "desc": "desc",
@@ -27,6 +27,12 @@
         {
             "user": "WKGames",
             "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "huggies",
+            "link": "https://youtu.be/Qd8xj7WAJ1E",
             "percent": 100,
             "hz": " - "
         }
