@@ -1,10 +1,10 @@
 const scale = 3;
 
 export function score(rank, percent, minPercent) {
-    if (rank > 150 && rank <= 282) {
+    if (rank > 150 && rank <= 283) {
         return 5.0;
        }
-    if (rank > 282) {
+    if (rank > 283) {
         return 2.0;
        }
     if (percent < 100) {
