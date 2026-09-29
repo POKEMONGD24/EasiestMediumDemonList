@@ -616,6 +616,24 @@
         "colour": "#e600de"
     },
         {
+        "name": "Sir_Manface's Pack",
+        "levels": [
+            "Thundering Pulse",
+            "Koi no Uta",
+            "The Retro Tower",
+            "catharsis",
+            "CASINO BLITZ",
+            "Blueprint",
+            "B",
+            "WANNACRY",
+            "Electric Algal Bloom",
+            "Ghost Ship",
+            "THUNDRA",
+            "Meteorite 2024"
+        ],
+        "colour": "#6b00f0"
+    },
+        {
         "name": "Breaker's Pack",
         "levels": [
             "InheriT",
@@ -631,23 +649,6 @@
             "Variance"
         ],
         "colour": "#36b290"
-    },
-        {
-        "name": "Sir_Manface's Pack",
-        "levels": [
-            "Thundering Pulse",
-            "Koi no Uta",
-            "The Retro Tower",
-            "catharsis",
-            "CASINO BLITZ",
-            "Blueprint",
-            "B",
-            "WANNACRY",
-            "Electric Algal Bloom",
-            "Ghost Ship",
-            "Meteorite 2024"
-        ],
-        "colour": "#6b00f0"
     },
         {
         "name": "huggies' Pack",
