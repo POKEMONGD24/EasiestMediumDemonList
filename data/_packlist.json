@@ -103,6 +103,8 @@
         {
         "name": "Peak Pack",
         "levels": [
+            "Mafia",
+            "digitaverse",
             "Tren 22",
             "TIME LEAPER",
             "On my mind",
@@ -116,19 +118,21 @@
             "SANCTITY",
             "MAGISTRO",
             "The Retro Tower",
+            "Turn To Page",
             "End of the Play",
             "Ethereal Lullaby",
             "Jang Wonyoung",
             "augmentation",
-            "Alkaline Shift",
             "Sugar HIGH",
-            "Blast The Bomb"
+            "Lockout",
+            "Alkaline Shift"
         ],
         "colour": "#016274"
     },
         {
         "name": "Peak+ Pack",
         "levels": [
+            "Blast The Bomb",
             "Bullet MENTAL",
             "Metamorphosis",
             "Ice Melt",
@@ -179,14 +183,14 @@
             "albacore",
             "the nightmare road",
             "Theory of Jumping",
-            "Overcome (Fgoll)",
-            "Higgs"
+            "Overcome (Fgoll)"
         ],
         "colour": "#704001"
     },
         {
         "name": "Trash+ Pack",
         "levels": [
+            "Higgs",
             "Frozen Palace",
             "Funky Stuff ",
             "CLUBSTEP 2019",
@@ -331,6 +335,7 @@
             "Viox",
             "Mangut 2022",
             "Iodine",
+            "TWIN TABULATING",
             "Claim Our Throne"
         ],
         "colour": "#fff9d9"
@@ -358,16 +363,21 @@
             "digitaverse",
             "On my mind",
             "Blur (yoroloro)",
+            "Cubacalipsis",
+            "Chasing Stars",
             "Hush",
             "MAGISTRO",
+            "Sugar HIGH",
             "Alkaline Shift",
             "Overcome (Fgoll)",
-            "Sugar HIGH",
+            "CaRaMeL",
+            "Liquwolf",
             "Metamorphosis",
             "WANNACRY",
             "Electric Algal Bloom",
             "Neozenith",
             "Evanescence ",
+            "Xuxa",
             "CELESTIAL PINNACLE",
             "STELLAR CORRIDOR",
             "Bad habit",
@@ -432,6 +442,20 @@
         "colour": "#fa4cd1"
     },
         {
+        "name": "Phonk Pack",
+        "levels": [
+            "OM NOM NOM",
+            "square root",
+            "Banger",
+            "DXRK BLUE",
+            "THOSE WHO PHONK",
+            "CONQUER",
+            "uve been funked",
+            "Bad habit"
+        ],
+        "colour": "#000001"
+    },
+        {
         "name": "Dream Pack",
         "levels": [
             "DreamLights",
@@ -443,18 +467,6 @@
             "Nautical Nightmare"
         ],
         "colour": "#f5bbdc"
-    },
-        {
-        "name": "Phonk Pack",
-        "levels": [
-            "OM NOM NOM",
-            "Banger",
-            "DXRK BLUE",
-            "THOSE WHO PHONK",
-            "uve been funked",
-            "Bad habit"
-        ],
-        "colour": "#000001"
     },
         {
         "name": "Year Pack",
@@ -581,6 +593,7 @@
         "name": "Liverlan's Pack",
         "levels": [
             "Noel Electra",
+            "Take my hand",
             "Scavenger",
             "digitaverse",
             "TIME LEAPER",
@@ -638,6 +651,7 @@
         "levels": [
             "InheriT",
             "Neverender",
+            "Take my hand",
             "On my mind",
             "Ice Melt",
             "Two Steps Back",
