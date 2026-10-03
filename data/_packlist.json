@@ -27,8 +27,8 @@
             "New Again",
             "Shuriken",
             "POSSESSIVE",
+            "Nocturne (Vodyanitsa)",
             "OwnSelfduggedGrave  ",
-            "Bad habit",
             "first day",
             "STELLAR CORRIDOR",
             "Winterlude (Vicolor)",
@@ -55,9 +55,9 @@
             "Hyperion",
             "tkspl",
             "Solaura",
+            "ChZzK",
             "Takeoff",
             "Break The Rules",
-            "ChZzK",
             "Electric Algal Bloom",
             "Neuf Cercles",
             "Astral Prism",
@@ -108,16 +108,16 @@
             "Tren 22",
             "TIME LEAPER",
             "On my mind",
-            "Blur (yoroloro)",
             "earth with you",
             "VISIONS",
             "Will We Plummet",
+            "The Retro Tower",
             "PAST THE STARS",
             "DeMeTeR",
             "legalize nuclea bomb",
             "SANCTITY",
+            "Hush",
             "MAGISTRO",
-            "The Retro Tower",
             "Turn To Page",
             "End of the Play",
             "Ethereal Lullaby",
@@ -145,8 +145,8 @@
             "Kelutral",
             "NO CONNECT",
             "NONGULETA",
-            "WANNACRY",
             "Break The Rules",
+            "WANNACRY",
             "Asadal"
         ],
         "colour": "#016274"
@@ -182,14 +182,14 @@
             "ClownStep",
             "albacore",
             "the nightmare road",
-            "Theory of Jumping",
-            "Overcome (Fgoll)"
+            "Theory of Jumping"
         ],
         "colour": "#704001"
     },
         {
         "name": "Trash+ Pack",
         "levels": [
+            "Overcome (Fgoll)",
             "Higgs",
             "Frozen Palace",
             "Funky Stuff ",
@@ -206,6 +206,7 @@
         "levels": [
             "StarQuake",
             "GET UP",
+            "THOSE WHO PHONK",
             "Star Flower",
             "Demon Park 2",
             "Sponsor"
@@ -221,12 +222,12 @@
             "Frozen Palace",
             "Ice Melt",
             "CLEAR",
-            "WANNACRY",
+            "TWIN TABULATING",
             "Become a Monster",
             "Solaura",
             "Iodine",
-            "TWIN TABULATING",
             "Hot Dog Redux",
+            "WANNACRY",
             "Invisible Light",
             "Vagueness"
         ],
@@ -241,7 +242,11 @@
             "Harambe Theory 2013",
             "penguin industries",
             "Become a Monster",
+            "ChZzK",
+            "Takeoff",
+            "Break The Rules",
             "Hot Dog Redux",
+            "Banished",
             "Happy Days"
         ],
         "colour": "#648498"
@@ -251,6 +256,7 @@
         "levels": [
             "Noel Electra",
             "Boxing Boxes",
+            "Lockout",
             "Pilot", 
             "HEMI",
             "CASINO BLITZ", 
@@ -270,14 +276,14 @@
             "BEATWORLD",
             "End of the Play",
             "Aether Construct",
-            "Critical Hit",
-            "Super Wubtendo"
+            "Critical Hit"
         ],
         "colour": "#773cb1"
     },
         {
         "name": "XXL+ Pack",
         "levels": [
+            "Super Wubtendo",
             "Ice Melt",
             "A Memorable Note",
             "As Reality Falls",
@@ -305,8 +311,8 @@
         "levels": [
             "No Room In Hell",
             "MEGAlevel",
-            "dEf",
             "nyoom",
+            "dEf",
             "cozy",
             "penguin industries",
             "mmrr",
@@ -330,12 +336,12 @@
         {
         "name": "Duo Pack",
         "levels": [
-            "Dumal",
             "Deadly Games",
+            "Dumal",
             "Viox",
             "Mangut 2022",
-            "Iodine",
             "TWIN TABULATING",
+            "Iodine",
             "Claim Our Throne"
         ],
         "colour": "#fff9d9"
@@ -343,6 +349,8 @@
         {
         "name": "High CPS Pack",
         "levels": [
+            "AntiTech Revolution",
+            "Warp Drive",
             "DOLBIT NORMALNO",
             "EXIT THIS NIGHT",
             "Mystic Thrills",
@@ -368,12 +376,24 @@
             "Hush",
             "MAGISTRO",
             "Sugar HIGH",
-            "Alkaline Shift",
+            "Alkaline Shift"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,165,0,1) 17%, rgba(255,255,0,1) 33%, rgba(0,128,0,1) 50%, rgba(0,0,255,1) 67%, rgba(75,0,130,1) 83%, rgba(238,130,238,1) 100%)"
+    },
+        {
+        "name": "NCS+ Pack",
+        "levels": [
             "Overcome (Fgoll)",
             "CaRaMeL",
             "Liquwolf",
             "Metamorphosis",
-            "WANNACRY",
+            "WANNACRY"
+        ],
+        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,165,0,1) 17%, rgba(255,255,0,1) 33%, rgba(0,128,0,1) 50%, rgba(0,0,255,1) 67%, rgba(75,0,130,1) 83%, rgba(238,130,238,1) 100%)"
+    },
+        {
+        "name": "NCS- Pack",
+        "levels": [
             "Electric Algal Bloom",
             "Neozenith",
             "Evanescence ",
@@ -385,6 +405,50 @@
             "Nautical Nightmare"
         ],
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,165,0,1) 17%, rgba(255,255,0,1) 33%, rgba(0,128,0,1) 50%, rgba(0,0,255,1) 67%, rgba(75,0,130,1) 83%, rgba(238,130,238,1) 100%)"
+    },
+        {
+        "name": "NONG Pack",
+        "levels": [
+            "Alone Again",
+            "outpost zimonja",
+            "Quartz Winds",
+            "No Room In Hell",
+            "Koi no Uta",
+            "Pokemon Showdown",
+            "FortnitePixelDash17",
+            "Aether Construct",
+            "MKEITSTP153",
+            "PRSM"
+        ],
+        "colour": "#09ada4"
+    },
+        {
+        "name": "NONG+ Pack",
+        "levels": [
+            "Blast The Bomb",
+            "square root",
+            "Ice Melt",
+            "string theocracy",
+            "Fugitivo",
+            "penguin industries",
+            "NO CONNECT",
+            "SAVE AS",
+            "Nine Circles XII"
+        ],
+        "colour": "#09ada4"
+    },
+        {
+        "name": "NONG- Pack",
+        "levels": [
+            "Gingerbread House",
+            "SAFESPACES",
+            "Conquer",
+            "uve been funked",
+            "New Again",
+            "SHADOW DANCE",
+            "Stardive"
+        ],
+        "colour": "#09ada4"
     },
         {
         "name": "Space Pack",
@@ -430,14 +494,14 @@
         "name": "Freaky Pack",
         "levels": [
             "On my mind",
-            "demon II",
             "Shifter",
+            "demon II",
             "DEVIL GIRL",
             "Ethereal Lullaby",
             "RobTop",
             "Hello Fitzgerald",
-            "Liquwolf",
-            "Rainbow Flux"
+            "Rainbow Flux",
+            "Liquwolf"
         ],
         "colour": "#fa4cd1"
     },
@@ -454,6 +518,19 @@
             "Bad habit"
         ],
         "colour": "#000001"
+    },
+        {
+        "name": "Gauntlet Pack",
+        "levels": [
+            "MAGISTRO",
+            "BISMARCK",
+            "PABRIK",
+            "Soar",
+            "Still Life",
+            "Asadal",
+            "Neozenith"
+        ],
+        "colour": "#ffca00"
     },
         {
         "name": "Dream Pack",
@@ -503,8 +580,8 @@
         {
         "name": "Creator Pack",
         "levels": [
-            "On my mind",
             "outpost zimonja",
+            "On my mind",
             "Ignited Levitation",
             "Ice Melt",
             "PRINTER NOISES",
@@ -521,8 +598,8 @@
             "Clutterfunk v2 (Snambs)",
             "Clutterfunk V2 (DemonBestGG)",
             "RobTop",
-            "ToE 2 v2",
             "MaffStep",
+            "ToE 2 v2",
             "cant let go copy",
             "Living Open",
             "CLUBSTEP 2019",
@@ -602,14 +679,14 @@
         "name": "Liverlan's Pack",
         "levels": [
             "Noel Electra",
-            "Take my hand",
             "Scavenger",
+            "Take my hand",
             "digitaverse",
             "TIME LEAPER",
             "On my mind",
+            "The Retro Tower",
             "SANCTITY",
             "MAGISTRO",
-            "The Retro Tower",
             "Sugar HIGH",
             "Metamorphosis",
             "WANNACRY",
@@ -640,9 +717,9 @@
         {
         "name": "Sir_Manface's Pack",
         "levels": [
+            "The Retro Tower",
             "Thundering Pulse",
             "Koi no Uta",
-            "The Retro Tower",
             "catharsis",
             "CASINO BLITZ",
             "Blueprint",
