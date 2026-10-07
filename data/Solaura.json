@@ -21,7 +21,7 @@
         },
         {
             "user": "sheeb",
-            "link": "https://youtu.be/yGZWqjE1Kj0?si=vUG8Je89ImwjfpzG",
+            "link": "https://youtu.be/yGZWqjE1Kj0",
             "percent": 100,
             "hz": " - "
         },
@@ -45,6 +45,12 @@
         },
         {
             "user": "AndreLac",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "DaShahzad",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
