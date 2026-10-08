@@ -4,7 +4,7 @@
     "author": "IIINePtunEIII",
     "creators": [],
     "verifier": "IIINePtunEIII",
-    "verification": "https://youtu.be/dOJhARl5H30?si=quKYVhVK7XcAmut5",
+    "verification": "https://youtu.be/dOJhARl5H30",
     "desc": "desc",
     "tier": "",
     "enjoyment": "",
@@ -68,7 +68,7 @@
         },
         {
             "user": "The Flux Champion",
-            "link": "https://youtu.be/kdIbPtdrNuU?si=Vst0d1Lf5nUvPRWt",
+            "link": "https://youtu.be/kdIbPtdrNuU",
             "percent": 100,
             "hz": " - "
         },
@@ -92,6 +92,12 @@
         },
         {
             "user": "AndreLac",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Excryst",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
