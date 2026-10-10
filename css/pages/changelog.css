@@ -1,0 +1,163 @@
+/* EMDL changelog — follows the remembered rounded-panel design. */
+.page-changelog {
+    display: block;
+    min-height: 0;
+    overflow-y: auto;
+    padding: 2rem 1rem 3rem;
+    background: var(--color-background);
+}
+.changelog-panel {
+    box-sizing: border-box;
+    width: min(100%, 68rem);
+    margin: 0 auto;
+    padding: clamp(1.25rem, 3vw, 2rem);
+    border-radius: 1rem;
+    background: var(--color-background-hover);
+    color: var(--color-on-background);
+}
+.changelog-heading {
+    padding-bottom: 1rem;
+    margin-bottom: 1.25rem;
+    border-bottom: 1px solid color-mix(in srgb, var(--color-on-background) 22%, transparent);
+}
+.changelog-heading h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+.changelog-heading p {
+    margin-top: .35rem;
+    opacity: .72;
+    font-size: .9rem;
+}
+.changelog-search-label {
+    display: block;
+    margin-bottom: .4rem;
+    font-size: .9rem;
+    font-weight: 700;
+}
+.changelog-search {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: 34rem;
+    padding: .75rem 1rem;
+    border: 1px solid color-mix(in srgb, var(--color-on-background) 24%, transparent);
+    border-radius: .55rem;
+    background: var(--color-background);
+    color: var(--color-on-background);
+    font: inherit;
+}
+.changelog-search:focus {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+}
+.changelog-count {
+    margin: .65rem 0 1rem;
+    font-size: .85rem;
+    opacity: .7;
+}
+.changelog-entries {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.changelog-entry {
+    padding: 1rem 0;
+    border-bottom: 1px solid color-mix(in srgb, var(--color-on-background) 14%, transparent);
+}
+.changelog-entry:first-child {
+    padding-top: .5rem;
+}
+.changelog-date {
+    display: block;
+    margin-bottom: .45rem;
+    font-size: .82rem;
+    opacity: .68;
+}
+.changelog-entry-line {
+    display: flex;
+    align-items: baseline;
+    gap: .65rem;
+}
+.changelog-entry-line p {
+    margin: 0;
+    line-height: 1.65;
+    overflow-wrap: anywhere;
+}
+.changelog-entry-line strong {
+    font-weight: 700;
+}
+.changelog-badge {
+    display: inline-block;
+    flex: 0 0 auto;
+    padding: .18rem .5rem;
+    border-radius: .35rem;
+    background: color-mix(in srgb, var(--color-on-background) 12%, transparent);
+    font-size: .72rem;
+    font-weight: 700;
+}
+.changelog-badge--placed {
+    color: #087c35;
+    background: #d8f5e2;
+}
+.changelog-badge--moved {
+    color: #805000;
+    background: #ffedc2;
+}
+.changelog-badge--removed {
+    color: #a00025;
+    background: #ffe0e6;
+}
+.root.dark .changelog-badge--placed {
+    color: #a7f3bd;
+    background: #17462b;
+}
+.root.dark .changelog-badge--moved {
+    color: #ffdf91;
+    background: #513c13;
+}
+.root.dark .changelog-badge--removed {
+    color: #ffb3c0;
+    background: #581d2a;
+}
+.changelog-message {
+    padding: 1.5rem 0;
+    opacity: .8;
+}
+.changelog-error {
+    color: var(--color-error);
+}
+.changelog-pagination {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: .45rem;
+    padding-top: 1.5rem;
+}
+.changelog-page-button {
+    min-width: 2.5rem;
+    padding: .55rem .8rem;
+    border: 1px solid var(--color-primary);
+    border-radius: .45rem;
+    background: transparent;
+    color: var(--color-primary);
+    font: inherit;
+    cursor: pointer;
+}
+.changelog-page-button:hover:not(:disabled) {
+    background: color-mix(in srgb, var(--color-primary) 12%, transparent);
+}
+.changelog-page-button.is-active {
+    background: var(--color-primary);
+    color: var(--color-on-primary);
+}
+.changelog-page-button:disabled {
+    opacity: .35;
+    cursor: not-allowed;
+}
+@media (max-width: 600px) {
+    .page-changelog { padding: 1rem .65rem 2rem; }
+    .changelog-entry-line { align-items: flex-start; flex-direction: column; gap: .35rem; }
+}
