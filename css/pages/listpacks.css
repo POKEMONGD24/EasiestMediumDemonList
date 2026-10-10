@@ -56,7 +56,7 @@ main.pack-list {
   grid-template-rows: 56px minmax(0, 1fr);
 
   column-gap: 2rem; 
-  row-gap: 0;
+  row-gap: 1;
   align-items: start;
 
   background: var(--color-background);
