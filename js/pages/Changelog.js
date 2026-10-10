@@ -50,15 +50,10 @@ export default {
         }
     },
     methods: {
-        formatDate(date) {
-            if (!date) return 'Unknown date';
-            const parsed = new Date(`${date}T00:00:00`);
-            return Number.isNaN(parsed.getTime())
-                ? date
-                : parsed.toLocaleDateString(undefined, {
-                    year: 'numeric', month: 'long', day: 'numeric'
-                });
-        },
+formatDate(date) {
+    if (!date) return 'Unknown date';
+    return date.split("-").reverse().join("-");
+},
         description(entry) {
             const from = entry.fromRank;
             const to = entry.toRank;
