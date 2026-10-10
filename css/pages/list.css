@@ -7,15 +7,14 @@ main.page-list {
     background: var(--color-background);
 }
 
-/* Grey panels */
 .page-list > .list-container,
 .page-list > .level-container,
 .page-list > .meta-container {
     background-color: var(--color-background-hover);
+    border: 1px solid var(--color-background-hover);
     border-radius: 10px;
-    background-clip: padding-box;
+    box-sizing: border-box;
 }
-
 .page-list .list-container,
 .page-list .level-container,
 .page-list .meta-container {
