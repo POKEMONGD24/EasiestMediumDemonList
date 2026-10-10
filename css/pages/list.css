@@ -192,19 +192,17 @@ main.page-list {
     margin-right: 12px;
 }
 
-/* Slim scrollbar inside the grey panels */
 .page-list > .list-container,
 .page-list > .level-container,
 .page-list > .meta-container {
     scrollbar-width: thin;
     scrollbar-color: #888 transparent;
 }
-
-/* Chrome, Edge and other Chromium browsers */
 .page-list > .list-container::-webkit-scrollbar,
 .page-list > .level-container::-webkit-scrollbar,
 .page-list > .meta-container::-webkit-scrollbar {
     width: 6px;
+    height: 6px;
 }
 
 .page-list > .list-container::-webkit-scrollbar-track,
@@ -226,39 +224,4 @@ main.page-list {
     height: 0 !important;
     width: 0 !important;
     background: transparent !important;
-
-}
-.page-list > .list-container::-webkit-scrollbar-button,
-.page-list > .level-container::-webkit-scrollbar-button,
-.page-list > .meta-container::-webkit-scrollbar-button {
-    display: none !important;
-    appearance: none !important;
-    -webkit-appearance: none !important;
-}
-.page-list > .list-container,
-.page-list > .level-container,
-.page-list > .meta-container {
-    scrollbar-width: thin;
-    scrollbar-color: #888 transparent;
-}
-
-.page-list > .list-container::-webkit-scrollbar,
-.page-list > .level-container::-webkit-scrollbar,
-.page-list > .meta-container::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
-}
-
-.page-list > .list-container::-webkit-scrollbar-button,
-.page-list > .level-container::-webkit-scrollbar-button,
-.page-list > .meta-container::-webkit-scrollbar-button,
-.page-list > .list-container::-webkit-scrollbar-button:start:decrement,
-.page-list > .level-container::-webkit-scrollbar-button:start:decrement,
-.page-list > .meta-container::-webkit-scrollbar-button:start:decrement,
-.page-list > .list-container::-webkit-scrollbar-button:end:increment,
-.page-list > .level-container::-webkit-scrollbar-button:end:increment,
-.page-list > .meta-container::-webkit-scrollbar-button:end:increment {
-    display: none !important;
-    width: 0 !important;
-    height: 0 !important;
 }
