@@ -20,8 +20,8 @@
   height: 56px;           /* MUST match .packs-nav height */
   margin: 0;              /* touching */
   border: none;
-  border-radius: 0.75em;
-  padding: 10px 25px;
+  border-radius: 0.65em;
+  padding: 10px 20px;
   text-align: start;
   word-break: normal;
   overflow-wrap: anywhere;
