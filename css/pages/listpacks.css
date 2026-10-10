@@ -1,18 +1,17 @@
 .packs-nav {
   z-index: 10;
   background-color: var(--color-background-hover);
-
   height: 56px;           /* tabs row height */
   width: 100%;
-
+  padding-bottom: 6px;
   overflow-x: auto;
   overflow-y: hidden;
 }
-
 .packs-nav > div {
   height: 56px;
   display: flex;
   align-items: stretch;
+  margin-bottom: 6px;
   gap: 0;
 }
 
@@ -56,7 +55,7 @@ main.pack-list {
   grid-template-rows: 56px minmax(0, 1fr);
 
   column-gap: 2rem; 
-  row-gap: 1;
+  row-gap: 0;
   align-items: start;
 
   background: var(--color-background);
