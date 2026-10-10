@@ -7,22 +7,31 @@ export default {
         loading: true,
         error: '',
     }),
-    computed: {
-        filteredEntries() {
-            const query = this.search.trim().toLocaleLowerCase();
-            if (!query) return this.entries;
-            return this.entries.filter(entry =>
-                (entry.level || '').toLocaleLowerCase().includes(query)
-            );
-        },
-        pageCount() {
-            return Math.max(1, Math.ceil(this.filteredEntries.length / this.pageSize));
-        },
-        paginatedEntries() {
-            const start = (this.currentPage - 1) * this.pageSize;
-            return this.filteredEntries.slice(start, start + this.pageSize);
-        },
+computed: {
+    filteredEntries() {
+        const query = this.search.trim().toLocaleLowerCase();
+        if (!query) return this.entries;
+
+        return this.entries.filter(entry =>
+            (entry.level || '').toLocaleLowerCase().includes(query)
+        );
     },
+
+    pageCount() {
+        return Math.max(
+            1,
+            Math.ceil(this.filteredEntries.length / this.pageSize)
+        );
+    },
+
+    paginatedEntries() {
+        const start = (this.currentPage - 1) * this.pageSize;
+        return this.filteredEntries.slice(
+            start,
+            start + this.pageSize
+        );
+    },
+},
     watch: {
         search() {
             this.currentPage = 1;
