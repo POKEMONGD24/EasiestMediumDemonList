@@ -68,11 +68,11 @@ description(entry) {
                 : '';
 
     if (entry.action === 'Placed') {
-        return `placed at #${to}${entry.toList ? ` on the ${entry.toList}` : ''}${position}.`;
+        return placed at #${to}${entry.toList ?;
     }
 
     if (entry.action === 'Removed') {
-        return `removed from #${from}${entry.fromList ? ` on the ${entry.fromList}` : ''}.`;
+        return removed from #${from}${entry.fromList ?;
     }
 
     if (entry.action === 'Moved') {
@@ -97,7 +97,7 @@ description(entry) {
             <section class="changelog-panel">
                 <div class="changelog-heading">
                     <h1>Changelog</h1>
-                    <p>Placements, rank movements and removals from the list.</p>
+                    <p>Changelogs of the list.</p>
                 </div>
 
                 <label class="changelog-search-label" for="changelog-search">Search level history</label>
@@ -117,7 +117,7 @@ description(entry) {
                 <div v-if="loading" class="changelog-message">Loading changelog…</div>
                 <div v-else-if="error" class="changelog-message changelog-error">{{ error }}</div>
                 <div v-else-if="filteredEntries.length === 0" class="changelog-message">
-                    {{ search ? 'No changelog entries found for this level.' : 'No changes have been recorded yet. Future list updates will appear here.' }}
+                    {{ search ? 'No changelogs found for this level.' : 'No changes have been recorded yet. Future list updates will appear here.' }}
                 </div>
 
                 <ol v-else class="changelog-entries">
