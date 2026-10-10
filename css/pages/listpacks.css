@@ -1,14 +1,13 @@
 .packs-nav {
-  z-index: 10;
-  background-color: var(--color-background-hover);
-  height: 56px;           /* tabs row height */
-  width: 100%;
-  overflow-x: auto;
-  overflow-y: hidden;
-  padding-bottom: 6px;
-  box-sizing: border-box;
-  scrollbar-width: thin;
-  scrollbar-color: rgba(160, 160, 160, 0.6) transparent;
+    z-index: 10;
+    background-color: var(--color-background-hover);
+    height: 62px;
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    box-sizing: border-box;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(160, 160, 160, 0.6) transparent;
 }
 .packs-nav > div {
   height: 56px;
@@ -295,4 +294,24 @@ main.pack-list > .meta-container {
   display: none;
   width: 0;
   height: 0;
+}
+.packs-nav::-webkit-scrollbar {
+    height: 6px;
+}
+
+.packs-nav::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.packs-nav::-webkit-scrollbar-thumb {
+    background: rgba(160, 160, 160, 0.6);
+    border-radius: 999px;
+}
+
+.packs-nav::-webkit-scrollbar-thumb:hover {
+    background: rgba(160, 160, 160, 0.8);
+}
+
+.packs-nav::-webkit-scrollbar-button {
+    display: none;
 }
