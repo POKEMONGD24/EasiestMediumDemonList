@@ -68,13 +68,13 @@ description(entry) {
                 : '';
 
     if (entry.action === 'Placed') {
-        return placed at #${to}${entry.toList ?;
+        return `placed at #${to}${entry.toList ? ` on the ${entry.toList}` : ''}${position}.`;
     }
 
     if (entry.action === 'Removed') {
-        return removed from #${from}${entry.fromList ?;
+        return `removed from #${from}${entry.fromList ? ` on the ${entry.fromList}` : ''}.`;
     }
-
+    
     if (entry.action === 'Moved') {
         const oldList = entry.fromList ? ` on the ${entry.fromList}` : '';
         const newList = entry.toList ? ` on the ${entry.toList}` : '';
