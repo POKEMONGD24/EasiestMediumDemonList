@@ -100,7 +100,7 @@ if (entry.action === 'Moved') {
             <section class="changelog-panel">
                 <div class="changelog-heading">
                     <h1>Changelog</h1>
-                    <p>Changelog history of the list.</p>
+                    <p>Backtracking unfinished, please use the spreadsheet instead.</p>
                 </div>
 
                 <label class="changelog-search-label" for="changelog-search">Search level history</label>
