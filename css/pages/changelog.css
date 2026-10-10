@@ -1,4 +1,3 @@
-/* EMDL changelog — follows the remembered rounded-panel design. */
 .page-changelog {
     display: block;
     min-height: 0;
@@ -136,36 +135,57 @@
     gap: .45rem;
     padding-top: 1.5rem;
 }
+
+.changelog-pagination {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding-top: 1.5rem;
+    margin-top: 1rem;
+}
+
 .changelog-page-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     min-width: 2.5rem;
-    padding: .55rem .8rem;
-    border: 1px solid var(--color-primary);
-    border-radius: .45rem;
+    min-height: 2.5rem;
+    padding: 0.5rem 0.85rem;
+
+    border: 1px solid #ea05b1;
+    border-radius: 0.45rem;
+
     background: transparent;
-    color: var(--color-primary);
+    color: #ea05b1;
+
     font: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+
     cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease;
 }
-.changelog-page-button:hover:not(:disabled) {
-    background: color-mix(in srgb, var(--color-primary) 12%, transparent);
+
+/* Hover effect */
+.changelog-page-button:hover:not(:disabled):not(.is-active) {
+    background: rgb(234 5 177 / 10%);
 }
+
+/* Current page */
 .changelog-page-button.is-active {
-    background: var(--color-primary);
-    color: var(--color-on-primary);
-}
-.changelog-page-button:disabled {
-    opacity: .35;
-    cursor: not-allowed;
-}
-.pagination button.active {
     background: #ea05b1;
+    border-color: #ea05b1;
     color: white;
 }
 
-.pagination button:disabled {
+/* Disabled Previous / Next */
+.changelog-page-button:disabled {
     opacity: 0.4;
     cursor: not-allowed;
 }
+
 @media (max-width: 600px) {
     .page-changelog { padding: 1rem .65rem 2rem; }
     .changelog-entry-line { align-items: flex-start; flex-direction: column; gap: .35rem; }
