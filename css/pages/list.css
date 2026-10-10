@@ -6,7 +6,6 @@ main.page-list {
     overflow: hidden;
     background: var(--color-background);
 }
-
 .page-list > .list-container,
 .page-list > .level-container,
 .page-list > .meta-container {
@@ -14,6 +13,7 @@ main.page-list {
     border: 1px solid var(--color-background-hover);
     border-radius: 10px;
     box-sizing: border-box;
+    margin: 8px 4px;
 }
 .page-list .list-container,
 .page-list .level-container,
