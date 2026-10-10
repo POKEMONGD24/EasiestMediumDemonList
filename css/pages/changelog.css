@@ -51,6 +51,29 @@
     outline: 2px solid var(--color-primary);
     outline-offset: 2px;
 }
+/* Changelog search bar */
+.page-changelog .changelog-search {
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    border: 1px solid var(--color-background-hover);
+    border-radius: 12px;
+    padding: 10px 14px;
+    outline: none;
+    box-sizing: border-box;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Placeholder */
+.page-changelog .changelog-search::placeholder {
+    color: var(--color-on-background-hover);
+    opacity: 0.7;
+}
+
+/* When selected */
+.page-changelog .changelog-search:focus {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--color-primary) 20%, transparent);
+}
 .changelog-count {
     margin: .65rem 0 1rem;
     font-size: .85rem;
