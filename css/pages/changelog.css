@@ -139,13 +139,13 @@
 
 .changelog-page-button {
     padding: 0.65rem 0.9rem;
-    border: 4px solid #ea05b1;
-    border-radius: 0.35rem;
+    border: 3px solid #ea05b1;
+    border-radius: 0.4rem;
     background: transparent;
     color: #ffffff;
     font-family: 'Lexend Deca', sans-serif;
-    font-weight: 900;
-    font-size: 1.5rem;
+    font-weight: 800;
+    font-size: 1.0rem;
     cursor: pointer;
 }
 
