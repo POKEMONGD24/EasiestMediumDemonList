@@ -316,9 +316,9 @@ main.pack-list > .meta-container {
     display: none;
 }
 .packs-nav {
-    background-color: var(--color-background-hover);
+    background-color: var(--color-background-hover) !important;
 }
 
-.packs-nav > div {
+.packs-nav button {
     background-color: var(--color-background-hover);
 }
