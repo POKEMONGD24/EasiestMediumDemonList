@@ -67,24 +67,18 @@ description(entry) {
                 ? ` above ${entry.belowLevel}`
                 : '';
 
-    if (entry.action === 'Placed') {
-        return `placed at #${to}${entry.toList ? ` on the ${entry.toList}` : ''}${position}.`;
-    }
 
-    if (entry.action === 'Removed') {
-        return `removed from #${from}${entry.fromList ? ` on the ${entry.fromList}` : ''}.`;
-    }
-    
-    if (entry.action === 'Moved') {
-        const oldList = entry.fromList ? ` on the ${entry.fromList}` : '';
-        const newList = entry.toList ? ` on the ${entry.toList}` : '';
+if (entry.action === 'Placed') {
+    return `placed at #${to}${position}.`;
+}
 
-        if (entry.fromList !== entry.toList) {
-            return `moved from #${from}${oldList} to #${to}${newList}${position}.`;
-        }
+if (entry.action === 'Removed') {
+    return `removed from #${from}.`;
+}
 
-        return `moved from #${from} to #${to}${newList}${position}.`;
-    }
+if (entry.action === 'Moved') {
+    return `moved from #${from} to #${to}${position}.`;
+}
 
     return entry.detail || 'List updated.';
 },
