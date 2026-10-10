@@ -157,11 +157,6 @@
     opacity: .35;
     cursor: not-allowed;
 }
-@media (max-width: 600px) {
-    .page-changelog { padding: 1rem .65rem 2rem; }
-    .changelog-entry-line { align-items: flex-start; flex-direction: column; gap: .35rem; }
-}
-
 .pagination {
     display: flex;
     justify-content: center;
@@ -188,4 +183,8 @@
 .pagination button:disabled {
     opacity: 0.4;
     cursor: not-allowed;
+}
+@media (max-width: 600px) {
+    .page-changelog { padding: 1rem .65rem 2rem; }
+    .changelog-entry-line { align-items: flex-start; flex-direction: column; gap: .35rem; }
 }
