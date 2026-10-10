@@ -62,7 +62,7 @@
     padding: 0;
 }
 .changelog-entry {
-    padding: 1rem 0;
+    padding: 0.6rem 0;
 }
 .changelog-entry:first-child {
     padding-top: .5rem;
