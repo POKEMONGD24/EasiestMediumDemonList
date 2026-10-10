@@ -138,9 +138,9 @@
 }
 
 .changelog-page-button {
-    padding: 1.0rem;
+    padding: 0.9rem;
     border: 5px solid #ea05b1;
-    border-radius: 0.4rem;
+    border-radius: 0.35rem;
     background: transparent;
     color: #ea05b1;
     font-family: 'Lexend Deca', sans-serif;
