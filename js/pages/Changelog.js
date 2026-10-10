@@ -33,7 +33,7 @@ export default {
     },
     async mounted() {
         try {
-            const response = await fetch('/data/changelog.json', { cache: 'no-store' });
+            const response = await fetch('/data/_changelog.json', { cache: 'no-store' });
             if (!response.ok) throw new Error(`HTTP ${response.status}`);
             const data = await response.json();
             this.entries = Array.isArray(data)
