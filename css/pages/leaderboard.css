@@ -100,10 +100,6 @@
     min-height: 0;
     overflow-x: hidden;
 }
-.page-leaderboard-container {
-    margin-top: 12px;
-    margin-bottom: 12px;
-}
 /* Spacing around leaderboard panels */
 .page-leaderboard {
     padding-top: 12px;
