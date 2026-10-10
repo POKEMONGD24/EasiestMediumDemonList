@@ -1,10 +1,14 @@
 /* --- Lock List page to viewport and keep scroll inside columns --- */
 main.page-list {
-  flex: 1;
-  height: 0;        /* critical: prevents body scroll in a flex column layout */
-  min-height: 0;    /* critical: allows children to become scroll containers */
-  overflow: hidden; /* stop page scroll; columns scroll instead */
-  background: var(--color-background);
+    flex: 1;
+    height: 0;
+    min-height: 0;
+    overflow: hidden;
+    background: var(--color-background);
+    display: flex;
+    gap: 12px;
+    padding: 12px;
+    box-sizing: border-box;
 }
 
 /* Ensure the 3 columns can actually scroll */
@@ -15,16 +19,20 @@ main.page-list > .meta-container {
   overflow-y: auto;
 }
 
-.page-list .list-container,
-.page-list .level-container,
-.page-list .meta-container {
-    padding-block: 2rem;
+/* Three separate panels */
+.page-list > .list-container,
+.page-list > .level-container,
+.page-list > .meta-container {
+    background-color: var(--color-background-hover);
+    border: 1px solid var(--color-background);
+    border-radius: 10px;
+    box-sizing: border-box;
 }
 .page-list .list-container {
     padding-inline: 1rem;
 }
 .page-list .meta-container {
-    padding-right: 2rem;
+    padding: 1rem;
 }
 
 .page-list .list {
