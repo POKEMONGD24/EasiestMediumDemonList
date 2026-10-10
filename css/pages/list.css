@@ -198,25 +198,7 @@ main.page-list {
     scrollbar-width: thin;
     scrollbar-color: #888 transparent;
 }
-/* Spacing around leaderboard panels */
-.page-leaderboard {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    box-sizing: border-box;
-}
 
-/* Rounded grey panels */
-.page-leaderboard > .board-container,
-.page-leaderboard > .player-container {
-    border-radius: 20px;
-    margin-top: 12px;
-}
-
-/* More horizontal space inside the right panel */
-.page-leaderboard > .player-container {
-    padding-left: 2rem;
-    padding-right: 2rem;
-}
 .page-list > .list-container::-webkit-scrollbar,
 .page-list > .level-container::-webkit-scrollbar,
 .page-list > .meta-container::-webkit-scrollbar {
