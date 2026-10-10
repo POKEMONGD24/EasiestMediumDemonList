@@ -61,6 +61,10 @@ main.page-list {
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
+.page-list .list .level:not(.active) button {
+    background-color: var(--color-background-hover);
+    color: var(--color-on-background);
+}
 .page-list .level-container .level {
     display: flex;
     flex-direction: column;
