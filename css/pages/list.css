@@ -5,13 +5,16 @@ main.page-list {
     min-height: 0;
     overflow: hidden;
     background: var(--color-background);
-    display: flex;
-    gap: 12px;
-    padding: 12px;
-    box-sizing: border-box;
 }
 
-/* Ensure the 3 columns can actually scroll */
+/* Grey panels */
+.page-list > .list-container,
+.page-list > .level-container,
+.page-list > .meta-container {
+    background-color: var(--color-background-hover);
+    border-radius: 10px;
+    background-clip: padding-box;
+}
 
 .page-list .list-container,
 .page-list .level-container,
