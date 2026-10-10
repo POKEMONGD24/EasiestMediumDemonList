@@ -7,7 +7,7 @@ const fs = require('node:fs');
 const { execFileSync } = require('node:child_process');
 
 const listPath = 'data/_list.json';
-const historyPath = 'data/changelog.json';
+const historyPath = 'data/_changelog.json';
 const baseSha = process.env.BASE_SHA;
 
 function readJsonFile(path) {
