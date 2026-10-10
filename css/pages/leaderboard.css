@@ -141,3 +141,26 @@
     background: #888;
     border-radius: 10px;
 }
+/* Leaderboard search bar */
+.page-leaderboard input {
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    border: 1px solid var(--color-background-hover);
+    border-radius: 12px;
+    padding: 10px 14px;
+    outline: none;
+    box-sizing: border-box;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Placeholder */
+.page-leaderboard input::placeholder {
+    color: var(--color-on-background-hover);
+    opacity: 0.7;
+}
+
+/* When selected */
+.page-leaderboard input:focus {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--color-primary) 20%, transparent);
+}
