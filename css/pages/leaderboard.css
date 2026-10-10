@@ -91,6 +91,19 @@
 .page-leaderboard .player .table a:hover {
     text-decoration: underline;
 }
+.page-leaderboard > .board-container,
+.page-leaderboard > .player-container {
+    background-color: var(--color-background-hover);
+    border: 1px solid var(--color-background-hover);
+    border-radius: 16px;
+    box-sizing: border-box;
+    min-height: 0;
+    overflow-x: hidden;
+}
+.page-leaderboard-container {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
 /* Leaderboard scrollbar */
 .page-leaderboard > div {
     scrollbar-width: thin;
