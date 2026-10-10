@@ -62,13 +62,13 @@
     padding: 0;
 }
 .changelog-entry {
-    padding: 0.6rem 0;
+    padding: 0.7rem 0;
 }
 .changelog-entry:first-child {
     padding-top: .5rem;
 }
 .changelog-date {
-    display: block;
+    display: inline;
     margin-bottom: .45rem;
     font-size: .82rem;
     opacity: .68;
