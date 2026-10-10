@@ -138,14 +138,14 @@
 }
 
 .changelog-page-button {
-    padding: 0.9rem;
+    padding: 1.5rem;
     border: 5px solid #ea05b1;
-    border-radius: 0.35rem;
+    border-radius: 0.4rem;
     background: transparent;
     color: #ea05b1;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 900;
-    font-size: 0.85rem;
+    font-size: 1rem;
     cursor: pointer;
 }
 
