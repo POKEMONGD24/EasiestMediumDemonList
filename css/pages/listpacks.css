@@ -6,12 +6,13 @@
   padding-bottom: 6px;
   overflow-x: auto;
   overflow-y: hidden;
+  padding-bottom: 6px;
+  box-sizing: border-box;
 }
 .packs-nav > div {
   height: 56px;
   display: flex;
   align-items: stretch;
-  margin-bottom: 6px;
   gap: 0;
 }
 
@@ -26,24 +27,20 @@
   overflow-wrap: anywhere;
   cursor: pointer;
   flex-shrink: 0;
-
   background-size: 100% 100% !important;
 }
-
 .packs-nav button p {
   margin: 0;
   mix-blend-mode: difference;
   color: rgb(128, 128, 128);
 }
-
 /* =========================
    Packs page layout (3 cols)
    ========================= */
 
 /* Key: lock the packs layout to the viewport under the 4rem header */
 /* ===== Packs page layout (scrollable columns) ===== */
-/* IMPORTANT: main.css uses main { height:0; flex:1 }.
-   We mirror that here so the grid has a real height and columns can scroll. */
+/* IMPORTANT: main.css uses main { height:0; flex:1 }.   We mirror that here so the grid has a real height and columns can scroll. */
 main.pack-list {
   flex: 1;
   height: 0;        /* critical in your flex layout */
@@ -52,7 +49,7 @@ main.pack-list {
 
   display: grid;
   grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(16rem, 1fr);
-  grid-template-rows: 56px minmax(0, 1fr);
+  grid-template-rows: 62px minmax(0, 1fr);
 
   column-gap: 2rem; 
   row-gap: 0;
