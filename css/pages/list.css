@@ -226,4 +226,12 @@ main.page-list {
     height: 0 !important;
     width: 0 !important;
     background: transparent !important;
+
+}
+.page-list > .list-container::-webkit-scrollbar-button,
+.page-list > .level-container::-webkit-scrollbar-button,
+.page-list > .meta-container::-webkit-scrollbar-button {
+    display: none !important;
+    appearance: none !important;
+    -webkit-appearance: none !important;
 }
