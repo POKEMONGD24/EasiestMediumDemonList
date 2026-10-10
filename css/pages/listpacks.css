@@ -28,6 +28,7 @@
   cursor: pointer;
   flex-shrink: 0;
   background-size: 100% 100% !important;
+  margin-bottom: 6px;
 }
 .packs-nav button p {
   margin: 0;
