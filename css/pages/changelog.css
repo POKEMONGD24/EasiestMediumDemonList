@@ -161,3 +161,31 @@
     .page-changelog { padding: 1rem .65rem 2rem; }
     .changelog-entry-line { align-items: flex-start; flex-direction: column; gap: .35rem; }
 }
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 24px 0;
+}
+
+.pagination button {
+    padding: 8px 12px;
+    border: 1px solid #ea05b1;
+    border-radius: 6px;
+    background: transparent;
+    color: inherit;
+    cursor: pointer;
+}
+
+.pagination button.active {
+    background: #ea05b1;
+    color: white;
+}
+
+.pagination button:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
