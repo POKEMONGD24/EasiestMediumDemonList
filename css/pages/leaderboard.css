@@ -65,6 +65,10 @@
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
+.page-leaderboard .board .user:not(.active) button {
+    background-color: var(--color-background-hover);
+    color: var(--color-on-background);
+}
 .page-leaderboard .player {
     display: flex;
     flex-direction: column;
