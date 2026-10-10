@@ -165,5 +165,5 @@
 }
 @media (max-width: 600px) {
     .page-changelog { padding: 1rem .65rem 2rem; }
-    .changelog-entry-line { align-items: flex-start; flex-direction: column; gap: .35rem; }
+    .changelog-entry-line { align-items: flex-start; gap: .35rem; }
 }
