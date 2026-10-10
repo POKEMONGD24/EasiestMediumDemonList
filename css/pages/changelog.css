@@ -69,13 +69,15 @@
 }
 .changelog-date {
     display: inline;
-    margin-bottom: .45rem;
-    font-size: .82rem;
-    opacity: .68;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 700;
+    opacity: 1;
+    flex: 0 0 auto;
 }
 .changelog-entry-line {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     gap: .65rem;
 }
 .changelog-entry-line p {
