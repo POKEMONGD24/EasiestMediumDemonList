@@ -3,7 +3,7 @@ export default {
         entries: [],
         search: '',
         currentPage: 1,
-        pageSize: 8,
+        pageSize: 10,
         loading: true,
         error: '',
     }),
