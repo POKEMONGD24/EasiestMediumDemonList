@@ -1,14 +1,16 @@
 [
-  {
-    "id": 2,
-    "date": "2026-10-10",
-    "level": "Overcome (Fgoll)",
-    "action": "Moved",
-    "fromRank": 153,
-    "toRank": 139,
-    "fromList": "Legacy List",
-    "toList": "Extended List"
-  },
+{
+  "id": 1,
+  "date": "2026-10-10",
+  "level": "Overcome (Fgoll)",
+  "action": "Moved",
+  "fromRank": 153,
+  "toRank": 139,
+  "fromList": "Legacy List",
+  "toList": "Extended List",
+  "aboveLevel": "Overcome (EntiqueGD)",
+  "belowLevel": "PoEtRy"
+},
   {
     "id": 1,
     "date": "2026-10-10",
@@ -18,5 +20,7 @@
     "toRank": 139,
     "fromList": null,
     "toList": "Extended List"
+    "aboveLevel": "Overcome (EntiqueGD)",
+    "belowLevel": "Lockout"
   } 
 ]
