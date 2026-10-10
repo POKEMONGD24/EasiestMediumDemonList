@@ -100,7 +100,7 @@ export default {
                         
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 500"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else>This level does accept new records.</p>
+                    <p v-else>This level accepts new records.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
@@ -142,22 +142,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                      <p>
-                        Achieved the record without using any hacks.
-                    </p>
-                    <p>
-                        Achieved the record on the level that is listed on the site, please check the level before you submit a record.
+                        Achieved the record listed on the site without using any hacks, secret ways, game breaking bugs or cheats.
                     </p>
                     <p>
                         You can submit a screenshot or a video of your completion in our Discord server.
                     </p>
                     <p>
-                        Do not use secret ways or bugs, but we cant prove it without you tellng us.
-                    </p>
-                    <p>
                         If you disagree with a ranking, come tell us in the Discord.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for ever (this will be fun)
+                        Once a level falls onto the Legacy List, we will always keep accepting records for it.
                     </p>
                 </div>
             </div>
