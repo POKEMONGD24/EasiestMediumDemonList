@@ -124,11 +124,11 @@ if (entry.action === 'Moved') {
                 </div>
 
                 <ol v-else class="changelog-entries">
-                    <li v-for="entry in paginatedEntries" :key="entry.id" class="changelog-entry">
-                        <time class="changelog-date" :datetime="entry.date">{{ formatDate(entry.date) }}</time>
-                        <div class="changelog-entry-line">
-                            <p><strong>{{ entry.level }}</strong> {{ description(entry) }}</p>
-                        </div>
+                    <li v-for="entry in paginatedEntries" :key="entry.id" class="changelog-entry"> 
+                        <div class="changelog-entry-line"> 
+                           <time class="changelog-date" :datetime="entry.date">{{ formatDate(entry.date) }}
+                           </time> <p><strong>{{ entry.level }}</strong> {{ description(entry) }}</p> 
+                        </div> 
                     </li>
                 </ol>
 
