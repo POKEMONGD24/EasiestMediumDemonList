@@ -88,13 +88,6 @@ description(entry) {
 
     return entry.detail || 'List updated.';
 },
-        badgeClass(action) {
-            return {
-                Placed: 'changelog-badge--placed',
-                Moved: 'changelog-badge--moved',
-                Removed: 'changelog-badge--removed',
-            }[action] || '';
-        },
         goToPage(page) {
             this.currentPage = Math.min(this.pageCount, Math.max(1, page));
         },
