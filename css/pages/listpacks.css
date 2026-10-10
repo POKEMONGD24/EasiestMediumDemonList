@@ -315,10 +315,3 @@ main.pack-list > .meta-container {
 .packs-nav::-webkit-scrollbar-button {
     display: none;
 }
-.packs-nav {
-    background-color: var(--color-background-hover) !important;
-}
-
-.packs-nav button {
-    background-color: var(--color-background-hover);
-}
