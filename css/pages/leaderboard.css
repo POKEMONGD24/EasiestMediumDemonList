@@ -91,3 +91,21 @@
 .page-leaderboard .player .table a:hover {
     text-decoration: underline;
 }
+/* Leaderboard scrollbar */
+.page-leaderboard > div {
+    scrollbar-width: thin;
+    scrollbar-color: #888 transparent;
+}
+
+.page-leaderboard > div::-webkit-scrollbar {
+    width: 6px;
+}
+
+.page-leaderboard > div::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.page-leaderboard > div::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
