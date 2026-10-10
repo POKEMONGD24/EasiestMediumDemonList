@@ -53,9 +53,9 @@ main.pack-list {
 
   display: grid;
   grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(16rem, 1fr);
-  grid-template-rows: 56px 0.5rem minmax(0, 1fr);
+  grid-template-rows: 56px minmax(0, 1fr);
 
-  column-gap: 2rem; /* HDL spacing */
+  column-gap: 2rem; 
   row-gap: 0;
   align-items: start;
 
