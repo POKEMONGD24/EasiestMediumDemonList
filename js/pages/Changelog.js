@@ -97,7 +97,7 @@ description(entry) {
             <section class="changelog-panel">
                 <div class="changelog-heading">
                     <h1>Changelog</h1>
-                    <p>Changelogs of the list.</p>
+                    <p>Changelog history of the list.</p>
                 </div>
 
                 <label class="changelog-search-label" for="changelog-search">Search level history</label>
