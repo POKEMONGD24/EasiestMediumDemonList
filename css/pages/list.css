@@ -4,7 +4,8 @@ main.page-list {
     height: 0;
     min-height: 0;
     overflow: hidden;
-    margin-top: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     background: var(--color-background);
 }
 .page-list > .list-container,
