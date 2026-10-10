@@ -54,25 +54,40 @@ formatDate(date) {
     if (!date) return 'Unknown date';
     return date.split("-").reverse().join("-");
 },
-        description(entry) {
-            const from = entry.fromRank;
-            const to = entry.toRank;
-            if (entry.action === 'Placed') {
-                return `placed at #${to}${entry.toList ? ` on the ${entry.toList}` : ''}.`;
-            }
-            if (entry.action === 'Removed') {
-                return `removed from #${from}${entry.fromList ? ` on the ${entry.fromList}` : ''}.`;
-            }
-            if (entry.action === 'Moved') {
-                const oldList = entry.fromList ? ` on the ${entry.fromList}` : '';
-                const newList = entry.toList ? ` on the ${entry.toList}` : '';
-                if (entry.fromList !== entry.toList) {
-                    return `moved from #${from}${oldList} to #${to}${newList}.`;
-                }
-                return `moved from #${from} to #${to}${newList}.`;
-            }
-            return entry.detail || 'List updated.';
-        },
+
+description(entry) {
+    const from = entry.fromRank;
+    const to = entry.toRank;
+
+    const position = (entry.aboveLevel && entry.belowLevel)
+        ? ` between ${entry.aboveLevel} and ${entry.belowLevel}`
+        : entry.aboveLevel
+            ? ` below ${entry.aboveLevel}`
+            : entry.belowLevel
+                ? ` above ${entry.belowLevel}`
+                : '';
+
+    if (entry.action === 'Placed') {
+        return `placed at #${to}${entry.toList ? ` on the ${entry.toList}` : ''}${position}.`;
+    }
+
+    if (entry.action === 'Removed') {
+        return `removed from #${from}${entry.fromList ? ` on the ${entry.fromList}` : ''}.`;
+    }
+
+    if (entry.action === 'Moved') {
+        const oldList = entry.fromList ? ` on the ${entry.fromList}` : '';
+        const newList = entry.toList ? ` on the ${entry.toList}` : '';
+
+        if (entry.fromList !== entry.toList) {
+            return `moved from #${from}${oldList} to #${to}${newList}${position}.`;
+        }
+
+        return `moved from #${from} to #${to}${newList}${position}.`;
+    }
+
+    return entry.detail || 'List updated.';
+},
         badgeClass(action) {
             return {
                 Placed: 'changelog-badge--placed',
