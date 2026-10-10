@@ -219,10 +219,11 @@ main.page-list {
     background: #888;
     border-radius: 10px;
 }
-.page-list > .list-container::-webkit-scrollbar-button,
-.page-list > .level-container::-webkit-scrollbar-button,
-.page-list > .meta-container::-webkit-scrollbar-button {
-    display: none;
-    width: 0;
-    height: 0;
+.page-list > .list-container::-webkit-scrollbar-button:single-button,
+.page-list > .level-container::-webkit-scrollbar-button:single-button,
+.page-list > .meta-container::-webkit-scrollbar-button:single-button {
+    display: none !important;
+    height: 0 !important;
+    width: 0 !important;
+    background: transparent !important;
 }
