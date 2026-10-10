@@ -191,3 +191,31 @@ main.page-list {
 .page-list > .meta-container {
     margin-right: 12px;
 }
+
+/* Slim scrollbar inside the grey panels */
+.page-list > .list-container,
+.page-list > .level-container,
+.page-list > .meta-container {
+    scrollbar-width: thin;
+    scrollbar-color: #888 transparent;
+}
+
+/* Chrome, Edge and other Chromium browsers */
+.page-list > .list-container::-webkit-scrollbar,
+.page-list > .level-container::-webkit-scrollbar,
+.page-list > .meta-container::-webkit-scrollbar {
+    width: 6px;
+}
+
+.page-list > .list-container::-webkit-scrollbar-track,
+.page-list > .level-container::-webkit-scrollbar-track,
+.page-list > .meta-container::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.page-list > .list-container::-webkit-scrollbar-thumb,
+.page-list > .level-container::-webkit-scrollbar-thumb,
+.page-list > .meta-container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
