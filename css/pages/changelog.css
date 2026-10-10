@@ -40,35 +40,26 @@
     display: block;
     width: 100%;
     max-width: 34rem;
-    padding: .75rem 1rem;
-    border: 1px solid color-mix(in srgb, var(--color-on-background) 24%, transparent);
-    border-radius: .55rem;
+    padding: 12px 16px;
     background: var(--color-background);
     color: var(--color-on-background);
-    font: inherit;
-}
-.changelog-search:focus {
-    outline: 2px solid var(--color-primary);
-    outline-offset: 2px;
-}
-/* Changelog search bar */
-.page-changelog .changelog-search {
-    background-color: var(--color-background);
-    color: var(--color-on-background);
-    border: 1px solid var(--color-background-hover);
+    border: 2px solid var(--color-background-hover);
     border-radius: 12px;
-    padding: 10px 14px;
+    font: Lexend Deca;
     outline: none;
-    box-sizing: border-box;
+
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Placeholder */
-.page-changelog .changelog-search::placeholder {
+.changelog-search::placeholder {
     color: var(--color-on-background-hover);
     opacity: 0.7;
 }
 
+.changelog-search:focus {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-primary) 25%, transparent);
+}
 /* When selected */
 .page-changelog .changelog-search:focus {
     border-color: var(--color-primary);
