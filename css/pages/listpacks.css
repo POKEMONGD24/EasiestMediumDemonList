@@ -3,11 +3,13 @@
   background-color: var(--color-background-hover);
   height: 56px;           /* tabs row height */
   width: 100%;
-  padding-bottom: 6px;
   overflow-x: auto;
   overflow-y: hidden;
   padding-bottom: 6px;
   box-sizing: border-box;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(160, 160, 160, 0.6) transparent;
+}
 }
 .packs-nav > div {
   height: 56px;
