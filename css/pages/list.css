@@ -161,3 +161,24 @@ main.page-list {
     mix-blend-mode: difference;
     color: rgb(128, 128, 128);
 }
+
+.page-list > .list-container,
+.page-list > .level-container,
+.page-list > .meta-container {
+    border-radius: 16px;
+    margin: 12px 6px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.page-list > .list-container {
+    margin-left: 12px;
+    padding-left: 1.25rem;
+}
+.page-list > .level-container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.page-list > .meta-container {
+    margin-right: 12px;
+}
