@@ -76,6 +76,9 @@
     opacity: 1;
     flex: 0 0 auto;
 }
+.changelog-date::after {
+    content: " —";
+}
 .changelog-entry-line {
     display: flex;
     align-items: center;
