@@ -226,26 +226,27 @@ main.page-list {
     width: 0 !important;
     background: transparent !important;
 }
-/* Search bar */
-.search-bar {
+/* Search inputs on List and Leaderboard */
+.page-list input,
+.page-leaderboard input {
     background-color: var(--color-background);
     color: var(--color-on-background);
     border: 1px solid var(--color-background-hover);
     border-radius: 12px;
-    padding: 12px 16px;
+    padding: 10px 14px;
     outline: none;
     box-sizing: border-box;
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Placeholder */
-.search-bar::placeholder {
-    color: var(--color-on-background-hover);
-    opacity: 0.7;
-}
-
-/* When selected */
-.search-bar:focus {
+.page-list input:focus,
+.page-leaderboard input:focus {
     border-color: var(--color-primary);
     box-shadow: 0 0 0 2px color-mix(in srgb, var(--color-primary) 20%, transparent);
+}
+
+.page-list input::placeholder,
+.page-leaderboard input::placeholder {
+    color: var(--color-on-background-hover);
+    opacity: 0.7;
 }
