@@ -131,7 +131,6 @@ description(entry) {
                     <li v-for="entry in paginatedEntries" :key="entry.id" class="changelog-entry">
                         <time class="changelog-date" :datetime="entry.date">{{ formatDate(entry.date) }}</time>
                         <div class="changelog-entry-line">
-                            <span class="changelog-badge" :class="badgeClass(entry.action)">{{ entry.action }}</span>
                             <p><strong>{{ entry.level }}</strong> {{ description(entry) }}</p>
                         </div>
                     </li>
