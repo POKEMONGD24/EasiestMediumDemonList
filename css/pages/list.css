@@ -12,21 +12,11 @@ main.page-list {
 }
 
 /* Ensure the 3 columns can actually scroll */
-main.page-list > .list-container,
-main.page-list > .level-container,
-main.page-list > .meta-container {
-  min-height: 0;
-  overflow-y: auto;
-}
 
-/* Three separate panels */
-.page-list > .list-container,
-.page-list > .level-container,
-.page-list > .meta-container {
-    background-color: var(--color-background-hover);
-    border: 1px solid var(--color-background);
-    border-radius: 10px;
-    box-sizing: border-box;
+.page-list .list-container,
+.page-list .level-container,
+.page-list .meta-container {
+    padding-block: 2rem;
 }
 .page-list .list-container {
     padding-inline: 1rem;
@@ -34,7 +24,6 @@ main.page-list > .meta-container {
 .page-list .meta-container {
     padding: 1rem;
 }
-
 .page-list .list {
     table-layout: auto;
 }
