@@ -63,7 +63,6 @@
 }
 .changelog-entry {
     padding: 1rem 0;
-    border-bottom: 1px solid color-mix(in srgb, var(--color-on-background) 14%, transparent);
 }
 .changelog-entry:first-child {
     padding-top: .5rem;
