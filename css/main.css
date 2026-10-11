@@ -155,10 +155,18 @@ header .nav {
 
 header .nav__actions {
     position: absolute;
-    right: 1.5rem;
+    right: 1rem;
     top: 50%;
     transform: translateY(-50%);
     display: flex;
     align-items: center;
     gap: 0.75rem;
+}
+/* Remove persistent underlines from navigation links */
+header .nav__tab,
+header .nav__tab:hover,
+header .nav__tab:focus,
+header .nav__tab:active,
+header .nav__tab.router-link-active {
+    text-decoration: none;
 }
