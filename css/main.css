@@ -145,3 +145,20 @@ input[type="checkbox"] {
 .stats li {
     flex: 1;
 }
+header {
+    position: relative;
+}
+
+header .nav {
+    position: static;
+}
+
+header .nav__actions {
+    position: absolute;
+    right: 2rem;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
