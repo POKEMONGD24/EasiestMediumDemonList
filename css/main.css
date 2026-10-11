@@ -88,9 +88,7 @@ header .logo {
 }
 header .nav {
     flex: 1;
-}
-header .nav {
-    margin-left: 0;
+    margin-left: 1;
 }
 main {
     height: 0;
