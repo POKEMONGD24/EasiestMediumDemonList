@@ -247,3 +247,17 @@ main.page-list {
     color: var(--color-on-background-hover);
     opacity: 0.7;
 }
+
+/* Fix search bar alignment on mobile */
+@media (max-width: 768px) {
+  .page-list input,
+  .page-leaderboard input {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
