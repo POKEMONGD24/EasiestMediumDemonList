@@ -8,6 +8,8 @@ const dir = '/data';
 const sheetURL = "https://docs.google.com/spreadsheets/d/1c_tyXFIWhv82d17LwP44cj3dheCEXQLeajvthDDdMzk/export?format=csv&gid=0";
 
 async function fetchSheet() {
+    let sheetIndexPromise;
+    
     const result = await fetch(sheetURL);
     const text = await result.text();
 
@@ -33,7 +35,25 @@ async function fetchSheet() {
         values.push(current);
         return values.map(v => v.trim().replace(/^"|"$/g, ""));
     });
+let sheetIndexPromise;
 
+async function fetchSheetIndex() {
+    if (!sheetIndexPromise) {
+        sheetIndexPromise = fetchSheet()
+            .then(rows => new Map(
+                rows.map(row => [
+                    String(row.ID).trim(),
+                    row
+                ])
+            ))
+            .catch(error => {
+                sheetIndexPromise = null;
+                throw error;
+            });
+    }
+
+    return sheetIndexPromise;
+}
     const headers = parsed.shift();
 
     return parsed.map(row => {
@@ -46,7 +66,7 @@ async function fetchSheet() {
 }
 
 export async function fetchList() {
-const sheet = await fetchSheet();
+const sheetIndex = await fetchSheetIndex();
       const packs = await fetchPacks(); // returns null or array
       const levelToPacks = {};
 
@@ -69,8 +89,8 @@ const sheet = await fetchSheet();
                 const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
                     const level = await levelResult.json();
-const sheetLevel = sheet.find
-    (    row => row.ID == level.id
+const sheetLevel = sheetIndex.get(
+    String(level.id).trim()
 );
 
 return [
