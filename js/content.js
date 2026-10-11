@@ -7,7 +7,7 @@ import { round, score } from './score.js';
 const dir = '/data';
 
 const sheetURL =
-    "https://docs.google.com/spreadsheets/d/1c_tyXFIWhv82d17LwP44cj3dheCEXQLeajvthDDdMzk/gviz/tq?tqx=out:csv&gid=0&tq=select%20C,D,E,F,G,H";";
+    "https://docs.google.com/spreadsheets/d/1c_tyXFIWhv82d17LwP44cj3dheCEXQLeajvthDDdMzk/export?format=csv&gid=0";
 
 /**
  * Fetch and parse Google Sheets CSV data.
