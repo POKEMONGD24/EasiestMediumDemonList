@@ -88,7 +88,16 @@ header .logo {
 }
 header .nav {
     flex: 1;
-    margin-left: 1;
+    display: flex;
+    align-items: center;
+}
+
+header .nav__actions {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding-left: 2rem;
 }
 main {
     height: 0;
