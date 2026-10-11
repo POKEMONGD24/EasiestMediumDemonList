@@ -1,4 +1,3 @@
-
 import { round, score } from './score.js';
 
 /**
@@ -89,6 +88,92 @@ async function fetchSheetIndex() {
     }
 
     return sheetIndexPromise;
+}
+
+/**
+ * Load lightweight level summaries for the normal List page.
+ */
+export async function fetchListSummary() {
+    try {
+        const [result, packs] = await Promise.all([
+            fetch(`${dir}/_list-summary.json`),
+            fetchPacks(),
+        ]);
+
+        if (!result.ok) {
+            throw new Error(`Failed to fetch list summary: ${result.status}`);
+        }
+
+        const summaries = await result.json();
+        const levelToPacks = {};
+
+        if (packs) {
+            packs.forEach(pack => {
+                (pack.levels ?? []).forEach(path => {
+                    (levelToPacks[path] ??= []).push({
+                        name: pack.name,
+                        colour: pack.colour,
+                    });
+                });
+            });
+        }
+
+        return summaries.map(summary => [
+            {
+                ...summary,
+                packs: levelToPacks[summary.path] ?? [],
+                loaded: false,
+            },
+            null,
+        ]);
+    } catch (error) {
+        console.error("Failed to load list summary:", error);
+        return null;
+    }
+}
+
+/**
+ * Load full details for one selected level.
+ */
+export async function fetchLevelDetails(path) {
+    const [result, sheetIndex, packs] = await Promise.all([
+        fetch(`${dir}/${path}.json`),
+        fetchSheetIndex(),
+        fetchPacks(),
+    ]);
+
+    if (!result.ok) {
+        throw new Error(`Failed to fetch ${path}.json: ${result.status}`);
+    }
+
+    const level = await result.json();
+    const sheetLevel = sheetIndex.get(String(level.id).trim());
+    const levelToPacks = {};
+
+    if (packs) {
+        packs.forEach(pack => {
+            (pack.levels ?? []).forEach(levelPath => {
+                (levelToPacks[levelPath] ??= []).push({
+                    name: pack.name,
+                    colour: pack.colour,
+                });
+            });
+        });
+    }
+
+    return {
+        ...level,
+        path,
+        length: sheetLevel?.Length ?? "",
+        tier: sheetLevel?.Tier ?? "",
+        enjoyment: sheetLevel?.Enjoyment ?? "",
+        mdsTier: sheetLevel?.["MDS Tier"] ?? "",
+        packs: levelToPacks[path] ?? [],
+        records: (level.records ?? [])
+            .map(({ hz, ...rest }) => rest)
+            .sort((a, b) => b.percent - a.percent),
+        loaded: true,
+    };
 }
 
 /**

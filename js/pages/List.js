@@ -1,7 +1,7 @@
 import { store } from '../main.js';
 import { embed } from '../util.js';
 import { score } from '../score.js';
-import { fetchEditors, fetchList } from '../content.js';
+import { fetchEditors, fetchListSummary, fetchLevelDetails, } from '../content.js';
  
 import Spinner from '../components/Spinner.js';
 import LevelAuthors from '../components/List/LevelAuthors.js';
@@ -36,7 +36,7 @@ export default {
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="selected = i">
+                            <button @click="selectLevel(i)">
                                 <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
                         </td>
@@ -151,7 +151,7 @@ export default {
                         If you disagree with a ranking, come tell us in the Discord.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we will always keep accepting records for it.
+                        Once a level falls onto the Legacy List, we will keep accepting records for it.
                     </p>
                 </div>
             </div>
@@ -162,6 +162,7 @@ export default {
         editors: [],
         search: "",
         loading: true,
+        loadingLevel: false,
         selected: 0,
         errors: [],
         roleIconMap,
@@ -178,14 +179,20 @@ computed: {
 },
 level() {
     if (!this.filteredList || !this.filteredList[this.selected]) {
-        return {};
+        return null;
     }
-    return this.filteredList[this.selected][0];
+
+    const level = this.filteredList[this.selected][0];
+    return level?.loaded ? level : null;
 }
 },
     async mounted() {
         // Hide loading spinner
-        this.list = await fetchList();
+        this.list = await fetchListSummary();
+
+if (this.list && this.list.length > 0) {
+    await this.selectLevel(0);
+}
         this.editors = await fetchEditors();
 
         // Error handling
@@ -209,15 +216,43 @@ window.addEventListener('keydown', (e) => {
     if (!this.filteredList || this.filteredList.length === 0) return;
 
     if (e.key === 'ArrowDown') {
-        this.selected = Math.min(this.filteredList.length - 1, this.selected + 1);
+        this.selectLevel(
+            Math.min(this.filteredList.length - 1, this.selected + 1)
+        );
     } else if (e.key === 'ArrowUp') {
-        this.selected = Math.max(0, this.selected - 1);
+        this.selectLevel(
+            Math.max(0, this.selected - 1)
+        );
     }
 });
         this.loading = false;
     },
-    methods: {
-        embed,
-        score,
+methods: {
+    embed,
+    score,
+
+    async selectLevel(index) {
+        this.selected = index;
+
+        const entry = this.filteredList[index];
+        if (!entry || !entry[0] || entry[0].loaded) return;
+
+        const summary = entry[0];
+        this.loadingLevel = true;
+
+        try {
+            const details = await fetchLevelDetails(summary.path);
+
+            const listIndex = this.list.indexOf(entry);
+            if (listIndex !== -1) {
+                this.list.splice(listIndex, 1, [details, null]);
+            }
+        } catch (error) {
+            console.error("Failed to load selected level:", error);
+            this.errors.push(`Failed to load level: ${summary.name}`);
+        } finally {
+            this.loadingLevel = false;
+        }
     },
+},
 };

@@ -1,0 +1,41 @@
+
+name: Generate list summary
+
+on:
+  push:
+    paths:
+      - 'data/**'
+      - 'scripts/generate-list-summary.py'
+      - '.github/workflows/generate-list-summary.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Generate summary
+        run: python scripts/generate-list-summary.py
+
+      - name: Commit summary if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/_list-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update list summary [skip ci]"
+            git push
+          else
+            echo "Summary is already up to date."
+          fi
