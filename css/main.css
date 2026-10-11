@@ -68,15 +68,15 @@ main {
 header {
     padding: 0;
     display: flex;
-    padding-inline: calc(25vw - 7rem);
+    padding-inline: calc(25vw - 10rem);
     height: 4rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
 @media screen and (min-width: 1366px) {
     header {
-        display: flex;
-        padding-inline: 4rem;
+        display: grid;
+        padding-inline: 0;
     }
 }
 header .logo {
