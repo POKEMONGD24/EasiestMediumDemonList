@@ -23,14 +23,13 @@ export default {
         <main v-else class="page-list">
             <div class="list-container">
 
-<div class="list-search">
-    <input
-        type="text"
-        v-model="search"
-        placeholder="Search levels..."
-        aria-label="Search levels"
-    />
-</div>
+<input
+    class="list-search"
+    type="text"
+    v-model="search"
+    placeholder="Search levels..."
+    aria-label="Search levels"
+/>
                 <table class="list" v-if="list">
 <tr v-for="([level, err], i) in filteredList">
                         <td class="rank">
