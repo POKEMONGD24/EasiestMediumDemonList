@@ -76,7 +76,7 @@ header {
 @media screen and (min-width: 1366px) {
     header {
         display: flex;
-        padding-inline: 2rem;
+        padding-inline: 0;
     }
 }
 header .logo {
