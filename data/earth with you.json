@@ -33,7 +33,7 @@
         },
         {
             "user": "Breaker",
-            "link": "https://youtu.be/6p5Xyu7n4vc?is=yRqshbxjmkX2eyX0",
+            "link": "https://youtu.be/6p5Xyu7n4vc",
             "percent": 100,
             "hz": " - "
         },
@@ -69,6 +69,12 @@
         },
         {
             "user": "huggies",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "InideuX",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "

@@ -32,6 +32,7 @@
         },
         {
             "user": "red",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -73,6 +74,12 @@
         },
         {
             "user": "Excryst",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "InideuX",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "

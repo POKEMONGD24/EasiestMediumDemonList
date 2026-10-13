@@ -4,7 +4,7 @@
     "author": "rply",
     "creators": ["rply", "ivyteal"],
     "verifier": "rply",
-    "verification": "https://youtu.be/NV7sc1wqy3w?si=cINOsNU2_N43Aa-l",
+    "verification": "https://youtu.be/NV7sc1wqy3w",
     "desc": "desc",
     "tier": "",
     "enjoyment": "",
@@ -79,6 +79,12 @@
         },
         {
             "user": "Liverlan",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "InideuX",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
