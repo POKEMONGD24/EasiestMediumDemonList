@@ -14,19 +14,7 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "FireBird",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "DIUSED",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Ireane",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -50,36 +38,6 @@
             "hz": " - "
         },
         {
-            "user": "Abeginner",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "stickch",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Big",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Anomaly",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "sigmaexe",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "ZircleZ",
             "link": "RecordLink",
             "percent": 100,
@@ -87,6 +45,7 @@
         },
         {
             "user": "DaShahzad",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -97,24 +56,8 @@
             "hz": " - "
         },
         {
-            "user": "AerialShard",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "Breaker",
             "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Servall",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Kuzdavo",
             "percent": 100,
             "hz": " - "
         },
@@ -131,22 +74,8 @@
             "hz": " - "
         },
         {
-            "user": "Yefan",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "Excryst",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "guyyyy8223",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "cupcake",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -169,33 +98,14 @@
             "hz": " - "
         },
         {
-            "user": "rommydash",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "MrPoopyBurger",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "nukakulah",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "krii",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "CoriOshawott",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "bonezizdum",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -206,108 +116,14 @@
             "hz": " - "
         },
         {
-            "user": "dashy6283",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Bladey",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Compooper",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "Wide Shady",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "ToxicAgent",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "RoboBear04",
-            "percent": 100,
-            "hz": " - "    
-        },
-        {
-            "user": "Cyber",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Josephone",
-            "percent": 100,
-            "hz": "-"
-        },
-        {
-            "user": "Music addict",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "JoacoWoop",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "xyne",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "wolven",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Boo",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "InideuX",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "NeXeGMD",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "AgentDarius",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "AMB1008",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Maverix",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Blue",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Speedbreaker",
-            "link": "https://youtu.be/_9GpIYVSqAM",
-            "percent": 100,
-            "hz": "-"
-        },
-        {
-            "user": "BlissBeeasy",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -325,42 +141,6 @@
         },
         {
             "user": "LifelessComputer",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "StellarGradient",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Kiko7535",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Bottomless",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "CS69",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Kimichii",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Sxmbioz",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -403,6 +183,12 @@
         },
         {
             "user": "Liverlan",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Applljuice",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
