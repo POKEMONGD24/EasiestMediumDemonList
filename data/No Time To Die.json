@@ -56,7 +56,8 @@
             "hz": " - "
         },
         {
-            "user": "DaShahzad", 
+            "user": "DaShahzad",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -122,6 +123,42 @@
         },
         {
             "user": "Excryst",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "DIUSED",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Arcadie",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "tomm",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Chonkey",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Sir_Manface",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "

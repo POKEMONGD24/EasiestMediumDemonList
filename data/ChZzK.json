@@ -13,12 +13,7 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "rommydash",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
+
         {
             "user": "nukakulah",
             "link": "RecordLink",
@@ -27,12 +22,6 @@
         },
         {
             "user": "ZircleZ",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "tetrade",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -50,12 +39,6 @@
             "hz": " - "
         },
         {
-            "user": "jkrt2",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "lightning",
             "link": "RecordLink",
             "percent": 100,
@@ -63,30 +46,6 @@
         },
         {
             "user": "AceK58",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "StellarGradient",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "bula",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Kruxxdd",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "kuba",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -116,103 +75,7 @@
             "hz": " - "
         },
         {
-            "user": "JoacoPe",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "yzae",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Starfruit",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Maverix",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "AerialShard",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Servall",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Yefan",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "cupcake",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "dashy6283",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "RoboBear04",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "MrPoopyBurger",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Jarzst",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "bonezizdum",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "CoriOshawott",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "xyne",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "krii",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Big",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
