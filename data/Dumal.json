@@ -26,21 +26,6 @@
             "hz": " - "
         },
         {
-            "user": "lunesm",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Z2.0",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "FirebirdGD",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "WKGames",
             "link": "RecordLink",
             "percent": 100,
@@ -90,6 +75,12 @@
         },
         {
             "user": "yellowbutterflyman",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "tomm", 
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
