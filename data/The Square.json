@@ -1,0 +1,47 @@
+{
+    "id": 114497031,
+    "name": "The Square",
+    "author": "Kyoutatan",
+    "creators": [],
+    "verifier": "Kyoutatan",
+    "verification": "https://youtu.be/M1inB97KmyQ",
+    "desc": "desc",
+    "tier": "",
+    "enjoyment": "",
+    "length": "",
+    "mdsTier": "",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "huggies",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Breaker",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Liverlan",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        }
+    ]
+}
