@@ -125,6 +125,21 @@ if (entry.action === 'Demoted') {
 
     return entry.detail || 'List updated.';
 },
+        togglePageJump(ellipsis) {
+    this.activeEllipsis =
+        this.activeEllipsis === ellipsis ? '' : ellipsis;
+    this.pageJump = '';
+},
+
+jumpToPage() {
+    const page = Number(this.pageJump);
+
+    if (Number.isInteger(page) && page >= 1 && page <= this.pageCount) {
+        this.goToPage(page);
+        this.activeEllipsis = '';
+        this.pageJump = '';
+    }
+},
         goToPage(page) {
             this.currentPage = Math.min(this.pageCount, Math.max(1, page));
         },
