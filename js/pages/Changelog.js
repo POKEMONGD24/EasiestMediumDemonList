@@ -181,19 +181,52 @@ jumpToPage() {
                     </li>
                 </ol>
 
-                <nav v-if="!loading && !error && pageCount > 1" class="changelog-pagination" aria-label="Changelog pages">
-                    <button class="changelog-page-button" :disabled="currentPage === 1" @click="goToPage(currentPage - 1)">← Previous</button>
-                    <button
-                        v-for="page in pageCount"
-                        :key="page"
-                        class="changelog-page-button"
-                        :class="{ 'is-active': currentPage === page }"
-                        :aria-current="currentPage === page ? 'page' : null"
-                        @click="goToPage(page)"
-                    >{{ page }}</button>
-                    <button class="changelog-page-button" :disabled="currentPage === pageCount" @click="goToPage(currentPage + 1)">Next →</button>
-                </nav>
-            </section>
-        </main>
+<nav v-if="!loading && !error && pageCount > 1" class="changelog-pagination" aria-label="Changelog pages">
+    <button
+        class="changelog-page-button"
+        :disabled="currentPage === 1"
+        @click="goToPage(currentPage - 1)"
+    >← Previous</button>
+
+    <template v-for="item in paginationItems" :key="item">
+        <button
+            v-if="typeof item === 'number'"
+            class="changelog-page-button"
+            :class="{ 'is-active': currentPage === item }"
+            :aria-current="currentPage === item ? 'page' : null"
+            @click="goToPage(item)"
+        >{{ item }}</button>
+
+        <span v-else class="changelog-ellipsis">
+            <button
+                class="changelog-page-button"
+                @click="togglePageJump(item)"
+            >...</button>
+
+            <form
+                v-if="activeEllipsis === item"
+                class="changelog-page-jump"
+                @submit.prevent="jumpToPage"
+            >
+                <input
+                    v-model="pageJump"
+                    type="number"
+                    min="1"
+                    :max="pageCount"
+                    placeholder="Page"
+                    aria-label="Page number"
+                    required
+                />
+                <button class="changelog-page-button" type="submit">Go</button>
+            </form>
+        </span>
+    </template>
+
+    <button
+        class="changelog-page-button"
+        :disabled="currentPage === pageCount"
+        @click="goToPage(currentPage + 1)"
+    >Next →</button>
+</nav>
     `,
 };
