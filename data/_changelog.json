@@ -747,18 +747,6 @@
     "id": 343,
     "date": "2025-10-02",
     "level": "Dynamic Drive",
-    "action": "Placed",
-    "fromRank": null,
-    "toRank": 1,
-    "fromList": null,
-    "toList": "Main List",
-    "aboveLevel": null,
-    "belowLevel": "Liminal Dystopia"
-  },
-  {
-    "id": 342,
-    "date": "2025-10-02",
-    "level": "Dynamic Drive",
     "action": "Removed",
     "fromRank": null,
     "toRank": null,
@@ -766,6 +754,18 @@
     "toList": "Legacy List",
     "aboveLevel": null,
     "belowLevel": null
+  },
+  {
+    "id": 342,
+    "date": "2025-10-02",
+    "level": "Dynamic Drive",
+    "action": "Placed",
+    "fromRank": null,
+    "toRank": 1,
+    "fromList": null,
+    "toList": "Main List",
+    "aboveLevel": null,
+    "belowLevel": "Liminal Dystopia"
   },
   {
     "id": 341,
@@ -2144,8 +2144,8 @@
     "toRank": 104,
     "fromList": null,
     "toList": "Extended List",
-    "aboveLevel": null,
-    "belowLevel": "Become a Monster"
+    "aboveLevel": "Become a Monster",
+    "belowLevel": null
   },
   {
     "id": 226,
@@ -2624,8 +2624,8 @@
     "toRank": 92,
     "fromList": null,
     "toList": "Extended List",
-    "aboveLevel": null,
-    "belowLevel": "Two Steps Back"
+    "aboveLevel": "Two Steps Back",
+    "belowLevel": null
   },
   {
     "id": 186,
@@ -3320,8 +3320,8 @@
     "toRank": 100,
     "fromList": null,
     "toList": "Extended List",
-    "aboveLevel": null,
-    "belowLevel": "Electric Algal Bloom"
+    "aboveLevel": "Electric Algal Bloom",
+    "belowLevel": null
   },
   {
     "id": 128,
@@ -4088,8 +4088,8 @@
     "toRank": 58,
     "fromList": "Legacy List",
     "toList": "Main List",
-    "aboveLevel": null,
-    "belowLevel": "Electric Algal Bloom"
+    "aboveLevel": "Electric Algal Bloom",
+    "belowLevel": null
   },
   {
     "id": 64,
