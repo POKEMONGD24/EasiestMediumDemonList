@@ -167,7 +167,7 @@ export async function fetchLevelDetails(path) {
         length: sheetLevel?.Length ?? "",
         tier: sheetLevel?.Tier ?? "",
         enjoyment: sheetLevel?.Enjoyment ?? "",
-        mdsTier: sheetLevel?.["MDS Tier"] ?? "",
+        mdsTier: sheetLevel?.["MDS Tier (~ means not enough ops)"] ?? "",
         packs: levelToPacks[path] ?? [],
         records: (level.records ?? [])
             .map(({ hz, ...rest }) => rest)
