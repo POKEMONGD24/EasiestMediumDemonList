@@ -89,6 +89,14 @@ if (entry.action === 'Moved') {
     return `moved from #${from} to #${to}${position}.`;
 }
 
+if (entry.action === 'Promoted') {
+    return `has been moved to #${to}${entry.toList ? ` on the ${entry.toList}` : ''}${position} due to promotion.`;
+}
+
+if (entry.action === 'Demoted') {
+    return `has been moved to the ${entry.toList || 'Legacy List'} due to demotion.`;
+}
+
     return entry.detail || 'List updated.';
 },
         goToPage(page) {
