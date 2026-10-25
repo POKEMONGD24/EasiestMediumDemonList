@@ -19,11 +19,6 @@
             "hz": " - "
         },
         {
-            "user": "ttrr",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "Yoshi",
             "link": "RecordLink",
             "percent": 100,
@@ -61,6 +56,12 @@
         },
         {
             "user": "InideuX",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AndreLac",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "

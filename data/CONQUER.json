@@ -25,18 +25,6 @@
             "hz": " - "
         },
         {
-            "user": "StarfruitGamer",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Clood",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "WKGames",
             "link": "RecordLink",
             "percent": 100,
@@ -86,6 +74,12 @@
         },
         {
             "user": "Liverlan",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AndreLac",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
