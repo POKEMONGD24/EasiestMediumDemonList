@@ -227,7 +227,7 @@ export async function fetchList() {
                             length: sheetLevel?.Length ?? "",
                             tier: sheetLevel?.Tier ?? "",
                             enjoyment: sheetLevel?.Enjoyment ?? "",
-                            mdsTier: sheetLevel?.["MDS Tier"] ?? "",
+                            mdsTier: sheetLevel?.["MDS Tier (~ means not enough ops)"] ?? "",
 
                             // Inject pack membership.
                             packs: levelToPacks[path] ?? [],
