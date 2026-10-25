@@ -4,6 +4,8 @@ export default {
         search: '',
         currentPage: 1,
         pageSize: 10,
+        pageJump: '',
+        activeEllipsis: '',
         loading: true,
         error: '',
     }),
