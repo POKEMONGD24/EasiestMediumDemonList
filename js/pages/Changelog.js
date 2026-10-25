@@ -67,15 +67,14 @@ formatDate(date) {
 description(entry) {
     const from = entry.fromRank;
     const to = entry.toRank;
-
-    const position = (entry.aboveLevel && entry.belowLevel)
-        ? ` between ${entry.aboveLevel} and ${entry.belowLevel}`
-        : entry.aboveLevel
-            ? ` below ${entry.aboveLevel}`
-            : entry.belowLevel
-                ? ` above ${entry.belowLevel}`
-                : '';
-
+    
+const position = (entry.aboveLevel && entry.belowLevel)
+    ? ` below ${entry.aboveLevel} and above ${entry.belowLevel}`
+    : entry.aboveLevel
+        ? ` below ${entry.aboveLevel}`
+        : entry.belowLevel
+            ? ` above ${entry.belowLevel}`
+            : '';
 
 if (entry.action === 'Placed') {
     return `placed at #${to}${position}.`;
