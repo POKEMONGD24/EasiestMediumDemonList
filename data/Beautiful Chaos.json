@@ -1,8 +1,8 @@
 {
     "id": 130414,
     "name": "Beautiful Chaos",
-    "author": "- (darnoc2)",
-    "creators": [],
+    "author": "darnoc2",
+    "creators": ["TheRealDarnoc"],
     "verifier": "TheRealDarnoc",
     "verification": "https://youtu.be/OhlqeM-C_Q8",
     "desc": "desc",
@@ -11,7 +11,7 @@
     "length": "",
     "mdsTier": "",
     "percentToQualify": 100,
-    "password": "Free Copy",
+    "password": "Not Copyable",
     "records": [
         {
             "user": "Breaker", 

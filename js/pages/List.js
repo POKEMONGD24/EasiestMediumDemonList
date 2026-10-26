@@ -71,7 +71,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <p>{{ level.password || 'Free Copy' }}</p>
                         </li>
 </ul>
     <ul class="stats extra-stats">

@@ -96,7 +96,7 @@ export default {
                     </li>
                     <li>
                         <div class="type-title-sm">Password</div>
-                        <p>{{ selectedPackLevels[selectedLevel][0].level.password || 'Free to Copy' }}</p>
+                        <p>{{ selectedPackLevels[selectedLevel][0].level.password || 'Free Copy' }}</p>
                     </li>
                     </ul>
 
