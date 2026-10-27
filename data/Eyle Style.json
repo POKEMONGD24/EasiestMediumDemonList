@@ -1,0 +1,47 @@
+{
+    "id": 133279753,
+    "name": "Eyle Style",
+    "author": "PAHC",
+    "creators": ["orots", "EVILF", "Arcadiac", "Tro5", "Syxpher", "razGMD", "charlesmot", "1212DENIS"],
+    "verifier": "1212DENIS",
+    "verification": "https://youtu.be/11HKrcmirOM",
+    "desc": "desc",
+    "tier": "",
+    "enjoyment": "",
+    "length": "",
+    "mdsTier": "",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Breaker",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AndreLac",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Liverlan",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        }
+    ]
+}
