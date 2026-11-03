@@ -15,12 +15,19 @@
     "records": [
         {
             "user": "DIUSED",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "l1ghtning",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
             "user": "FBITB",
-            "link": "RecordLink",
+            "link": "https://youtu.be/sYKTldDvlM4",
             "percent": 100,
             "hz": " - "
         },
@@ -31,13 +38,13 @@
             "hz": " - "
         },
         {
-            "user": "sheeb",
+            "user": "Bobbyp02",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "tomm",
+            "user": "Chonkey",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -49,13 +56,25 @@
             "hz": " - "
         },
         {
-            "user": "wassas1",
+            "user": "LifelessComputer",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "Breaker",
+            "user": "sheeb",
+            "link": "https://youtu.be/4PMLn4Gy54c",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "tomm",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "wassas1",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -67,20 +86,25 @@
             "hz": " - "
         },
         {
+            "user": "CoriOshawott",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Breaker",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Identity",
+            "link": "https://youtu.be/XEOveutJzKg",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
             "user": "WKGames",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        
-        {
-            "user": "LifelessComputer",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "Bobbyp02",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -98,7 +122,19 @@
             "hz": " - "
         },
         {
+            "user": "Beulraeki",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
             "user": "AceK58",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "grasshopperhz",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
