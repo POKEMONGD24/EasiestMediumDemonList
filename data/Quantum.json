@@ -14,7 +14,8 @@
     "password": "Free Copy",
     "records": [
         {
-            "user": "red", 
+            "user": "red",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -32,6 +33,12 @@
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Chonkey",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
