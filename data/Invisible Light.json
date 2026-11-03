@@ -50,7 +50,7 @@
         },
         {
             "user": "Z2.0",
-            "link": "https://youtu.be/cVqGyMiDp9M?is=88TxkJV119L-l4FU",
+            "link": "https://youtu.be/cVqGyMiDp9M",
             "percent": 100,
             "hz": " - "
         },
@@ -147,6 +147,12 @@
         },
         {
             "user": "InideuX",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Chonkey",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
