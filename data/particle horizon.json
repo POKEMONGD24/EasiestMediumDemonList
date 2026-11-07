@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "Svallux",
     "verification": "https://youtu.be/EImcRv8Tjlo",
-    "desc": "desc",
+    "desc": "How Many Particles Can you shove into a GD level?",
     "tier": "",
     "enjoyment": "",
     "length": "",
@@ -51,6 +51,12 @@
         },
         {
             "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "tomm",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
