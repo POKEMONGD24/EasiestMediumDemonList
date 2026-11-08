@@ -1,0 +1,47 @@
+{
+    "id": 139393243,
+    "name": "i have stolen",
+    "author": "AranyaDeCueva",
+    "creators": ["Mendixz", "AranyaDeCueva",],
+    "verifier": "AranyaDeCueva",
+    "verification": "https://youtu.be/FDJmPiTsRfE",
+    "desc": "desc",
+    "tier": "",
+    "enjoyment": "",
+    "length": "",
+    "mdsTier": "",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "InideuX",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Breaker",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "ZircleZ",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Liverlan",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "WKGames",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        }
+    ]
+}
