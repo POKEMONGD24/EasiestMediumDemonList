@@ -20,7 +20,7 @@
         },
         {
             "user": "sheeb",
-            "link": "https://www.youtube.com/watch?v=RwbWBFHpR00",
+            "link": "https://youtu.be/RwbWBFHpR00",
             "percent": 100,
             "hz": " - "
         },
@@ -158,6 +158,12 @@
         },
         {
             "user": "Applljuice",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "drei01",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
