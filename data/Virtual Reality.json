@@ -26,6 +26,7 @@
         },
         {
             "user": "Mooncraft",
+            "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
@@ -122,6 +123,12 @@
         {
             "user": "drei01",
             "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "sheeb",
+            "link": "https://youtu.be/hdsn0l1JJ4k",
             "percent": 100,
             "hz": " - "
         }
