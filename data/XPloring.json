@@ -1,7 +1,7 @@
 {
     "id": 116420205,
     "name": "XPloring",
-    "author": "Mrphn",
+    "author": "Viprinius",
     "creators": [],
     "verifier": "nikver19",
     "verification": "https://youtu.be/fjXhRG-vL8c",
@@ -57,6 +57,12 @@
         },
         {
             "user": "AndreLac",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "huggies",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
