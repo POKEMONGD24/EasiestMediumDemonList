@@ -1,20 +1,25 @@
 {
-    "id": 71114971,
-    "name": "DEEP BLUE SEA",
-    "author": "Custi",
+    "id": 105528721,
+    "name": "Deep Blue Sea (TimeRed) (D)",
+    "author": "TimeRed",
     "creators": [],
-    "verifier": "Custi",
-    "verification": "https://youtu.be/S0LzrM-BAzE",
+    "verifier": "TimeRed",
+    "verification": "https://youtu.be/hNP7np3Cwi4",
     "desc": "desc",
     "tier": "",
     "enjoyment": "",
     "length": "",
-    "mdsTier": "",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-         {
+        {
             "user": "Breaker",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        }, 
+        {
+            "user": "WKGames",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -26,13 +31,13 @@
             "hz": " - "
         },
         {
-            "user": "scape167",
+            "user": "Sir_Manface",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "WKGames",
+            "user": "Starlighty",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -44,19 +49,13 @@
             "hz": " - "
         },
         {
-            "user": "Sir_Manface",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
-            "user": "DIUSED",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        },
-        {
             "user": "AndreLac",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "Liverlan",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -68,7 +67,7 @@
             "hz": " - "
         },
         {
-            "user": "Liverlan",
+            "user": "InideuX",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "

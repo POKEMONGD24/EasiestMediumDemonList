@@ -1,25 +1,20 @@
 {
-    "id": 105528721,
-    "name": "Deep Blue Sea (D)",
-    "author": "TimeRed",
+    "id": 71114971,
+    "name": "DEEP BLUE SEA (Custi)",
+    "author": "Custi",
     "creators": [],
-    "verifier": "TimeRed",
-    "verification": "https://youtu.be/hNP7np3Cwi4",
+    "verifier": "Custi",
+    "verification": "https://youtu.be/S0LzrM-BAzE",
     "desc": "desc",
     "tier": "",
     "enjoyment": "",
     "length": "",
+    "mdsTier": "",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-        {
+         {
             "user": "Breaker",
-            "link": "RecordLink",
-            "percent": 100,
-            "hz": " - "
-        }, 
-        {
-            "user": "WKGames",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -31,13 +26,13 @@
             "hz": " - "
         },
         {
-            "user": "Sir_Manface",
+            "user": "scape167",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "Starlighty",
+            "user": "WKGames",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -49,13 +44,19 @@
             "hz": " - "
         },
         {
-            "user": "AndreLac",
+            "user": "Sir_Manface",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
         },
         {
-            "user": "Liverlan",
+            "user": "DIUSED",
+            "link": "RecordLink",
+            "percent": 100,
+            "hz": " - "
+        },
+        {
+            "user": "AndreLac",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "
@@ -67,7 +68,7 @@
             "hz": " - "
         },
         {
-            "user": "InideuX",
+            "user": "Liverlan",
             "link": "RecordLink",
             "percent": 100,
             "hz": " - "

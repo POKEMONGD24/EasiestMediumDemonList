@@ -920,7 +920,7 @@
     "toRank": 149,
     "fromList": null,
     "toList": "Extended List",
-    "aboveLevel": "DEEP BLUE SEA",
+    "aboveLevel": "DEEP BLUE SEA (Custi)",
     "belowLevel": "DXRK BLUE"
   },
   {
@@ -1196,7 +1196,7 @@
     "toRank": 137,
     "fromList": null,
     "toList": "Extended List",
-    "aboveLevel": "DEEP BLUE SEA",
+    "aboveLevel": "DEEP BLUE SEA (Custi)",
     "belowLevel": "RobTop"
   },
   {
@@ -1208,7 +1208,7 @@
     "toRank": 138,
     "fromList": null,
     "toList": "Extended List",
-    "aboveLevel": "DEEP BLUE SEA",
+    "aboveLevel": "DEEP BLUE SEA (Custi)",
     "belowLevel": "Banger"
   },
   {
@@ -1412,7 +1412,7 @@
     "toRank": 120,
     "fromList": null,
     "toList": "Extended List",
-    "aboveLevel": "DEEP BLUE SEA",
+    "aboveLevel": "DEEP BLUE SEA (Custi)",
     "belowLevel": "Pokemon Showdown"
   },
   {
@@ -1610,7 +1610,7 @@
   {
     "id": 271,
     "date": "2025-08-30",
-    "level": "DEEP BLUE SEA",
+    "level": "DEEP BLUE SEA (Custi)",
     "action": "Placed",
     "fromRank": null,
     "toRank": 107,
@@ -3110,7 +3110,7 @@
   {
     "id": 146,
     "date": "2025-04-04",
-    "level": "Deep Blue Sea",
+    "level": "Deep Blue Sea (TimeRed)",
     "action": "Removed",
     "fromRank": null,
     "toRank": null,
@@ -3213,7 +3213,7 @@
     "fromList": "Main List",
     "toList": "Main List",
     "aboveLevel": "Hyperstellar",
-    "belowLevel": "Deep Blue Sea"
+    "belowLevel": "Deep Blue Sea (TimeRed)"
   },
   {
     "id": 137,
@@ -3638,7 +3638,7 @@
   {
     "id": 102,
     "date": "2025-02-10",
-    "level": "Deep Blue Sea",
+    "level": "Deep Blue Sea (TimeRed)",
     "action": "Placed",
     "fromRank": null,
     "toRank": 26,
