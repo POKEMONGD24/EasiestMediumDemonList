@@ -1694,7 +1694,7 @@
   {
     "id": 264,
     "date": "2025-08-25",
-    "level": "Golden Haze (dhk2725)",
+    "level": "Golden Haze",
     "action": "Moved",
     "fromRank": 90,
     "toRank": 63,
@@ -2013,7 +2013,7 @@
     "fromList": "Main List",
     "toList": "Extended List",
     "aboveLevel": "Dip",
-    "belowLevel": "Golden Haze (dhk2725)"
+    "belowLevel": "Golden Haze"
   },
   {
     "id": 237,
@@ -2594,7 +2594,7 @@
   {
     "id": 189,
     "date": "2025-07-08",
-    "level": "Golden Haze (dhk2725)",
+    "level": "Golden Haze",
     "action": "Placed",
     "fromRank": null,
     "toRank": 74,
@@ -2613,7 +2613,7 @@
     "fromList": null,
     "toList": "Main List",
     "aboveLevel": "Soar",
-    "belowLevel": "Golden Haze (dhk2725)"
+    "belowLevel": "Golden Haze"
   },
   {
     "id": 187,
